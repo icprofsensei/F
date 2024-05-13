@@ -1,0 +1,116 @@
+name,correlation_type,complex_compound,prevalence_in_media
+Agar,1,1,883
+Malt extract,1,1,57
+Rolled oats,1,1,1
+Starch,1,1,146
+N-Z amine,1,1,11
+V8 canned vegetable juice,1,1,1
+Distilled water,1,0,2766
+(NH4)2SO4,1,0,389
+Glucose,1,0,563
+Oatmeal,1,1,5
+Oatmeal agar,1,1,2
+Dextrose,1,0,25
+L-Asparagine,1,0,17
+Sucrose,1,0,55
+Sodium pyruvate,1,0,86
+Middlebrook 7H10 agar,1,1,2
+Peptone,1,1,309
+KNO3,1,0,158
+N-Acetylglucosamine,1,0,25
+Mannitol,1,0,22
+Bacto Middlebrook 7H10 agar,1,1,2
+CaCl2 x 7 H2O,1,0,3
+Beef extract,1,1,74
+Na-malate,1,0,3
+HEPES,1,0,65
+Oat flakes,1,1,3
+alpha-lipoic acid,1,0,19
+Nicotine amide,1,0,20
+Folic acid,1,0,759
+Double distilled water,1,0,20
+Nicotinic acid,1,0,834
+Soil extract,1,1,6
+Ferric citrate,1,0,28
+Calcium malate,1,0,1
+Thiamine HCl,1,0,706
+Galactose,1,0,3
+NaNO3,1,0,185
+MgSO4,1,0,47
+Raffinose,1,0,2
+Sea water,1,0,54
+Biotin,1,0,849
+Thiamine-HCl x 2 H2O,1,0,226
+D(+)-Glucose,1,0,12
+Tris-HCl buffer,1,0,24
+Yeast extract-malt extract agar,1,1,3
+Na-tungstate x 2 H2O,1,0,2
+FeSO4 x 5 H2O,1,0,2
+Betaine x H2O,1,0,4
+Czapek-Dox liquid medium,1,0,1
+D-Galactose,1,0,1
+NaS2O3 x 5 H2O,0,0,4
+Yeast extract,0,1,1797
+DL-Tryptophan,0,0,1
+Sake,0,0,1
+PIPES,0,0,29
+GYP-sodium acetate-mineral salts broth,0,1,1
+Resazurin,0,0,452
+Histidine,0,0,2
+NaBr,0,0,87
+Mueller-Hinton broth,0,1,1
+Indole,0,0,0
+Brain heart infusion,0,1,15
+Ground beef,0,1,11
+SrCl2 x 6 H2O,0,0,77
+Brain heart infusion broth,0,1,9
+Sodium acetate,0,0,112
+NaOH,0,0,310
+Bacto Soytone,0,1,3
+Cellobiose,0,0,58
+FeCl3 x 6 H2O,0,0,167
+CaCl2 x 2 H2O,0,0,1569
+Aminoacids,0,1,3
+IMDM-Medium,0,1,2
+Na-(DL)-lactate,0,0,1
+Na-formate,0,0,30
+L-Cysteine HCl,0,0,22
+Na2S2O3 x 5 H2O,0,0,168
+NiCl2 x 6 H2O,0,0,1117
+FeSO4,0,0,18
+Proteose peptone no. 3,0,1,33
+D-Glucose,0,0,128
+KBr,0,0,79
+Fe(NH4)2(SO4)2 x 6 H2O,0,0,93
+KCl,0,0,995
+Bacto peptone,0,1,98
+Na2HPO4,0,0,117
+Tryptone,0,1,232
+Na2CO3,0,0,465
+NaHCO3,0,0,806
+Trypticase soy broth,0,1,37
+(NH4)3 citrate,0,0,5
+L-Cystine,0,0,5
+GAM broth,0,1,6
+Sulfur,0,0,123
+Liver extract,0,1,2
+KH2PO4,0,0,1345
+MnSO4 x H2O,0,0,334
+Urea,0,0,18
+Swine serum,0,1,1
+DNA,0,1,1
+NH4Cl,0,0,1112
+PPLO broth,0,1,10
+Lab-Lemco beef extract,0,1,7
+Na-acetate,0,0,155
+CMRL 1066,0,1,5
+Horse blood,0,1,16
+Fetal bovine serum,0,1,19
+Phytone peptone,0,1,9
+Na2S x 9 H2O,0,0,768
+MgCl2 x 6 H2O,0,0,1026
+Sodium resazurin,0,0,477
+Tween 80,0,0,50
+Trypticase peptone,0,1,165
+Columbia agar base,0,1,7
+L-Cysteine HCl x H2O,0,0,483
