@@ -6,7 +6,7 @@ from sklearn.decomposition import PCA
 import matplotlib.pyplot as plt
 from scipy import stats
 import csv
-with open('prok_ing.csv', 'r') as file:
+with open('clean.csv', 'r') as file:
     csv_reader = csv.reader(file)
     ncol = len(next(csv_reader))
 
