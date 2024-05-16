@@ -1,48 +1,49 @@
-{'comparison': ['CaCO3', 'protein_coding_genes'], 'correl': 0.2616574445935558, 'significance': 7.181500275210334e-180}
-{'comparison': ['Agar', 'protein_coding_genes'], 'correl': 0.2557047971740108, 'significance': 1.3529242221505738e-171}
+{'comparison': ['Agar', 'protein_coding_genes'], 'correl': 0.340705136174574, 'significance': 0.0}
+{'comparison': ['CaCO3', 'protein_coding_genes'], 'correl': 0.26000968705423677, 'significance': 1.4743523898717082e-177}
 {'comparison': ['147', 'protein_coding_genes'], 'correl': 0.22496520084635563, 'significance': 2.9225706921674866e-132}
 {'comparison': ['Rolled oats', 'protein_coding_genes'], 'correl': 0.1821498203991766, 'significance': 1.3063961959244593e-86}
-{'comparison': ['Malt extract', 'protein_coding_genes'], 'correl': 0.1718033182452212, 'significance': 4.061945429657596e-77}
-{'comparison': ['Starch', 'protein_coding_genes'], 'correl': 0.15305568191809396, 'significance': 2.1105937394604642e-61}
-{'comparison': ['Glucose', 'protein_coding_genes'], 'correl': 0.144034181565085, 'significance': 1.635915192710459e-54}
-{'comparison': ['N-Z amine', 'protein_coding_genes'], 'correl': 0.10429315840228037, 'significance': 2.9002634397907606e-29}
-{'comparison': ['Oatmeal', 'protein_coding_genes'], 'correl': 0.09134523004801977, 'significance': 8.391315851486727e-23}
+{'comparison': ['Malt extract', 'protein_coding_genes'], 'correl': 0.18016637889234202, 'significance': 9.581388704111535e-85}
+{'comparison': ['Starch', 'protein_coding_genes'], 'correl': 0.16077612692268148, 'significance': 1.2094243493540193e-67}
+{'comparison': ['Glucose', 'protein_coding_genes'], 'correl': 0.13451769099392552, 'significance': 1.0297423038124974e-47}
+{'comparison': ['N-Z amine', 'protein_coding_genes'], 'correl': 0.10435264406718314, 'significance': 2.696321292840329e-29}
+{'comparison': ['Oatmeal', 'protein_coding_genes'], 'correl': 0.09140915148118439, 'significance': 7.834887512614878e-23}
 {'comparison': ['1209', 'protein_coding_genes'], 'correl': 0.07995871790195347, 'significance': 7.962965709612073e-18}
-{'comparison': ['L-Asparagine', 'protein_coding_genes'], 'correl': 0.046197437879601455, 'significance': 6.92149193382876e-07}
-{'comparison': ['Dextrose', 'protein_coding_genes'], 'correl': 0.04186320394435884, 'significance': 6.877520185695897e-06}
-{'comparison': ['Sucrose', 'protein_coding_genes'], 'correl': 0.026440241159650164, 'significance': 0.0045145079594487575}
-{'comparison': ['4059', 'protein_coding_genes'], 'correl': 0.022658462457890795, 'significance': 0.014954157945642553}
+{'comparison': ['L-Asparagine', 'protein_coding_genes'], 'correl': 0.04619851595634063, 'significance': 6.917358828664643e-07}
+{'comparison': ['Dextrose', 'protein_coding_genes'], 'correl': 0.042067164708335505, 'significance': 6.202231617341266e-06}
+{'comparison': ['Sucrose', 'protein_coding_genes'], 'correl': 0.026575536189636616, 'significance': 0.004312997356969441}
+{'comparison': ['4059', 'protein_coding_genes'], 'correl': 0.02274907781349172, 'significance': 0.014556786742268436}
 {'comparison': ['Raffinose', 'protein_coding_genes'], 'correl': 0.022352956158789333, 'significance': 0.016365170381066284}
 {'comparison': ['Galactose', 'protein_coding_genes'], 'correl': 0.022352956158789333, 'significance': 0.016365170381066284}
 {'comparison': ['Na-malate', 'protein_coding_genes'], 'correl': 0.01763532347024871, 'significance': 0.05823651334703834}
 {'comparison': ['Bis-Tris', 'protein_coding_genes'], 'correl': 0.01763532347024871, 'significance': 0.05823651334703834}
-{'comparison': ['L-Glutamic acid', 'protein_coding_genes'], 'correl': 0.015619175373515138, 'significance': 0.09347119200243516}
-{'comparison': ['934', 'protein_coding_genes'], 'correl': 0.014363463888885594, 'significance': 0.12295272624128692}
+{'comparison': ['L-Glutamic acid', 'protein_coding_genes'], 'correl': 0.015618317236075074, 'significance': 0.09348920548741745}
+{'comparison': ['934', 'protein_coding_genes'], 'correl': 0.01435010636787356, 'significance': 0.1233014634382395}
 {'comparison': ['Carrot', 'protein_coding_genes'], 'correl': 0.01399733670843185, 'significance': 0.1327938853344549}
 {'comparison': ['K2S4O6', 'protein_coding_genes'], 'correl': 0.012551107527936808, 'significance': 0.17770613919671163}
 {'comparison': ['DL-Na-malate', 'protein_coding_genes'], 'correl': 0.01172179046296636, 'significance': 0.20810777404916295}
-{'comparison': ['Oat flakes', 'protein_coding_genes'], 'correl': 0.0115143482726019, 'significance': 0.216270081243002}
+{'comparison': ['Beef extract', 'protein_coding_genes'], 'correl': 0.011666904095167593, 'significance': 0.21024535687471807}
+{'comparison': ['Oat flakes', 'protein_coding_genes'], 'correl': 0.011455367736173155, 'significance': 0.2186323337463538}
 {'comparison': ['Succinate', 'protein_coding_genes'], 'correl': 0.011436473048046288, 'significance': 0.21939299757749375}
 {'comparison': ['Malate', 'protein_coding_genes'], 'correl': 0.011436473048046288, 'significance': 0.21939299757749375}
 {'comparison': ['2842', 'protein_coding_genes'], 'correl': 0.011436473048046288, 'significance': 0.21939299757749375}
-{'comparison': ['Betaine x H2O', 'protein_coding_genes'], 'correl': 0.011325391596983947, 'significance': 0.22390335004800305}
-{'comparison': ['612', 'protein_coding_genes'], 'correl': 0.011064493232274299, 'significance': 0.23475659147340855}
-{'comparison': ["Baker's yeast", 'protein_coding_genes'], 'correl': 0.010988574375219736, 'significance': 0.2379836191037449}
+{'comparison': ['Betaine x H2O', 'protein_coding_genes'], 'correl': 0.011320527338824823, 'significance': 0.22410236243747764}
+{'comparison': ['612', 'protein_coding_genes'], 'correl': 0.011063646263227929, 'significance': 0.23479242122287253}
+{'comparison': ["Baker's yeast", 'protein_coding_genes'], 'correl': 0.010979316956431187, 'significance': 0.23837924952680997}
 {'comparison': ['ZnSO4 x 7 H2O', 'protein_coding_genes'], 'correl': 0.01043981592847478, 'significance': 0.2622417557145094}
 {'comparison': ['Glycerol (anhydrous)', 'protein_coding_genes'], 'correl': 0.01043981592847478, 'significance': 0.2622417557145094}
 {'comparison': ['Dichloran-Glycerol-agar base', 'protein_coding_genes'], 'correl': 0.01043981592847478, 'significance': 0.2622417557145094}
-{'comparison': ['Beef extract', 'protein_coding_genes'], 'correl': 0.010032831317382447, 'significance': 0.28130119373298534}
 {'comparison': ['Melibiose', 'protein_coding_genes'], 'correl': 0.009569322318054628, 'significance': 0.3041269652443177}
-{'comparison': ['Xylan', 'protein_coding_genes'], 'correl': 0.009031360828968516, 'significance': 0.3321208406867098}
+{'comparison': ['Xylan', 'protein_coding_genes'], 'correl': 0.009027310024299294, 'significance': 0.33233775660026266}
 {'comparison': ['2618', 'protein_coding_genes'], 'correl': 0.008986534845636392, 'significance': 0.33452631510200304}
 {'comparison': ['Phosphates solution', 'protein_coding_genes'], 'correl': 0.008941665384450277, 'significance': 0.3369453383625106}
 {'comparison': ['Sodium polygalacturonate', 'protein_coding_genes'], 'correl': 0.008860566328867385, 'significance': 0.3413460444515669}
-{'comparison': ['Proteose peptone no. 3', 'protein_coding_genes'], 'correl': 0.008694550245471604, 'significance': 0.3504687901457896}
 {'comparison': ['Sodium acetate x 3 H2O', 'protein_coding_genes'], 'correl': 0.008570711365834371, 'significance': 0.35737358026763844}
 {'comparison': ['4456', 'protein_coding_genes'], 'correl': 0.008570711365834371, 'significance': 0.35737358026763844}
 {'comparison': ['4457', 'protein_coding_genes'], 'correl': 0.008570711365834371, 'significance': 0.35737358026763844}
 {'comparison': ['4460', 'protein_coding_genes'], 'correl': 0.008570711365834371, 'significance': 0.35737358026763844}
+{'comparison': ['Proteose peptone no. 3', 'protein_coding_genes'], 'correl': 0.008534560629617502, 'significance': 0.35940525043561866}
 {'comparison': ['Czapek-Dox liquid medium', 'protein_coding_genes'], 'correl': 0.008436984237609212, 'significance': 0.36492517409118774}
+{'comparison': ['Peptone', 'protein_coding_genes'], 'correl': 0.008318102633112385, 'significance': 0.371721474846024}
 {'comparison': ['Gentisic acid', 'protein_coding_genes'], 'correl': 0.008311967631715676, 'significance': 0.37207432131133267}
 {'comparison': ['1509', 'protein_coding_genes'], 'correl': 0.008257796439705489, 'significance': 0.3751989085927727}
 {'comparison': ['1510', 'protein_coding_genes'], 'correl': 0.008257796439705489, 'significance': 0.3751989085927727}
@@ -56,20 +57,20 @@
 {'comparison': ['Myo-inositol', 'protein_coding_genes'], 'correl': 0.0073623081967611175, 'significance': 0.42917110203532804}
 {'comparison': ['Niacinamide', 'protein_coding_genes'], 'correl': 0.0073623081967611175, 'significance': 0.42917110203532804}
 {'comparison': ['Leptospira Enrichment EMJH', 'protein_coding_genes'], 'correl': 0.0073623081967611175, 'significance': 0.42917110203532804}
-{'comparison': ['Peptone', 'protein_coding_genes'], 'correl': 0.007116966392950101, 'significance': 0.4447100248238415}
+{'comparison': ['(NH4)2SO4', 'protein_coding_genes'], 'correl': 0.00695701716800681, 'significance': 0.45501099210169194}
 {'comparison': ['Corn steep powder', 'protein_coding_genes'], 'correl': 0.006843969080897679, 'significance': 0.4623717677087663}
 {'comparison': ['Sodium malate', 'protein_coding_genes'], 'correl': 0.006656007733356032, 'significance': 0.4747560437924988}
 {'comparison': ['5296', 'protein_coding_genes'], 'correl': 0.006656007733356032, 'significance': 0.4747560437924988}
 {'comparison': ['4025', 'protein_coding_genes'], 'correl': 0.006656007733356032, 'significance': 0.4747560437924988}
-{'comparison': ['Mannitol', 'protein_coding_genes'], 'correl': 0.0066464341067895005, 'significance': 0.47539166168552716}
 {'comparison': ['5605', 'protein_coding_genes'], 'correl': 0.006642864302768351, 'significance': 0.47562878965856137}
+{'comparison': ['Mannitol', 'protein_coding_genes'], 'correl': 0.0066161890500659425, 'significance': 0.4774027728440976}
 {'comparison': ['1380', 'protein_coding_genes'], 'correl': 0.006453208590398138, 'significance': 0.4883196734583126}
-{'comparison': ['L-Arginine x HCl', 'protein_coding_genes'], 'correl': 0.006430967922680779, 'significance': 0.48981978465078946}
-{'comparison': ['K-acetate', 'protein_coding_genes'], 'correl': 0.006366808116732325, 'significance': 0.49416115883011436}
-{'comparison': ['Bromocresol purple', 'protein_coding_genes'], 'correl': 0.0058886312276018385, 'significance': 0.5271548673632644}
+{'comparison': ['L-Arginine x HCl', 'protein_coding_genes'], 'correl': 0.006430192593690443, 'significance': 0.48987212451814977}
+{'comparison': ['K-acetate', 'protein_coding_genes'], 'correl': 0.006365674025194399, 'significance': 0.4942380818249754}
+{'comparison': ['Na2HPO4', 'protein_coding_genes'], 'correl': 0.005932763274217589, 'significance': 0.5240633985273797}
+{'comparison': ['Bromocresol purple', 'protein_coding_genes'], 'correl': 0.0058937268069795, 'significance': 0.5267974452905497}
 {'comparison': ['Na-ampicillin', 'protein_coding_genes'], 'correl': 0.005887773524475125, 'significance': 0.5272150418763321}
 {'comparison': ['2294', 'protein_coding_genes'], 'correl': 0.005887773524475125, 'significance': 0.5272150418763321}
-{'comparison': ['Na2HPO4', 'protein_coding_genes'], 'correl': 0.005838041356099718, 'significance': 0.5307101201947908}
 {'comparison': ['2758', 'protein_coding_genes'], 'correl': 0.005731329598815325, 'significance': 0.5382490871531893}
 {'comparison': ['4016', 'protein_coding_genes'], 'correl': 0.005572098526268428, 'significance': 0.5495974458452795}
 {'comparison': ['4559', 'protein_coding_genes'], 'correl': 0.005572098526268428, 'significance': 0.5495974458452795}
@@ -83,41 +84,40 @@
 {'comparison': ['3980', 'protein_coding_genes'], 'correl': 0.005102146713864847, 'significance': 0.5837628466986189}
 {'comparison': ['Tween', 'protein_coding_genes'], 'correl': 0.004757336026962008, 'significance': 0.6094430882506692}
 {'comparison': ['Marine Broth', 'protein_coding_genes'], 'correl': 0.004748297174772795, 'significance': 0.6101229782896465}
-{'comparison': ['Sodium tartrate', 'protein_coding_genes'], 'correl': 0.004704848311527464, 'significance': 0.6133958306025884}
+{'comparison': ['Sodium tartrate', 'protein_coding_genes'], 'correl': 0.0047044806939302635, 'significance': 0.6134235549866516}
 {'comparison': ['Czapek Dox agar', 'protein_coding_genes'], 'correl': 0.004530568501345802, 'significance': 0.6266008047634573}
 {'comparison': ['Tryptophan', 'protein_coding_genes'], 'correl': 0.004530568501345802, 'significance': 0.6266008047634573}
 {'comparison': ['Trace metal solution', 'protein_coding_genes'], 'correl': 0.00450699595376498, 'significance': 0.6283962190761689}
 {'comparison': ['3251', 'protein_coding_genes'], 'correl': 0.004321719667171704, 'significance': 0.6425837929282721}
-{'comparison': ['L-Cysteine', 'protein_coding_genes'], 'correl': 0.004043989057425269, 'significance': 0.6640961467863984}
+{'comparison': ['L-Cysteine', 'protein_coding_genes'], 'correl': 0.004044014375247877, 'significance': 0.664094172712205}
 {'comparison': ['Maize extract', 'protein_coding_genes'], 'correl': 0.0037398959190993973, 'significance': 0.6879714650833233}
-{'comparison': ['(NH4)2SO4', 'protein_coding_genes'], 'correl': 0.0036665651851745156, 'significance': 0.6937768654593077}
 {'comparison': ['Tris(hydroxymethyl)aminomethane', 'protein_coding_genes'], 'correl': 0.0035782485743768504, 'significance': 0.7007925577139189}
-{'comparison': ['L(+)-Tartaric acid', 'protein_coding_genes'], 'correl': 0.0035554565673313237, 'significance': 0.7026072875298973}
+{'comparison': ['L(+)-Tartaric acid', 'protein_coding_genes'], 'correl': 0.0035609751508903515, 'significance': 0.7021677345920541}
 {'comparison': ['Sodium thiosulphate', 'protein_coding_genes'], 'correl': 0.0035427685449143467, 'significance': 0.7036182603287913}
-{'comparison': ['1268', 'protein_coding_genes'], 'correl': 0.003441739330887669, 'significance': 0.7116867660077724}
+{'comparison': ['1268', 'protein_coding_genes'], 'correl': 0.003440930489878918, 'significance': 0.711751494438113}
 {'comparison': ['Creatinine', 'protein_coding_genes'], 'correl': 0.003317514255835366, 'significance': 0.7216521085193377}
 {'comparison': ['Creatine', 'protein_coding_genes'], 'correl': 0.003317514255835366, 'significance': 0.7216521085193377}
 {'comparison': ['Cooked meat medium', 'protein_coding_genes'], 'correl': 0.003317514255835366, 'significance': 0.7216521085193377}
-{'comparison': ['Sodium glycerophosphate', 'protein_coding_genes'], 'correl': 0.003195908639810988, 'significance': 0.7314533028123833}
+{'comparison': ['Sodium glycerophosphate', 'protein_coding_genes'], 'correl': 0.0031953878440395224, 'significance': 0.7314953737314319}
 {'comparison': ['Thioglycolate', 'protein_coding_genes'], 'correl': 0.003109120653761391, 'significance': 0.738475262613816}
 {'comparison': ['Sodium Potassium phosphate buffer', 'protein_coding_genes'], 'correl': 0.0029879743825354643, 'significance': 0.7483135976904228}
 {'comparison': ['(NH4)HCO3', 'protein_coding_genes'], 'correl': 0.0029879743825354643, 'significance': 0.7483135976904228}
 {'comparison': ['Nitrilotriacetate', 'protein_coding_genes'], 'correl': 0.0028601885191715257, 'significance': 0.7587356987419362}
 {'comparison': ['2248', 'protein_coding_genes'], 'correl': 0.0027828539789776243, 'significance': 0.7650645266437434}
-{'comparison': ['Sodium pyruvate', 'protein_coding_genes'], 'correl': 0.0025866433633486073, 'significance': 0.7811914536633799}
+{'comparison': ['Sodium pyruvate', 'protein_coding_genes'], 'correl': 0.0022564663989523347, 'significance': 0.8085395386796962}
 {'comparison': ['L-Arginine', 'protein_coding_genes'], 'correl': 0.0021787986173191034, 'significance': 0.8150081294666978}
 {'comparison': ['Sodium pyrophosphate', 'protein_coding_genes'], 'correl': 0.0021787986173191034, 'significance': 0.8150081294666978}
 {'comparison': ['2847', 'protein_coding_genes'], 'correl': 0.0020979221685299538, 'significance': 0.821757376141969}
 {'comparison': ['Sterile serum', 'protein_coding_genes'], 'correl': 0.00207494900747447, 'significance': 0.8236769481943478}
 {'comparison': ['Wilkins-Chalgren-Anaerobe-Broth', 'protein_coding_genes'], 'correl': 0.00207494900747447, 'significance': 0.8236769481943478}
 {'comparison': ['Na2-DL-malate', 'protein_coding_genes'], 'correl': 0.002020553299461555, 'significance': 0.8282262864433404}
-{'comparison': ['NaH2PO4', 'protein_coding_genes'], 'correl': 0.001661236409209062, 'significance': 0.8584153677528307}
+{'comparison': ['NaH2PO4', 'protein_coding_genes'], 'correl': 0.001646731663251031, 'significance': 0.8596386980658917}
 {'comparison': ['Dextrin', 'protein_coding_genes'], 'correl': 0.0014834239221322384, 'significance': 0.8734346466512204}
 {'comparison': ['Nutrient broth No. 2', 'protein_coding_genes'], 'correl': 0.0013801211404738131, 'significance': 0.8821816696435579}
 {'comparison': ['3685', 'protein_coding_genes'], 'correl': 0.001154050838832468, 'significance': 0.9013726114331095}
 {'comparison': ['Malt extract broth', 'protein_coding_genes'], 'correl': 0.0009384705167223992, 'significance': 0.9197270790479182}
 {'comparison': ['3677', 'protein_coding_genes'], 'correl': 0.0009384705167223992, 'significance': 0.9197270790479182}
-{'comparison': ['n-Valeric acid', 'protein_coding_genes'], 'correl': 0.0007641171933974439, 'significance': 0.9346032946148515}
+{'comparison': ['n-Valeric acid', 'protein_coding_genes'], 'correl': 0.0007602645962762081, 'significance': 0.9349322841353421}
 {'comparison': ['2036', 'protein_coding_genes'], 'correl': 0.0007127401684210353, 'significance': 0.938991491999223}
 {'comparison': ['5678', 'protein_coding_genes'], 'correl': 0.0007127401684210353, 'significance': 0.938991491999223}
 {'comparison': ['CoCl2 x 6 H2O', 'protein_coding_genes'], 'correl': 0.0006462440848892919, 'significance': 0.9446737654125342}
@@ -125,7 +125,7 @@
 {'comparison': ['ZnSO4', 'protein_coding_genes'], 'correl': 0.0006462440848892919, 'significance': 0.9446737654125342}
 {'comparison': ['(NH4)2Ni(SO4)2 x 6 H2O', 'protein_coding_genes'], 'correl': 0.0006387804693474466, 'significance': 0.9453117330172268}
 {'comparison': ['2914', 'protein_coding_genes'], 'correl': 0.0005986849963909459, 'significance': 0.9487395645929939}
-{'comparison': ['Glycine', 'protein_coding_genes'], 'correl': 0.0005260858114804012, 'significance': 0.9549485658296071}
+{'comparison': ['Glycine', 'protein_coding_genes'], 'correl': 0.0005270003169315568, 'significance': 0.954870335508172}
 {'comparison': ['Tris HCl', 'protein_coding_genes'], 'correl': 0.0005039178418113864, 'significance': 0.9568450303797778}
 {'comparison': ['N-(2-acetamido)-2-aminoethanesulfonic acid', 'protein_coding_genes'], 'correl': 0.0005039178418113864, 'significance': 0.9568450303797778}
 {'comparison': ['Sodium caproate', 'protein_coding_genes'], 'correl': 0.0005039178418113864, 'significance': 0.9568450303797778}
@@ -146,8 +146,8 @@
 {'comparison': ['3182', 'protein_coding_genes'], 'correl': 0.0001090117132751322, 'significance': 0.9906600143053224}
 {'comparison': ['3183', 'protein_coding_genes'], 'correl': 0.0001090117132751322, 'significance': 0.9906600143053224}
 {'comparison': ['3184', 'protein_coding_genes'], 'correl': 0.0001090117132751322, 'significance': 0.9906600143053224}
-{'comparison': ['Meat peptone', 'protein_coding_genes'], 'correl': 7.407473414671203e-05, 'significance': 0.9936532924704344}
-{'comparison': ['Na-propionate', 'protein_coding_genes'], 'correl': 3.9252774870205106e-05, 'significance': 0.9966368050601262}
+{'comparison': ['Meat peptone', 'protein_coding_genes'], 'correl': 7.592737856611359e-05, 'significance': 0.9934945617631326}
+{'comparison': ['Na-propionate', 'protein_coding_genes'], 'correl': 3.744586986636981e-05, 'significance': 0.9967916206176597}
 {'comparison': ['Trisodium citrate x H2O', 'protein_coding_genes'], 'correl': 2.3736308951090217e-05, 'significance': 0.9979662588351041}
 {'comparison': ['2909', 'protein_coding_genes'], 'correl': 2.3736308951090217e-05, 'significance': 0.9979662588351041}
 {'comparison': ['Ammonium acetate', 'protein_coding_genes'], 'correl': -5.863052582888322e-05, 'significance': 0.9949765291825667}
@@ -160,12 +160,12 @@
 {'comparison': ['2164', 'protein_coding_genes'], 'correl': -0.00020143934890053176, 'significance': 0.9827418830192065}
 {'comparison': ['2769', 'protein_coding_genes'], 'correl': -0.00020143934890053176, 'significance': 0.9827418830192065}
 {'comparison': ['Trace mineral solution', 'protein_coding_genes'], 'correl': -0.00031189109572145313, 'significance': 0.9732819497728471}
-{'comparison': ['Enzymatic digest of casein', 'protein_coding_genes'], 'correl': -0.0004430483695149148, 'significance': 0.962053623489564}
-{'comparison': ['KHCO3', 'protein_coding_genes'], 'correl': -0.0005319921477760915, 'significance': 0.9544433227380191}
+{'comparison': ['Enzymatic digest of casein', 'protein_coding_genes'], 'correl': -0.0004439738318244642, 'significance': 0.9619744191066113}
+{'comparison': ['KHCO3', 'protein_coding_genes'], 'correl': -0.0005261358853747424, 'significance': 0.9549442823044283}
 {'comparison': ['1741', 'protein_coding_genes'], 'correl': -0.0005411308326750451, 'significance': 0.9536616124350403}
 {'comparison': ['Tetramethyl ammonium chloride', 'protein_coding_genes'], 'correl': -0.0008643972509688687, 'significance': 0.9260440495711614}
 {'comparison': ['Boric acid', 'protein_coding_genes'], 'correl': -0.0008891225727929211, 'significance': 0.9239349350136634}
-{'comparison': ['Glutamic acid', 'protein_coding_genes'], 'correl': -0.0009158608906533494, 'significance': 0.9216547102999575}
+{'comparison': ['Glutamic acid', 'protein_coding_genes'], 'correl': -0.000917575893180105, 'significance': 0.9215084778760706}
 {'comparison': ['4379', 'protein_coding_genes'], 'correl': -0.0011874239473879538, 'significance': 0.8985356871386794}
 {'comparison': ['4375', 'protein_coding_genes'], 'correl': -0.0011874239473879538, 'significance': 0.8985356871386794}
 {'comparison': ['4376', 'protein_coding_genes'], 'correl': -0.0011874239473879538, 'significance': 0.8985356871386794}
@@ -203,20 +203,19 @@
 {'comparison': ['Histidine', 'protein_coding_genes'], 'correl': -0.0019720916686864123, 'significance': 0.8322841969559971}
 {'comparison': ['3769', 'protein_coding_genes'], 'correl': -0.0019720916686864123, 'significance': 0.8322841969559971}
 {'comparison': ['5441', 'protein_coding_genes'], 'correl': -0.0021135818447353253, 'significance': 0.8204495086393476}
-{'comparison': ['L-Histidine', 'protein_coding_genes'], 'correl': -0.002121402209517545, 'significance': 0.8197965526923278}
+{'comparison': ['L-Histidine', 'protein_coding_genes'], 'correl': -0.00212034258184505, 'significance': 0.8198850182668838}
 {'comparison': ['D-Sorbitol', 'protein_coding_genes'], 'correl': -0.0021566639892487923, 'significance': 0.8168539522309469}
 {'comparison': ['Sodium butyrate', 'protein_coding_genes'], 'correl': -0.0021566639892487923, 'significance': 0.8168539522309469}
 {'comparison': ['209', 'protein_coding_genes'], 'correl': -0.0021566639892487923, 'significance': 0.8168539522309469}
-{'comparison': ['Sodium thioglycolate', 'protein_coding_genes'], 'correl': -0.0021991162537409238, 'significance': 0.8133147299340547}
+{'comparison': ['Sodium thioglycolate', 'protein_coding_genes'], 'correl': -0.0021987452030451946, 'significance': 0.813345647836011}
 {'comparison': ['5856', 'protein_coding_genes'], 'correl': -0.0022345203017501707, 'significance': 0.8103660225414608}
 {'comparison': ['Na2-glyoxalate', 'protein_coding_genes'], 'correl': -0.002355828663395704, 'significance': 0.8002832101641294}
-{'comparison': ['2779', 'protein_coding_genes'], 'correl': -0.00238842816061584, 'significance': 0.7975792189742801}
+{'comparison': ['2779', 'protein_coding_genes'], 'correl': -0.002390162383771775, 'significance': 0.797435440156998}
 {'comparison': ['Na2WO4', 'protein_coding_genes'], 'correl': -0.0024210021824835662, 'significance': 0.7948797644194896}
 {'comparison': ['2857', 'protein_coding_genes'], 'correl': -0.0024210021824835662, 'significance': 0.7948797644194896}
 {'comparison': ['4007', 'protein_coding_genes'], 'correl': -0.0024547299506919133, 'significance': 0.7920872830154001}
 {'comparison': ['Dextran', 'protein_coding_genes'], 'correl': -0.002581771378639427, 'significance': 0.7815931230562022}
-{'comparison': ['Tryptone peptone', 'protein_coding_genes'], 'correl': -0.0026022754211182924, 'significance': 0.779903067640072}
-{'comparison': ['KNO3', 'protein_coding_genes'], 'correl': -0.0027154465023920046, 'significance': 0.7705937929358084}
+{'comparison': ['Tryptone peptone', 'protein_coding_genes'], 'correl': -0.0026023152333013158, 'significance': 0.7798997871106498}
 {'comparison': ['(NH4) citrate', 'protein_coding_genes'], 'correl': -0.002793352267348695, 'significance': 0.7642044468486328}
 {'comparison': ['Pyruvic acid sodium salt', 'protein_coding_genes'], 'correl': -0.0028215259654287782, 'significance': 0.7618977364026809}
 {'comparison': ['3890', 'protein_coding_genes'], 'correl': -0.002837477932528243, 'significance': 0.7605926111497997}
@@ -226,7 +225,8 @@
 {'comparison': ['ACES', 'protein_coding_genes'], 'correl': -0.0030339396917926976, 'significance': 0.7445758121206308}
 {'comparison': ['Activated charcoal', 'protein_coding_genes'], 'correl': -0.0030339396917926976, 'significance': 0.7445758121206308}
 {'comparison': ['Tris-HCl buffer', 'protein_coding_genes'], 'correl': -0.0030453111882543884, 'significance': 0.7436520335374364}
-{'comparison': ['Na2SeO4', 'protein_coding_genes'], 'correl': -0.003093680682962138, 'significance': 0.7397268088532071}
+{'comparison': ['KNO3', 'protein_coding_genes'], 'correl': -0.003056264309560434, 'significance': 0.7427625908748549}
+{'comparison': ['Na2SeO4', 'protein_coding_genes'], 'correl': -0.0030939964955258538, 'significance': 0.7397012025331547}
 {'comparison': ['KOH', 'protein_coding_genes'], 'correl': -0.003098029796999824, 'significance': 0.7393742047957891}
 {'comparison': ['Uric acid', 'protein_coding_genes'], 'correl': -0.003098029796999824, 'significance': 0.7393742047957891}
 {'comparison': ['Corn steep liquor', 'protein_coding_genes'], 'correl': -0.0032072867874212312, 'significance': 0.7305343551080088}
@@ -234,16 +234,16 @@
 {'comparison': ['Bacto beef extract', 'protein_coding_genes'], 'correl': -0.003457167116657925, 'significance': 0.7104525379720341}
 {'comparison': ['L-Methionine', 'protein_coding_genes'], 'correl': -0.003489298419386015, 'significance': 0.7078844621749201}
 {'comparison': ['Sodium succinate dibasic', 'protein_coding_genes'], 'correl': -0.0035855990908797574, 'significance': 0.7002076631452914}
-{'comparison': ['EDTA', 'protein_coding_genes'], 'correl': -0.003589158159775562, 'significance': 0.6999245251061502}
-{'comparison': ['Na2WO4 x 2 H2O', 'protein_coding_genes'], 'correl': -0.0037159034881134295, 'significance': 0.6898688797699052}
+{'comparison': ['EDTA', 'protein_coding_genes'], 'correl': -0.00359071312818546, 'significance': 0.69980083429222}
+{'comparison': ['Na2WO4 x 2 H2O', 'protein_coding_genes'], 'correl': -0.0037175024088462174, 'significance': 0.6897423700953904}
 {'comparison': ['3851', 'protein_coding_genes'], 'correl': -0.0037187990377709097, 'significance': 0.6896397846945429}
 {'comparison': ['3704', 'protein_coding_genes'], 'correl': -0.0039007132421393672, 'significance': 0.6753045719445334}
-{'comparison': ['D-Fructose', 'protein_coding_genes'], 'correl': -0.003939120432366638, 'significance': 0.6722927894164425}
-{'comparison': ['NaF', 'protein_coding_genes'], 'correl': -0.004046929031172484, 'significance': 0.6638669275546063}
-{'comparison': ['D(+)-Glucose', 'protein_coding_genes'], 'correl': -0.004067152800246599, 'significance': 0.6622910057184146}
+{'comparison': ['D-Fructose', 'protein_coding_genes'], 'correl': -0.003932270576611342, 'significance': 0.6728295522074232}
+{'comparison': ['NaF', 'protein_coding_genes'], 'correl': -0.00404762181973824, 'significance': 0.66381291788643}
+{'comparison': ['D(+)-Glucose', 'protein_coding_genes'], 'correl': -0.0040854653074283995, 'significance': 0.6608653061360945}
 {'comparison': ['Sodium carbonate', 'protein_coding_genes'], 'correl': -0.004096865801762477, 'significance': 0.6599783541165465}
 {'comparison': ['MnSO4', 'protein_coding_genes'], 'correl': -0.004367696129912254, 'significance': 0.6390506881063767}
-{'comparison': ['MnSO4 x 5 H2O', 'protein_coding_genes'], 'correl': -0.004370540353325959, 'significance': 0.6388323887522498}
+{'comparison': ['MnSO4 x 5 H2O', 'protein_coding_genes'], 'correl': -0.004370908073320756, 'significance': 0.6388041678530454}
 {'comparison': ['Cellulose', 'protein_coding_genes'], 'correl': -0.004434733722362022, 'significance': 0.6339137820705416}
 {'comparison': ['2250', 'protein_coding_genes'], 'correl': -0.004434733722362022, 'significance': 0.6339137820705416}
 {'comparison': ['2243', 'protein_coding_genes'], 'correl': -0.004434733722362022, 'significance': 0.6339137820705416}
@@ -253,8 +253,8 @@
 {'comparison': ['n-Butyric acid', 'protein_coding_genes'], 'correl': -0.004671103469311563, 'significance': 0.6159430438454983}
 {'comparison': ['iso-Butyric acid', 'protein_coding_genes'], 'correl': -0.004671103469311563, 'significance': 0.6159430438454983}
 {'comparison': ['iso-Valeric acid', 'protein_coding_genes'], 'correl': -0.004671103469311563, 'significance': 0.6159430438454983}
-{'comparison': ['Na-gluconate', 'protein_coding_genes'], 'correl': -0.004693849830417759, 'significance': 0.6142255351356734}
-{'comparison': ['Na2HPO4 x 12 H2O', 'protein_coding_genes'], 'correl': -0.004888942538914646, 'significance': 0.5995822442553645}
+{'comparison': ['Na-gluconate', 'protein_coding_genes'], 'correl': -0.004691698879306218, 'significance': 0.6143878565865803}
+{'comparison': ['Na2HPO4 x 12 H2O', 'protein_coding_genes'], 'correl': -0.004873332373398928, 'significance': 0.600748080704375}
 {'comparison': ['Corn meal', 'protein_coding_genes'], 'correl': -0.0049475303348976395, 'significance': 0.5952158136200151}
 {'comparison': ['Fumaric acid', 'protein_coding_genes'], 'correl': -0.005014295265917809, 'significance': 0.5902577257795105}
 {'comparison': ['Hexadecane', 'protein_coding_genes'], 'correl': -0.005014295265917809, 'significance': 0.5902577257795105}
@@ -262,13 +262,13 @@
 {'comparison': ['4328', 'protein_coding_genes'], 'correl': -0.005014295265917809, 'significance': 0.5902577257795105}
 {'comparison': ['Bicine', 'protein_coding_genes'], 'correl': -0.005048061585197078, 'significance': 0.5877574381467274}
 {'comparison': ['Pyridoxine hydrochloride', 'protein_coding_genes'], 'correl': -0.0051237923873365294, 'significance': 0.5821677020541798}
-{'comparison': ['NaCO3', 'protein_coding_genes'], 'correl': -0.005207958592694921, 'significance': 0.575984631850426}
-{'comparison': ['Dithiothreitol', 'protein_coding_genes'], 'correl': -0.005323128632902561, 'significance': 0.5675745162865964}
+{'comparison': ['NaCO3', 'protein_coding_genes'], 'correl': -0.0052079585404842445, 'significance': 0.5759846356763269}
+{'comparison': ['Dithiothreitol', 'protein_coding_genes'], 'correl': -0.005321012285307823, 'significance': 0.5677285276814548}
 {'comparison': ['3177', 'protein_coding_genes'], 'correl': -0.005378353888563836, 'significance': 0.5635627371714746}
 {'comparison': ['3179', 'protein_coding_genes'], 'correl': -0.005378353888563836, 'significance': 0.5635627371714746}
 {'comparison': ['V-8 Juice', 'protein_coding_genes'], 'correl': -0.0054354764590141425, 'significance': 0.559427561524503}
-{'comparison': ['Marine agar 2216', 'protein_coding_genes'], 'correl': -0.005510600869466802, 'significance': 0.5540117230294476}
-{'comparison': ['DL-Malic acid', 'protein_coding_genes'], 'correl': -0.005570861496767811, 'significance': 0.5496860681924298}
+{'comparison': ['Marine agar 2216', 'protein_coding_genes'], 'correl': -0.005510963846621313, 'significance': 0.5539856178491354}
+{'comparison': ['DL-Malic acid', 'protein_coding_genes'], 'correl': -0.005572102392184229, 'significance': 0.5495971688972552}
 {'comparison': ['Na-ascorbate', 'protein_coding_genes'], 'correl': -0.005579051212246236, 'significance': 0.5490994777564226}
 {'comparison': ['Trisodium citrate', 'protein_coding_genes'], 'correl': -0.005603698890036296, 'significance': 0.5473359468953565}
 {'comparison': ['K-phosphate buffer', 'protein_coding_genes'], 'correl': -0.005623527195662457, 'significance': 0.5459192765446323}
@@ -283,76 +283,76 @@
 {'comparison': ['4411', 'protein_coding_genes'], 'correl': -0.005623527195662457, 'significance': 0.5459192765446323}
 {'comparison': ['5-Aminovaleric acid', 'protein_coding_genes'], 'correl': -0.0056255052214083815, 'significance': 0.5457780525797544}
 {'comparison': ['1163', 'protein_coding_genes'], 'correl': -0.0056255052214083815, 'significance': 0.5457780525797544}
-{'comparison': ['Peptone mixture', 'protein_coding_genes'], 'correl': -0.005626066393484422, 'significance': 0.5457379901993433}
-{'comparison': ['FeCl3', 'protein_coding_genes'], 'correl': -0.005639378285243291, 'significance': 0.544788074819957}
+{'comparison': ['Peptone mixture', 'protein_coding_genes'], 'correl': -0.005626202120912971, 'significance': 0.5457283007632511}
+{'comparison': ['FeCl3', 'protein_coding_genes'], 'correl': -0.005650261128856344, 'significance': 0.5440121030005045}
 {'comparison': ['2797', 'protein_coding_genes'], 'correl': -0.0058273871377679445, 'significance': 0.5314604039890853}
 {'comparison': ['2798', 'protein_coding_genes'], 'correl': -0.0058273871377679445, 'significance': 0.5314604039890853}
 {'comparison': ['5560', 'protein_coding_genes'], 'correl': -0.005837048334315227, 'significance': 0.5307800273475713}
 {'comparison': ['3095', 'protein_coding_genes'], 'correl': -0.005837048334315227, 'significance': 0.5307800273475713}
 {'comparison': ['3096', 'protein_coding_genes'], 'correl': -0.005837048334315227, 'significance': 0.5307800273475713}
-{'comparison': ['Na-caproate', 'protein_coding_genes'], 'correl': -0.0058943840370781295, 'significance': 0.5267513538407795}
+{'comparison': ['Na-caproate', 'protein_coding_genes'], 'correl': -0.005892907449158541, 'significance': 0.5268549096165669}
 {'comparison': ['Fe(NH4)2(SO4)2', 'protein_coding_genes'], 'correl': -0.0059706864916362476, 'significance': 0.521414303846402}
-{'comparison': ['926', 'protein_coding_genes'], 'correl': -0.006137121284764271, 'significance': 0.5098701581815085}
+{'comparison': ['926', 'protein_coding_genes'], 'correl': -0.006142486528031435, 'significance': 0.5095002551847891}
 {'comparison': ['691', 'protein_coding_genes'], 'correl': -0.006150509180212591, 'significance': 0.5089474011685677}
-{'comparison': ['Sodium gluconate', 'protein_coding_genes'], 'correl': -0.006272204494899535, 'significance': 0.5005998745659819}
+{'comparison': ['Sodium gluconate', 'protein_coding_genes'], 'correl': -0.006272204400571467, 'significance': 0.5005998810080414}
 {'comparison': ['4289', 'protein_coding_genes'], 'correl': -0.006384676466226159, 'significance': 0.4929500327522016}
 {'comparison': ['4290', 'protein_coding_genes'], 'correl': -0.006384676466226159, 'significance': 0.4929500327522016}
 {'comparison': ['Agarose', 'protein_coding_genes'], 'correl': -0.006387045133589192, 'significance': 0.49278960270362016}
 {'comparison': ['Nitrilotriacetic acid', 'protein_coding_genes'], 'correl': -0.006416406911755653, 'significance': 0.49080325199319397}
 {'comparison': ['Casman-Agar-Base', 'protein_coding_genes'], 'correl': -0.006416406911755653, 'significance': 0.49080325199319397}
-{'comparison': ['Vitamin B12', 'protein_coding_genes'], 'correl': -0.006417581198616324, 'significance': 0.49072390000077903}
+{'comparison': ['Vitamin B12', 'protein_coding_genes'], 'correl': -0.006444508461322374, 'significance': 0.48890619349168285}
 {'comparison': ['PIPES buffer', 'protein_coding_genes'], 'correl': -0.0064677531972233875, 'significance': 0.4873399952200458}
 {'comparison': ['L-Fucose', 'protein_coding_genes'], 'correl': -0.0064677531972233875, 'significance': 0.4873399952200458}
+{'comparison': ['Na-butyrate', 'protein_coding_genes'], 'correl': -0.006627728132757248, 'significance': 0.4766349457980783}
 {'comparison': ['2709', 'protein_coding_genes'], 'correl': -0.0066280354377756335, 'significance': 0.4766145065326636}
-{'comparison': ['Na-butyrate', 'protein_coding_genes'], 'correl': -0.006630435541566239, 'significance': 0.4764548889538067}
 {'comparison': ['2,4-Dichlorophenoxyacetic acid', 'protein_coding_genes'], 'correl': -0.006655914827258728, 'significance': 0.47476220982649275}
 {'comparison': ['MnSO4 x 1 H2O', 'protein_coding_genes'], 'correl': -0.006655914827258728, 'significance': 0.47476220982649275}
 {'comparison': ['DL-Histidine', 'protein_coding_genes'], 'correl': -0.006655914827258728, 'significance': 0.47476220982649275}
 {'comparison': ['NaS2O3 x 5 H2O', 'protein_coding_genes'], 'correl': -0.006655914827258728, 'significance': 0.47476220982649275}
 {'comparison': ['Salicylate', 'protein_coding_genes'], 'correl': -0.006655914827258728, 'significance': 0.47476220982649275}
 {'comparison': ['2308', 'protein_coding_genes'], 'correl': -0.006655914827258728, 'significance': 0.47476220982649275}
-{'comparison': ['NH4NO3', 'protein_coding_genes'], 'correl': -0.0066572847675707555, 'significance': 0.47467129346230386}
+{'comparison': ['NH4NO3', 'protein_coding_genes'], 'correl': -0.006660733500085855, 'significance': 0.47444245996510714}
 {'comparison': ['2-Mercaptoethanesulfonate', 'protein_coding_genes'], 'correl': -0.006701316746875238, 'significance': 0.47175419945224506}
 {'comparison': ['Riboflavin', 'protein_coding_genes'], 'correl': -0.006727265561888152, 'significance': 0.4700397429603278}
 {'comparison': ['FeSO4 x H2O', 'protein_coding_genes'], 'correl': -0.006733440649075866, 'significance': 0.4696322581701644}
 {'comparison': ['dehydrated RCM medium', 'protein_coding_genes'], 'correl': -0.006871864542474014, 'significance': 0.4605492920438081}
-{'comparison': ['Cysteine HCl', 'protein_coding_genes'], 'correl': -0.006947823310920159, 'significance': 0.455607145736067}
-{'comparison': ['Methylamine hydrochloride', 'protein_coding_genes'], 'correl': -0.0069843899558666616, 'significance': 0.45323867249959593}
-{'comparison': ['FeCl2', 'protein_coding_genes'], 'correl': -0.007005960460674085, 'significance': 0.45184478534600747}
-{'comparison': ['L-Sodium lactate', 'protein_coding_genes'], 'correl': -0.007138028531684046, 'significance': 0.443363573188986}
+{'comparison': ['Cysteine HCl', 'protein_coding_genes'], 'correl': -0.006949723115317702, 'significance': 0.45548392145796524}
+{'comparison': ['Methylamine hydrochloride', 'protein_coding_genes'], 'correl': -0.006989211510333475, 'significance': 0.45292689296691857}
+{'comparison': ['FeCl2', 'protein_coding_genes'], 'correl': -0.00700661984245852, 'significance': 0.45180221426928946}
+{'comparison': ['L-Sodium lactate', 'protein_coding_genes'], 'correl': -0.007137312077767279, 'significance': 0.4434093360574487}
 {'comparison': ['CaHPO4', 'protein_coding_genes'], 'correl': -0.0072268832566678085, 'significance': 0.43770901030204423}
-{'comparison': ['Monosodium glutamate', 'protein_coding_genes'], 'correl': -0.007243646040025305, 'significance': 0.43664692619214285}
+{'comparison': ['Monosodium glutamate', 'protein_coding_genes'], 'correl': -0.007245276389116389, 'significance': 0.4365437071113468}
 {'comparison': ['Na3VO4', 'protein_coding_genes'], 'correl': -0.007255932385697608, 'significance': 0.4358694112582453}
 {'comparison': ['1935', 'protein_coding_genes'], 'correl': -0.0072575475069854645, 'significance': 0.43576726118124853}
 {'comparison': ['Universal peptone', 'protein_coding_genes'], 'correl': -0.007298733099825819, 'significance': 0.433167102110842}
 {'comparison': ['Trimethylammonium chloride', 'protein_coding_genes'], 'correl': -0.007369251473560858, 'significance': 0.42873598527461565}
 {'comparison': ['Tomato juice', 'protein_coding_genes'], 'correl': -0.007444396146711714, 'significance': 0.4240433050897554}
 {'comparison': ['Liver extract concentrate', 'protein_coding_genes'], 'correl': -0.007444396146711714, 'significance': 0.4240433050897554}
-{'comparison': ['FeCl2 x 4 H2O', 'protein_coding_genes'], 'correl': -0.0074976063632984395, 'significance': 0.4207386412978743}
+{'comparison': ['FeCl2 x 4 H2O', 'protein_coding_genes'], 'correl': -0.007490261155855916, 'significance': 0.42119391990978194}
 {'comparison': ['Gellan Gum', 'protein_coding_genes'], 'correl': -0.007578805645508513, 'significance': 0.41572493863620286}
 {'comparison': ['4827', 'protein_coding_genes'], 'correl': -0.0076035309673325654, 'significance': 0.41420529251080784}
 {'comparison': ['(NH4)2Ni(SO4)2', 'protein_coding_genes'], 'correl': -0.007688586074407306, 'significance': 0.40900286184224244}
 {'comparison': ['5697', 'protein_coding_genes'], 'correl': -0.00775661998493328, 'significance': 0.4048696655779146}
 {'comparison': ['Na2-ß-glycerolphosphate', 'protein_coding_genes'], 'correl': -0.007872542468778256, 'significance': 0.39788493717320683}
-{'comparison': ['3909', 'protein_coding_genes'], 'correl': -0.007903900869408972, 'significance': 0.3960080370950193}
-{'comparison': ['Sodium citrate', 'protein_coding_genes'], 'correl': -0.007904152851013889, 'significance': 0.3959929768797167}
+{'comparison': ['3909', 'protein_coding_genes'], 'correl': -0.007905999035953647, 'significance': 0.39588264626957936}
+{'comparison': ['Sodium citrate', 'protein_coding_genes'], 'correl': -0.007919644723378671, 'significance': 0.39506773665887873}
 {'comparison': ['Vitamin solution', 'protein_coding_genes'], 'correl': -0.007953558152988127, 'significance': 0.3930468498456491}
 {'comparison': ['5215', 'protein_coding_genes'], 'correl': -0.007953558152988127, 'significance': 0.3930468498456491}
-{'comparison': ['Na2S2O3', 'protein_coding_genes'], 'correl': -0.0079629484914046, 'significance': 0.3924883926785159}
 {'comparison': ['5058', 'protein_coding_genes'], 'correl': -0.007966846721833253, 'significance': 0.39225670057509676}
-{'comparison': ['Na2-glutamate', 'protein_coding_genes'], 'correl': -0.007979822164958733, 'significance': 0.3914861001851745}
+{'comparison': ['Na2S2O3', 'protein_coding_genes'], 'correl': -0.007967522149867953, 'significance': 0.3922165648066026}
+{'comparison': ['Na2-glutamate', 'protein_coding_genes'], 'correl': -0.007977720394891492, 'significance': 0.3916108601029805}
 {'comparison': ['4132', 'protein_coding_genes'], 'correl': -0.00800454110261933, 'significance': 0.39002060843630826}
 {'comparison': ['Capronic acid', 'protein_coding_genes'], 'correl': -0.008180589322995745, 'significance': 0.3796801259203586}
-{'comparison': ['Tris', 'protein_coding_genes'], 'correl': -0.008207612849559395, 'significance': 0.3781079102129532}
-{'comparison': ['SrCl2', 'protein_coding_genes'], 'correl': -0.008335429657695436, 'significance': 0.3707260550687289}
-{'comparison': ['MgSO4 x H2O', 'protein_coding_genes'], 'correl': -0.008387884441174939, 'significance': 0.36772268168464006}
-{'comparison': ['Sodium DL-lactate', 'protein_coding_genes'], 'correl': -0.008472118715453935, 'significance': 0.36293153564547365}
-{'comparison': ['FeSO4 x 5 H2O', 'protein_coding_genes'], 'correl': -0.008493493687116408, 'significance': 0.3617219957103327}
+{'comparison': ['Tris', 'protein_coding_genes'], 'correl': -0.008215542944934652, 'significance': 0.37764730309979866}
+{'comparison': ['SrCl2', 'protein_coding_genes'], 'correl': -0.00833350868768633, 'significance': 0.37083633119895043}
+{'comparison': ['MgSO4 x H2O', 'protein_coding_genes'], 'correl': -0.008387804738150342, 'significance': 0.3677272336701287}
+{'comparison': ['Sodium DL-lactate', 'protein_coding_genes'], 'correl': -0.008471517917378834, 'significance': 0.362965569385415}
+{'comparison': ['FeSO4 x 5 H2O', 'protein_coding_genes'], 'correl': -0.008493399934356051, 'significance': 0.3617272953512868}
 {'comparison': ['4919', 'protein_coding_genes'], 'correl': -0.008493493687116408, 'significance': 0.3617219957103327}
 {'comparison': ['4920', 'protein_coding_genes'], 'correl': -0.008493493687116408, 'significance': 0.3617219957103327}
 {'comparison': ['4078', 'protein_coding_genes'], 'correl': -0.008496342536538255, 'significance': 0.36156097961381284}
 {'comparison': ['4079', 'protein_coding_genes'], 'correl': -0.008496342536538255, 'significance': 0.36156097961381284}
-{'comparison': ['4134', 'protein_coding_genes'], 'correl': -0.008636170952611447, 'significance': 0.3537131950477034}
+{'comparison': ['4134', 'protein_coding_genes'], 'correl': -0.008637066324277331, 'significance': 0.3536632922573475}
 {'comparison': ['3638', 'protein_coding_genes'], 'correl': -0.008639027445323877, 'significance': 0.35355400636407897}
 {'comparison': ['3981', 'protein_coding_genes'], 'correl': -0.008777449421385947, 'significance': 0.34589423868161184}
 {'comparison': ['3,4,5-Trimethoxycinnamic acid', 'protein_coding_genes'], 'correl': -0.008784443404988644, 'significance': 0.3455100436909795}
@@ -384,10 +384,10 @@
 {'comparison': ['5704', 'protein_coding_genes'], 'correl': -0.008894248947551003, 'significance': 0.3395138654463542}
 {'comparison': ['1178', 'protein_coding_genes'], 'correl': -0.00898863582594445, 'significance': 0.3344133210568947}
 {'comparison': ['Peptic digest of animal tissue', 'protein_coding_genes'], 'correl': -0.009005912869517152, 'significance': 0.333485067378788}
-{'comparison': ['4478', 'protein_coding_genes'], 'correl': -0.00900964967699552, 'significance': 0.33328451662745173}
+{'comparison': ['4478', 'protein_coding_genes'], 'correl': -0.00901082922645219, 'significance': 0.3332212275415666}
 {'comparison': ['NaVO3 x H2O', 'protein_coding_genes'], 'correl': -0.009057379890586841, 'significance': 0.33072973114774795}
 {'comparison': ['VOSO4 x 5 H2O', 'protein_coding_genes'], 'correl': -0.00926272058585994, 'significance': 0.3198836839450756}
-{'comparison': ['D-Galactose', 'protein_coding_genes'], 'correl': -0.009305519486938594, 'significance': 0.3176526843992682}
+{'comparison': ['D-Galactose', 'protein_coding_genes'], 'correl': -0.009306811167601653, 'significance': 0.3175855112290012}
 {'comparison': ['3954', 'protein_coding_genes'], 'correl': -0.009327872733029463, 'significance': 0.31649152929958463}
 {'comparison': ['4929', 'protein_coding_genes'], 'correl': -0.009407607343989034, 'significance': 0.3123723711402745}
 {'comparison': ['4931', 'protein_coding_genes'], 'correl': -0.009407607343989034, 'significance': 0.3123723711402745}
@@ -395,16 +395,16 @@
 {'comparison': ['4934', 'protein_coding_genes'], 'correl': -0.009407607343989034, 'significance': 0.3123723711402745}
 {'comparison': ['MnSO4 x 4 H2O', 'protein_coding_genes'], 'correl': -0.009458080148266506, 'significance': 0.3097832388401126}
 {'comparison': ['Sodium thioglycollate', 'protein_coding_genes'], 'correl': -0.009499335854530992, 'significance': 0.30767747815828156}
-{'comparison': ['Catalase', 'protein_coding_genes'], 'correl': -0.009597600076010208, 'significance': 0.3027001424449939}
+{'comparison': ['Catalase', 'protein_coding_genes'], 'correl': -0.009597199150045449, 'significance': 0.3027203409771843}
 {'comparison': ['Na-oxalate', 'protein_coding_genes'], 'correl': -0.009599473374378126, 'significance': 0.30260577810061917}
-{'comparison': ['Sodium succinate', 'protein_coding_genes'], 'correl': -0.009678651555644057, 'significance': 0.29863519334493066}
+{'comparison': ['Sodium succinate', 'protein_coding_genes'], 'correl': -0.00967663646022541, 'significance': 0.2987358119665447}
 {'comparison': ['Na malate', 'protein_coding_genes'], 'correl': -0.009715342622507745, 'significance': 0.29680707529979217}
 {'comparison': ['4133', 'protein_coding_genes'], 'correl': -0.009757601004644003, 'significance': 0.29471085983819484}
 {'comparison': ['1625', 'protein_coding_genes'], 'correl': -0.00979167280763311, 'significance': 0.2930279780397298}
-{'comparison': ['Na2SO3', 'protein_coding_genes'], 'correl': -0.00985683320665386, 'significance': 0.28982755478587763}
+{'comparison': ['Na2SO3', 'protein_coding_genes'], 'correl': -0.009855428511590953, 'significance': 0.28989629877644935}
 {'comparison': ['3903', 'protein_coding_genes'], 'correl': -0.009921203802885765, 'significance': 0.2866891111725593}
-{'comparison': ['Bromothymol blue', 'protein_coding_genes'], 'correl': -0.009995303211405761, 'significance': 0.28310484011518217}
-{'comparison': ['N-Acetylglucosamine', 'protein_coding_genes'], 'correl': -0.010004345541839986, 'significance': 0.2826695399357279}
+{'comparison': ['Bromothymol blue', 'protein_coding_genes'], 'correl': -0.009989849040013989, 'significance': 0.2833676248301113}
+{'comparison': ['N-Acetylglucosamine', 'protein_coding_genes'], 'correl': -0.009991883567076996, 'significance': 0.28326958098270105}
 {'comparison': ['Isobutyramide', 'protein_coding_genes'], 'correl': -0.010058837490711618, 'significance': 0.2800558892798322}
 {'comparison': ['5666', 'protein_coding_genes'], 'correl': -0.010058837490711618, 'significance': 0.2800558892798322}
 {'comparison': ['2223', 'protein_coding_genes'], 'correl': -0.010058837490711618, 'significance': 0.2800558892798322}
@@ -415,11 +415,11 @@
 {'comparison': ['5350', 'protein_coding_genes'], 'correl': -0.010219678190298915, 'significance': 0.2724373073171029}
 {'comparison': ['5351', 'protein_coding_genes'], 'correl': -0.010219678190298915, 'significance': 0.2724373073171029}
 {'comparison': ['Charcoal', 'protein_coding_genes'], 'correl': -0.010315843759741886, 'significance': 0.26795056742656753}
-{'comparison': ['Phenol red', 'protein_coding_genes'], 'correl': -0.010417567642468336, 'significance': 0.26326003631487094}
+{'comparison': ['Phenol red', 'protein_coding_genes'], 'correl': -0.01041697680814598, 'significance': 0.26328711531833093}
 {'comparison': ['4826', 'protein_coding_genes'], 'correl': -0.010454201737505548, 'significance': 0.2615847824266237}
 {'comparison': ['Morpholinopropane sulfonic acid', 'protein_coding_genes'], 'correl': -0.010466245027868543, 'significance': 0.2610356630410169}
 {'comparison': ['FeSO4 x 6 H2O', 'protein_coding_genes'], 'correl': -0.010546227874508263, 'significance': 0.25740903378056634}
-{'comparison': ['Sodium Thiosulfate', 'protein_coding_genes'], 'correl': -0.01054781576138824, 'significance': 0.2573373905077951}
+{'comparison': ['Sodium Thiosulfate', 'protein_coding_genes'], 'correl': -0.010547091120061034, 'significance': 0.257370083611849}
 {'comparison': ['Gelatine', 'protein_coding_genes'], 'correl': -0.010557240298077333, 'significance': 0.2569124531027521}
 {'comparison': ['MnCl2', 'protein_coding_genes'], 'correl': -0.010639262624004903, 'significance': 0.2532347567471993}
 {'comparison': ['1457', 'protein_coding_genes'], 'correl': -0.010752873100112253, 'significance': 0.2482015245572644}
@@ -428,8 +428,8 @@
 {'comparison': ['1889', 'protein_coding_genes'], 'correl': -0.010761449070700526, 'significance': 0.24782444832402215}
 {'comparison': ['Fe(NH4)2(SO4)2 x 7 H2O', 'protein_coding_genes'], 'correl': -0.010769513489296195, 'significance': 0.24747023039326216}
 {'comparison': ['2054', 'protein_coding_genes'], 'correl': -0.011007847152961978, 'significance': 0.23716145425519947}
-{'comparison': ['Na pyruvate', 'protein_coding_genes'], 'correl': -0.011024427786710606, 'significance': 0.23645574223393595}
-{'comparison': ['Tryptose', 'protein_coding_genes'], 'correl': -0.01106746131717247, 'significance': 0.23463106166991735}
+{'comparison': ['Na pyruvate', 'protein_coding_genes'], 'correl': -0.011024720663301148, 'significance': 0.23644329005364131}
+{'comparison': ['Tryptose', 'protein_coding_genes'], 'correl': -0.011066785005591847, 'significance': 0.23465966086736934}
 {'comparison': ['Sugar', 'protein_coding_genes'], 'correl': -0.01108386726728617, 'significance': 0.23393805907364543}
 {'comparison': ['Sea salts', 'protein_coding_genes'], 'correl': -0.01108386726728617, 'significance': 0.23393805907364543}
 {'comparison': ['2880', 'protein_coding_genes'], 'correl': -0.01108386726728617, 'significance': 0.23393805907364543}
@@ -437,87 +437,87 @@
 {'comparison': ['4339', 'protein_coding_genes'], 'correl': -0.01108386726728617, 'significance': 0.23393805907364543}
 {'comparison': ['4340', 'protein_coding_genes'], 'correl': -0.01108386726728617, 'significance': 0.23393805907364543}
 {'comparison': ['690', 'protein_coding_genes'], 'correl': -0.011130462408814474, 'significance': 0.23197775002693605}
-{'comparison': ['Cysteine-HCl', 'protein_coding_genes'], 'correl': -0.011158838261841834, 'significance': 0.23078967446126547}
-{'comparison': ['Casein', 'protein_coding_genes'], 'correl': -0.011166746515138173, 'significance': 0.23045933362898294}
-{'comparison': ['3979', 'protein_coding_genes'], 'correl': -0.01118336409055236, 'significance': 0.22976628541823874}
+{'comparison': ['Cysteine-HCl', 'protein_coding_genes'], 'correl': -0.011160232466306368, 'significance': 0.23073141181525153}
+{'comparison': ['Casein', 'protein_coding_genes'], 'correl': -0.011168965790762984, 'significance': 0.23036669123310016}
+{'comparison': ['3979', 'protein_coding_genes'], 'correl': -0.01118551710588464, 'significance': 0.22967660091312656}
 {'comparison': ['Methylamine', 'protein_coding_genes'], 'correl': -0.01127283511890095, 'significance': 0.22606030371574615}
 {'comparison': ['2729', 'protein_coding_genes'], 'correl': -0.01127283511890095, 'significance': 0.22606030371574615}
-{'comparison': ['Na2-9,10-anthraquinone-2,6-disulfonate', 'protein_coding_genes'], 'correl': -0.011400845120957142, 'significance': 0.22083247381348947}
-{'comparison': ['Sodium beta-glycerophosphate', 'protein_coding_genes'], 'correl': -0.011443941885110828, 'significance': 0.21909208981857883}
+{'comparison': ['Na2-9,10-anthraquinone-2,6-disulfonate', 'protein_coding_genes'], 'correl': -0.011397212079038427, 'significance': 0.2209796392537654}
+{'comparison': ['Sodium beta-glycerophosphate', 'protein_coding_genes'], 'correl': -0.011444984332262521, 'significance': 0.21905011483095768}
 {'comparison': ['Na gluconate', 'protein_coding_genes'], 'correl': -0.011647604604874563, 'significance': 0.21100074984013356}
 {'comparison': ['1269', 'protein_coding_genes'], 'correl': -0.011647604604874563, 'significance': 0.21100074984013356}
 {'comparison': ['2439', 'protein_coding_genes'], 'correl': -0.011647604604874563, 'significance': 0.21100074984013356}
 {'comparison': ['2868', 'protein_coding_genes'], 'correl': -0.011647604604874563, 'significance': 0.21100074984013356}
-{'comparison': ['CaSO4 x 2 H2O', 'protein_coding_genes'], 'correl': -0.01165506972912075, 'significance': 0.21070832823208321}
+{'comparison': ['CaSO4 x 2 H2O', 'protein_coding_genes'], 'correl': -0.011668227662858856, 'significance': 0.2101936234832415}
 {'comparison': ['4477', 'protein_coding_genes'], 'correl': -0.011729818353061519, 'significance': 0.2077964485364008}
-{'comparison': ['Cysteine', 'protein_coding_genes'], 'correl': -0.011760177061165318, 'significance': 0.20662217667246938}
+{'comparison': ['Cysteine', 'protein_coding_genes'], 'correl': -0.011773556355270637, 'significance': 0.20610619896202773}
 {'comparison': ['Citric acid', 'protein_coding_genes'], 'correl': -0.011788270403535427, 'significance': 0.20553982711091284}
 {'comparison': ['3383', 'protein_coding_genes'], 'correl': -0.011807314083963053, 'significance': 0.20480847954647743}
-{'comparison': ['4178', 'protein_coding_genes'], 'correl': -0.011889510812108803, 'significance': 0.20167352682739773}
-{'comparison': ['Ethanol absolute', 'protein_coding_genes'], 'correl': -0.011906817166533606, 'significance': 0.20101795111411694}
-{'comparison': ['Diammonium Citrate', 'protein_coding_genes'], 'correl': -0.011912196094432956, 'significance': 0.20081451092630914}
-{'comparison': ['Ascorbic acid', 'protein_coding_genes'], 'correl': -0.011946870006758512, 'significance': 0.19950668915636063}
-{'comparison': ['Fe2(SO4)3 x H2O', 'protein_coding_genes'], 'correl': -0.011975037350798095, 'significance': 0.19844886891235936}
+{'comparison': ['4178', 'protein_coding_genes'], 'correl': -0.011888733181897497, 'significance': 0.20170302050527755}
+{'comparison': ['Ethanol absolute', 'protein_coding_genes'], 'correl': -0.011905127745674251, 'significance': 0.2010818788960094}
+{'comparison': ['Diammonium Citrate', 'protein_coding_genes'], 'correl': -0.011919899670282612, 'significance': 0.2005234103021497}
+{'comparison': ['Ascorbic acid', 'protein_coding_genes'], 'correl': -0.01194893968043548, 'significance': 0.19942882295828598}
+{'comparison': ['Fe2(SO4)3 x H2O', 'protein_coding_genes'], 'correl': -0.01196318885308272, 'significance': 0.19889333665112083}
 {'comparison': ['5118', 'protein_coding_genes'], 'correl': -0.012014964431074837, 'significance': 0.1969564482968267}
 {'comparison': ['Zeikus trace element solution', 'protein_coding_genes'], 'correl': -0.012068646928163312, 'significance': 0.1949628419468403}
 {'comparison': ['2698', 'protein_coding_genes'], 'correl': -0.012068646928163312, 'significance': 0.1949628419468403}
 {'comparison': ['Na-aspartate', 'protein_coding_genes'], 'correl': -0.012068993823511492, 'significance': 0.1949500076001668}
-{'comparison': ['Na3-EDTA', 'protein_coding_genes'], 'correl': -0.012078228289511076, 'significance': 0.1946085809076794}
-{'comparison': ['Ferric ammonium citrate', 'protein_coding_genes'], 'correl': -0.012270562897794622, 'significance': 0.18759678832481916}
+{'comparison': ['Na3-EDTA', 'protein_coding_genes'], 'correl': -0.012079108363755288, 'significance': 0.19457606475720335}
+{'comparison': ['Ferric ammonium citrate', 'protein_coding_genes'], 'correl': -0.012269857646340174, 'significance': 0.1876221539284479}
 {'comparison': ['4331', 'protein_coding_genes'], 'correl': -0.012307819100214477, 'significance': 0.1862603998615397}
-{'comparison': ['L-Alanine', 'protein_coding_genes'], 'correl': -0.012350544571355758, 'significance': 0.18473650231927388}
+{'comparison': ['L-Alanine', 'protein_coding_genes'], 'correl': -0.012358609109143204, 'significance': 0.18444990083228527}
 {'comparison': ['3952', 'protein_coding_genes'], 'correl': -0.012369349105652606, 'significance': 0.1840687287105133}
 {'comparison': ['Na-(L)-lactate', 'protein_coding_genes'], 'correl': -0.012411307549023207, 'significance': 0.18258517487248407}
-{'comparison': ['Na2MoO4 x 2 H2O', 'protein_coding_genes'], 'correl': -0.01245727827452521, 'significance': 0.18096995226115514}
-{'comparison': ['2253', 'protein_coding_genes'], 'correl': -0.012574309666840044, 'significance': 0.1769058616684368}
+{'comparison': ['Na2MoO4 x 2 H2O', 'protein_coding_genes'], 'correl': -0.012452602502859685, 'significance': 0.18113375347917648}
+{'comparison': ['2253', 'protein_coding_genes'], 'correl': -0.012574309619571788, 'significance': 0.17690586329605237}
 {'comparison': ['TES', 'protein_coding_genes'], 'correl': -0.01258473578162168, 'significance': 0.1765471244538626}
 {'comparison': ['Sodium nitrate', 'protein_coding_genes'], 'correl': -0.01258473578162168, 'significance': 0.1765471244538626}
 {'comparison': ['4945', 'protein_coding_genes'], 'correl': -0.01258473578162168, 'significance': 0.1765471244538626}
-{'comparison': ['Na-thioglycolate', 'protein_coding_genes'], 'correl': -0.012586509152652452, 'significance': 0.17648616105960827}
 {'comparison': ['3998', 'protein_coding_genes'], 'correl': -0.012597138484640733, 'significance': 0.1761210840001488}
-{'comparison': ['Glutathione', 'protein_coding_genes'], 'correl': -0.012612250630745241, 'significance': 0.17560300897095954}
+{'comparison': ['Glutathione', 'protein_coding_genes'], 'correl': -0.012613349807470855, 'significance': 0.17556537135119457}
+{'comparison': ['Na-thioglycolate', 'protein_coding_genes'], 'correl': -0.012615250018464202, 'significance': 0.17550031919207446}
 {'comparison': ['2734', 'protein_coding_genes'], 'correl': -0.012659364773914784, 'significance': 0.1739951362752705}
 {'comparison': ['2735', 'protein_coding_genes'], 'correl': -0.012659364773914784, 'significance': 0.1739951362752705}
-{'comparison': ['Meat infusion', 'protein_coding_genes'], 'correl': -0.012705795015521448, 'significance': 0.17242138554613165}
+{'comparison': ['Meat infusion', 'protein_coding_genes'], 'correl': -0.012697498595980959, 'significance': 0.17270180836308704}
 {'comparison': ['Rye grass', 'protein_coding_genes'], 'correl': -0.0127407260239386, 'significance': 0.17124443586100693}
 {'comparison': ['Complan', 'protein_coding_genes'], 'correl': -0.0127407260239386, 'significance': 0.17124443586100693}
 {'comparison': ['Trace minerals (see Medium No. 151', 'protein_coding_genes'], 'correl': -0.012773548776789377, 'significance': 0.17014401146399227}
 {'comparison': ['443', 'protein_coding_genes'], 'correl': -0.01279902864562286, 'significance': 0.16929342651678003}
-{'comparison': ['D-Xylose', 'protein_coding_genes'], 'correl': -0.012818303181237367, 'significance': 0.16865211334460653}
+{'comparison': ['D-Xylose', 'protein_coding_genes'], 'correl': -0.012816069272932568, 'significance': 0.16872634766915542}
 {'comparison': ['n-Decane', 'protein_coding_genes'], 'correl': -0.012915317378348563, 'significance': 0.1654518561361692}
-{'comparison': ['4676', 'protein_coding_genes'], 'correl': -0.012928378689587188, 'significance': 0.16502450940235025}
-{'comparison': ['114', 'protein_coding_genes'], 'correl': -0.012980238369692901, 'significance': 0.16333593349935258}
+{'comparison': ['4676', 'protein_coding_genes'], 'correl': -0.012928193064243247, 'significance': 0.16503057696283974}
+{'comparison': ['114', 'protein_coding_genes'], 'correl': -0.012980202764336389, 'significance': 0.163337088341836}
 {'comparison': ['NiCl2', 'protein_coding_genes'], 'correl': -0.013161977741917302, 'significance': 0.1575211441336078}
 {'comparison': ['Gluconic acid', 'protein_coding_genes'], 'correl': -0.013161977741917302, 'significance': 0.1575211441336078}
 {'comparison': ['L-Cysteine x HCl x H2O solution', 'protein_coding_genes'], 'correl': -0.013173736784405685, 'significance': 0.15715038380103044}
-{'comparison': ['Na2HPO4 x H2O', 'protein_coding_genes'], 'correl': -0.013227105694926189, 'significance': 0.15547598072106245}
-{'comparison': ['Sodium formate', 'protein_coding_genes'], 'correl': -0.013318290139668886, 'significance': 0.15264652945715582}
-{'comparison': ['Malic acid', 'protein_coding_genes'], 'correl': -0.01333486848088349, 'significance': 0.1521363395758665}
-{'comparison': ['Lactose', 'protein_coding_genes'], 'correl': -0.013339924299476391, 'significance': 0.1519810079344875}
+{'comparison': ['Na2HPO4 x H2O', 'protein_coding_genes'], 'correl': -0.0132285259348974, 'significance': 0.15543160761475822}
+{'comparison': ['Sodium formate', 'protein_coding_genes'], 'correl': -0.013318812603045653, 'significance': 0.1526304310757808}
+{'comparison': ['Malic acid', 'protein_coding_genes'], 'correl': -0.013332129024591988, 'significance': 0.15222055529000725}
+{'comparison': ['Lactose', 'protein_coding_genes'], 'correl': -0.013345500233418236, 'significance': 0.15180983664965866}
 {'comparison': ['2,3-butanediol', 'protein_coding_genes'], 'correl': -0.013383818031410463, 'significance': 0.15063751615054996}
-{'comparison': ['Na-L-lactate', 'protein_coding_genes'], 'correl': -0.013411800045756317, 'significance': 0.14978578404073448}
 {'comparison': ['Hy-Case Amino', 'protein_coding_genes'], 'correl': -0.013418310189917584, 'significance': 0.14958815237950934}
 {'comparison': ['4646', 'protein_coding_genes'], 'correl': -0.013418310189917584, 'significance': 0.14958815237950934}
-{'comparison': ['Resazurin', 'protein_coding_genes'], 'correl': -0.013621647010230878, 'significance': 0.1435149964189223}
+{'comparison': ['Na-L-lactate', 'protein_coding_genes'], 'correl': -0.013422949996838443, 'significance': 0.14944742092499835}
 {'comparison': ['Crotonic acid', 'protein_coding_genes'], 'correl': -0.013635520479528368, 'significance': 0.14310762505509955}
 {'comparison': ['K2CO3', 'protein_coding_genes'], 'correl': -0.013635520479528368, 'significance': 0.14310762505509955}
+{'comparison': ['Resazurin', 'protein_coding_genes'], 'correl': -0.013680725799009386, 'significance': 0.14178639951217026}
 {'comparison': ['Pullulan', 'protein_coding_genes'], 'correl': -0.013689641457047456, 'significance': 0.1415269293330819}
 {'comparison': ['Tris-HCl', 'protein_coding_genes'], 'correl': -0.01375420202428382, 'significance': 0.13965891172458225}
 {'comparison': ['5672', 'protein_coding_genes'], 'correl': -0.01375420202428382, 'significance': 0.13965891172458225}
 {'comparison': ['5673', 'protein_coding_genes'], 'correl': -0.01375420202428382, 'significance': 0.13965891172458225}
 {'comparison': ['5674', 'protein_coding_genes'], 'correl': -0.01375420202428382, 'significance': 0.13965891172458225}
 {'comparison': ['Plain flour', 'protein_coding_genes'], 'correl': -0.013806056768601704, 'significance': 0.1381723155664398}
-{'comparison': ['Biotin', 'protein_coding_genes'], 'correl': -0.013829829209853282, 'significance': 0.13749488553850847}
-{'comparison': ['MnCl2 x 4 H2O', 'protein_coding_genes'], 'correl': -0.013914712035234563, 'significance': 0.13509690850549155}
+{'comparison': ['Biotin', 'protein_coding_genes'], 'correl': -0.013828381570776267, 'significance': 0.13753606474812968}
+{'comparison': ['MnCl2 x 4 H2O', 'protein_coding_genes'], 'correl': -0.01390670072348295, 'significance': 0.13532184135428083}
 {'comparison': ['3924', 'protein_coding_genes'], 'correl': -0.014012654465046893, 'significance': 0.13237028816971416}
-{'comparison': ['MOPS buffer', 'protein_coding_genes'], 'correl': -0.014018176801748806, 'significance': 0.132217830405155}
+{'comparison': ['MOPS buffer', 'protein_coding_genes'], 'correl': -0.0140172877317722, 'significance': 0.1322423661910273}
 {'comparison': ['3963', 'protein_coding_genes'], 'correl': -0.01405008179179206, 'significance': 0.13133967564187563}
 {'comparison': ['Selenite-tungstate solution', 'protein_coding_genes'], 'correl': -0.014110624505532467, 'significance': 0.1296857320846632}
-{'comparison': ['(NH4)2HPO4', 'protein_coding_genes'], 'correl': -0.014120852893847194, 'significance': 0.12940791015621675}
-{'comparison': ['Na2HPO4 x 7 H2O', 'protein_coding_genes'], 'correl': -0.014121552292207462, 'significance': 0.12938893009811298}
+{'comparison': ['(NH4)2HPO4', 'protein_coding_genes'], 'correl': -0.014119574467163153, 'significance': 0.12944260929478618}
+{'comparison': ['Na2HPO4 x 7 H2O', 'protein_coding_genes'], 'correl': -0.014120324517212407, 'significance': 0.12942225051273198}
 {'comparison': ['Na-crotonate', 'protein_coding_genes'], 'correl': -0.01413015706092022, 'significance': 0.12915559338430843}
 {'comparison': ['Sigmacell alpha Type 50', 'protein_coding_genes'], 'correl': -0.014138596801112867, 'significance': 0.1289270493775422}
-{'comparison': ['4042', 'protein_coding_genes'], 'correl': -0.014238035218264935, 'significance': 0.1262579054825056}
+{'comparison': ['4042', 'protein_coding_genes'], 'correl': -0.014237213097796776, 'significance': 0.12627979521920676}
 {'comparison': ['4239', 'protein_coding_genes'], 'correl': -0.014281345885572614, 'significance': 0.12510889036025188}
 {'comparison': ['4240', 'protein_coding_genes'], 'correl': -0.014281345885572614, 'significance': 0.12510889036025188}
 {'comparison': ['KH2PO3', 'protein_coding_genes'], 'correl': -0.01444489343771824, 'significance': 0.12084340444079192}
@@ -527,7 +527,7 @@
 {'comparison': ['FeCl3 x 4 H2O', 'protein_coding_genes'], 'correl': -0.014503873781989083, 'significance': 0.1193333587210832}
 {'comparison': ['Fe(NH4)citrate', 'protein_coding_genes'], 'correl': -0.014503873781989083, 'significance': 0.1193333587210832}
 {'comparison': ['MnCl4 x 6 H2O', 'protein_coding_genes'], 'correl': -0.014503873781989083, 'significance': 0.1193333587210832}
-{'comparison': ['CaCl2 x 6 H2O', 'protein_coding_genes'], 'correl': -0.014522572234672371, 'significance': 0.11885772994725326}
+{'comparison': ['CaCl2 x 6 H2O', 'protein_coding_genes'], 'correl': -0.014519076753619664, 'significance': 0.11894653069291206}
 {'comparison': ['2423', 'protein_coding_genes'], 'correl': -0.014644304716999491, 'significance': 0.11579747880906116}
 {'comparison': ['Na-fumarate', 'protein_coding_genes'], 'correl': -0.01469193512089748, 'significance': 0.11461708236427094}
 {'comparison': ['Ammonium Sulfate', 'protein_coding_genes'], 'correl': -0.014713754932377341, 'significance': 0.1140795062514386}
@@ -535,48 +535,49 @@
 {'comparison': ['2890', 'protein_coding_genes'], 'correl': -0.014713754932377341, 'significance': 0.1140795062514386}
 {'comparison': ['Yeast autolysate', 'protein_coding_genes'], 'correl': -0.014746994229986553, 'significance': 0.11326440445129962}
 {'comparison': ['3641', 'protein_coding_genes'], 'correl': -0.014746994229986553, 'significance': 0.11326440445129962}
-{'comparison': ['Disodium succinate', 'protein_coding_genes'], 'correl': -0.014749382197459323, 'significance': 0.11320602324783646}
+{'comparison': ['Disodium succinate', 'protein_coding_genes'], 'correl': -0.01477474542495625, 'significance': 0.1125874032823181}
 {'comparison': ['Polar lipid fraction', 'protein_coding_genes'], 'correl': -0.014822519428053633, 'significance': 0.11142941413730814}
-{'comparison': ['CaSO4', 'protein_coding_genes'], 'correl': -0.01485785004743419, 'significance': 0.11057909954192321}
-{'comparison': ['Fructose', 'protein_coding_genes'], 'correl': -0.01489439125772638, 'significance': 0.10970504791548218}
-{'comparison': ['Urea', 'protein_coding_genes'], 'correl': -0.01496842566417037, 'significance': 0.1079509165613306}
-{'comparison': ['MgSO4 x 6 H2O', 'protein_coding_genes'], 'correl': -0.015079298444060934, 'significance': 0.10536556112446355}
+{'comparison': ['CaSO4', 'protein_coding_genes'], 'correl': -0.014855826698732436, 'significance': 0.11062765747617194}
+{'comparison': ['Fructose', 'protein_coding_genes'], 'correl': -0.0149104429737882, 'significance': 0.10932282716189995}
+{'comparison': ['Urea', 'protein_coding_genes'], 'correl': -0.014972341447319657, 'significance': 0.10785875988193741}
+{'comparison': ['MgSO4 x 6 H2O', 'protein_coding_genes'], 'correl': -0.01508415794979006, 'significance': 0.1052533797818188}
+{'comparison': ['Yeast extract', 'protein_coding_genes'], 'correl': -0.015105680543001498, 'significance': 0.10475767121455785}
+{'comparison': ['Na-acetate x 3 H2O', 'protein_coding_genes'], 'correl': -0.015138732604606917, 'significance': 0.1040000263098828}
 {'comparison': ['1180', 'protein_coding_genes'], 'correl': -0.015148038509037544, 'significance': 0.10378749634640069}
-{'comparison': ['Na-acetate x 3 H2O', 'protein_coding_genes'], 'correl': -0.015156197798322913, 'significance': 0.10360143704975658}
 {'comparison': ['Lab-Lemco beef extract', 'protein_coding_genes'], 'correl': -0.015202822157184567, 'significance': 0.10254332419721324}
 {'comparison': ['Horse blood', 'protein_coding_genes'], 'correl': -0.015202822157184567, 'significance': 0.10254332419721324}
 {'comparison': ['Difco marine broth', 'protein_coding_genes'], 'correl': -0.015263018231367166, 'significance': 0.10118994342620348}
-{'comparison': ['Ethanol', 'protein_coding_genes'], 'correl': -0.015485148123807644, 'significance': 0.09631852600072886}
-{'comparison': ['Cellobiose or Cellulose MN 300', 'protein_coding_genes'], 'correl': -0.0154909830143666, 'significance': 0.09619313862710233}
-{'comparison': ['Coenzyme M', 'protein_coding_genes'], 'correl': -0.015613957275115102, 'significance': 0.09358077008353739}
-{'comparison': ['Ferric citrate monohydrate', 'protein_coding_genes'], 'correl': -0.01567535068959835, 'significance': 0.09229803873520279}
+{'comparison': ['Cellobiose or Cellulose MN 300', 'protein_coding_genes'], 'correl': -0.01549298435660402, 'significance': 0.09615016139326028}
+{'comparison': ['Ethanol', 'protein_coding_genes'], 'correl': -0.01549579568025403, 'significance': 0.09608981640380118}
+{'comparison': ['Coenzyme M', 'protein_coding_genes'], 'correl': -0.015615211828938137, 'significance': 0.09355441552688273}
+{'comparison': ['Ferric citrate monohydrate', 'protein_coding_genes'], 'correl': -0.015687806624032945, 'significance': 0.0920395199637563}
 {'comparison': ['Soya pepton', 'protein_coding_genes'], 'correl': -0.01571128476510071, 'significance': 0.09155382049627543}
-{'comparison': ['MgSO4', 'protein_coding_genes'], 'correl': -0.015893716731606652, 'significance': 0.08784961199936889}
-{'comparison': ['MOPS', 'protein_coding_genes'], 'correl': -0.01594208256689401, 'significance': 0.08688810171339528}
-{'comparison': ['5861', 'protein_coding_genes'], 'correl': -0.016054718175895294, 'significance': 0.08468182081906736}
+{'comparison': ['MgSO4', 'protein_coding_genes'], 'correl': -0.01589048754294713, 'significance': 0.0879141124630062}
+{'comparison': ['MOPS', 'protein_coding_genes'], 'correl': -0.015942530980261518, 'significance': 0.08687922718185381}
+{'comparison': ['5861', 'protein_coding_genes'], 'correl': -0.016052602191327547, 'significance': 0.08472284658903748}
 {'comparison': ['4825', 'protein_coding_genes'], 'correl': -0.016068716846692425, 'significance': 0.08441081221001004}
-{'comparison': ['4221', 'protein_coding_genes'], 'correl': -0.01616229708839367, 'significance': 0.08261711353915768}
-{'comparison': ['Succinic acid', 'protein_coding_genes'], 'correl': -0.016189956321697747, 'significance': 0.08209291014793847}
-{'comparison': ['p-Aminobenzoic acid', 'protein_coding_genes'], 'correl': -0.016267501611295785, 'significance': 0.08063762370826709}
-{'comparison': ['Trichloroethylene', 'protein_coding_genes'], 'correl': -0.016345364310786006, 'significance': 0.07919752836583727}
-{'comparison': ['Potassium phosphate buffer', 'protein_coding_genes'], 'correl': -0.016351648141290344, 'significance': 0.0790822247588381}
+{'comparison': ['4221', 'protein_coding_genes'], 'correl': -0.01616291405409481, 'significance': 0.08260539116886315}
+{'comparison': ['Succinic acid', 'protein_coding_genes'], 'correl': -0.016217217503543088, 'significance': 0.08157889301343059}
+{'comparison': ['p-Aminobenzoic acid', 'protein_coding_genes'], 'correl': -0.016267426362177796, 'significance': 0.08063902568099973}
+{'comparison': ['Trichloroethylene', 'protein_coding_genes'], 'correl': -0.0163456708927149, 'significance': 0.0791918996455239}
+{'comparison': ['Potassium phosphate buffer', 'protein_coding_genes'], 'correl': -0.01635315156160696, 'significance': 0.07905465836479297}
 {'comparison': ['3272', 'protein_coding_genes'], 'correl': -0.01638693316928171, 'significance': 0.07843730394337074}
 {'comparison': ['3273', 'protein_coding_genes'], 'correl': -0.01638693316928171, 'significance': 0.07843730394337074}
-{'comparison': ['Na3-citrate', 'protein_coding_genes'], 'correl': -0.016635551944228225, 'significance': 0.07401358162387928}
+{'comparison': ['Na3-citrate', 'protein_coding_genes'], 'correl': -0.016631381739202786, 'significance': 0.0740860649597326}
 {'comparison': ['Elemental sulphur', 'protein_coding_genes'], 'correl': -0.016859119653105034, 'significance': 0.07021174193402842}
-{'comparison': ['Pancreatic digest of casein', 'protein_coding_genes'], 'correl': -0.016867315337862548, 'significance': 0.07007547440500086}
+{'comparison': ['Pancreatic digest of casein', 'protein_coding_genes'], 'correl': -0.016868718072108095, 'significance': 0.07005217326975148}
 {'comparison': ['Sodium sulfite', 'protein_coding_genes'], 'correl': -0.01689327360909581, 'significance': 0.06964530447299871}
-{'comparison': ['KI', 'protein_coding_genes'], 'correl': -0.017063445174355266, 'significance': 0.06687868491254455}
+{'comparison': ['KI', 'protein_coding_genes'], 'correl': -0.017061134730804527, 'significance': 0.0669156327033437}
 {'comparison': ['3256', 'protein_coding_genes'], 'correl': -0.017213962685979987, 'significance': 0.06450760473783544}
-{'comparison': ['Maltose monohydrate', 'protein_coding_genes'], 'correl': -0.01722969402331267, 'significance': 0.06426384583226499}
-{'comparison': ['NaH2PO4 x H2O', 'protein_coding_genes'], 'correl': -0.017401031203512538, 'significance': 0.0616578664414884}
+{'comparison': ['Maltose monohydrate', 'protein_coding_genes'], 'correl': -0.017231329901621472, 'significance': 0.06423854140805835}
+{'comparison': ['NaH2PO4 x H2O', 'protein_coding_genes'], 'correl': -0.01740187581544693, 'significance': 0.06164524013931583}
 {'comparison': ['4092', 'protein_coding_genes'], 'correl': -0.017449289690371156, 'significance': 0.06093986368461553}
-{'comparison': ['Na glutamate', 'protein_coding_genes'], 'correl': -0.01747555659957076, 'significance': 0.06055197714755347}
 {'comparison': ['Tris buffer', 'protein_coding_genes'], 'correl': -0.017494165528885334, 'significance': 0.060278416847171896}
+{'comparison': ['Na glutamate', 'protein_coding_genes'], 'correl': -0.01751428510466511, 'significance': 0.05998380265667652}
 {'comparison': ['Arabinose', 'protein_coding_genes'], 'correl': -0.017581897508777644, 'significance': 0.05900247837489448}
-{'comparison': ['L-Serine', 'protein_coding_genes'], 'correl': -0.017653527804545117, 'significance': 0.057977413058833215}
-{'comparison': ['4186', 'protein_coding_genes'], 'correl': -0.017742454915605704, 'significance': 0.05672545420906272}
-{'comparison': ['MnSO4 x 2 H2O', 'protein_coding_genes'], 'correl': -0.01787941968193708, 'significance': 0.05484125716373957}
+{'comparison': ['L-Serine', 'protein_coding_genes'], 'correl': -0.017651028530125474, 'significance': 0.058012928130668204}
+{'comparison': ['4186', 'protein_coding_genes'], 'correl': -0.01774345573563122, 'significance': 0.05671149321085059}
+{'comparison': ['MnSO4 x 2 H2O', 'protein_coding_genes'], 'correl': -0.017879175648406673, 'significance': 0.05484456730149194}
 {'comparison': ['H2SO4', 'protein_coding_genes'], 'correl': -0.017885853141728504, 'significance': 0.05475405201235017}
 {'comparison': ['Magnesium sulfate', 'protein_coding_genes'], 'correl': -0.018053069351283153, 'significance': 0.05252769085228811}
 {'comparison': ['Liver Concentrate', 'protein_coding_genes'], 'correl': -0.018053069351283153, 'significance': 0.05252769085228811}
@@ -584,136 +585,135 @@
 {'comparison': ['Potassium Aspartate', 'protein_coding_genes'], 'correl': -0.018053069351283153, 'significance': 0.05252769085228811}
 {'comparison': ['Manganese Sulfate', 'protein_coding_genes'], 'correl': -0.018053069351283153, 'significance': 0.05252769085228811}
 {'comparison': ['Potassium Glutamate', 'protein_coding_genes'], 'correl': -0.018053069351283153, 'significance': 0.05252769085228811}
-{'comparison': ['K2SO4', 'protein_coding_genes'], 'correl': -0.01836447651714467, 'significance': 0.04858308868139842}
-{'comparison': ['Na2SiO3 x 9 H2O', 'protein_coding_genes'], 'correl': -0.018380940433351728, 'significance': 0.04838165550340783}
-{'comparison': ['Sodium thiosulfate pentahydrate', 'protein_coding_genes'], 'correl': -0.018552375297401707, 'significance': 0.04632554493222974}
+{'comparison': ['K2SO4', 'protein_coding_genes'], 'correl': -0.018367361636522916, 'significance': 0.048547738942916356}
+{'comparison': ['Na2SiO3 x 9 H2O', 'protein_coding_genes'], 'correl': -0.0183781492969199, 'significance': 0.04841575511939205}
+{'comparison': ['Sodium thiosulfate pentahydrate', 'protein_coding_genes'], 'correl': -0.018552374716029395, 'significance': 0.04632555177821996}
 {'comparison': ['4090', 'protein_coding_genes'], 'correl': -0.018562588961340592, 'significance': 0.046205404585922115}
-{'comparison': ['Trisodium citrate x 2 H2O', 'protein_coding_genes'], 'correl': -0.01861867215414551, 'significance': 0.045550379689648486}
-{'comparison': ['Na2HPO4 x 2 H2O', 'protein_coding_genes'], 'correl': -0.018645408780020988, 'significance': 0.04524087328278228}
-{'comparison': ['MgCl2 x 2 H2O', 'protein_coding_genes'], 'correl': -0.01867862624352945, 'significance': 0.04485881490726969}
-{'comparison': ['CuSO4', 'protein_coding_genes'], 'correl': -0.018825820889638824, 'significance': 0.0431984045123093}
+{'comparison': ['Trisodium citrate x 2 H2O', 'protein_coding_genes'], 'correl': -0.018627217006323513, 'significance': 0.045451270045960765}
+{'comparison': ['Na2HPO4 x 2 H2O', 'protein_coding_genes'], 'correl': -0.018661896213918137, 'significance': 0.04505089778259069}
+{'comparison': ['MgCl2 x 2 H2O', 'protein_coding_genes'], 'correl': -0.01868021934253471, 'significance': 0.04484056008921504}
 {'comparison': ['4318', 'protein_coding_genes'], 'correl': -0.018825820889638824, 'significance': 0.0431984045123093}
-{'comparison': ['H3BO3', 'protein_coding_genes'], 'correl': -0.01883629435315676, 'significance': 0.04308226518736497}
+{'comparison': ['CuSO4', 'protein_coding_genes'], 'correl': -0.01882621266424308, 'significance': 0.043194055400087736}
+{'comparison': ['H3BO3', 'protein_coding_genes'], 'correl': -0.01882985687661528, 'significance': 0.04315361851378744}
 {'comparison': ['Betaine', 'protein_coding_genes'], 'correl': -0.018905970079543356, 'significance': 0.04231633469640168}
 {'comparison': ['Kao and Michayluk vitamin solution', 'protein_coding_genes'], 'correl': -0.018905970079543356, 'significance': 0.04231633469640168}
-{'comparison': ['NaH2PO4 x 2 H2O', 'protein_coding_genes'], 'correl': -0.019030940246200643, 'significance': 0.04097141078820675}
-{'comparison': ['Dipotassium Phosphate', 'protein_coding_genes'], 'correl': -0.019170625220338418, 'significance': 0.03951116292520322}
-{'comparison': ['Ferric citrate', 'protein_coding_genes'], 'correl': -0.019579006998921213, 'significance': 0.03549290154272687}
-{'comparison': ['CaCl2 x H2O', 'protein_coding_genes'], 'correl': -0.019722181577280243, 'significance': 0.034169228902080455}
-{'comparison': ['Casein hydrolysate', 'protein_coding_genes'], 'correl': -0.01991146572904743, 'significance': 0.03248419666573959}
-{'comparison': ['Ca(NO3)2 x 4 H2O', 'protein_coding_genes'], 'correl': -0.019985784838278554, 'significance': 0.03184233017224787}
-{'comparison': ['L-Cystine', 'protein_coding_genes'], 'correl': -0.020073822072663658, 'significance': 0.031096081434135184}
-{'comparison': ['4172', 'protein_coding_genes'], 'correl': -0.020379292264276573, 'significance': 0.02862200151392136}
-{'comparison': ['Ca(NO3)2', 'protein_coding_genes'], 'correl': -0.020508650572868267, 'significance': 0.027626522011350223}
+{'comparison': ['NaH2PO4 x 2 H2O', 'protein_coding_genes'], 'correl': -0.019024365879467348, 'significance': 0.041041250342162404}
+{'comparison': ['Dipotassium Phosphate', 'protein_coding_genes'], 'correl': -0.019172086173062375, 'significance': 0.0394961268304981}
+{'comparison': ['Ferric citrate', 'protein_coding_genes'], 'correl': -0.019577803565276098, 'significance': 0.035504210304099615}
+{'comparison': ['CaCl2 x H2O', 'protein_coding_genes'], 'correl': -0.019724275738158444, 'significance': 0.03415018539909144}
+{'comparison': ['Casein hydrolysate', 'protein_coding_genes'], 'correl': -0.01990704025817159, 'significance': 0.03252276493874956}
+{'comparison': ['Ca(NO3)2 x 4 H2O', 'protein_coding_genes'], 'correl': -0.0199956378639578, 'significance': 0.03175805500476788}
+{'comparison': ['L-Cystine', 'protein_coding_genes'], 'correl': -0.020075676830075606, 'significance': 0.031080522364552943}
+{'comparison': ['4172', 'protein_coding_genes'], 'correl': -0.020380755794362652, 'significance': 0.0286105683828935}
+{'comparison': ['Ca(NO3)2', 'protein_coding_genes'], 'correl': -0.020505665533549888, 'significance': 0.02764915247712583}
 {'comparison': ['Trace vitamins (see Medium No. 197)', 'protein_coding_genes'], 'correl': -0.020609050246784083, 'significance': 0.02687461042920456}
 {'comparison': ['3862', 'protein_coding_genes'], 'correl': -0.020936949623144737, 'significance': 0.024540690937170023}
 {'comparison': ['4484', 'protein_coding_genes'], 'correl': -0.021022418682746815, 'significance': 0.023961987961086763}
-{'comparison': ['Hemin', 'protein_coding_genes'], 'correl': -0.02106157627298245, 'significance': 0.023700832587896882}
+{'comparison': ['Hemin', 'protein_coding_genes'], 'correl': -0.0210852246418897, 'significance': 0.023544312305857972}
 {'comparison': ['DL-Tryptophan', 'protein_coding_genes'], 'correl': -0.021170809558626547, 'significance': 0.02298532858754848}
-{'comparison': ['Bovine serum albumin', 'protein_coding_genes'], 'correl': -0.02149970044097776, 'significance': 0.020943116694628575}
-{'comparison': ['Nutrient broth', 'protein_coding_genes'], 'correl': -0.021546193203080537, 'significance': 0.020667572722231537}
-{'comparison': ['Na acetate', 'protein_coding_genes'], 'correl': -0.021664511026830566, 'significance': 0.019980560800914232}
-{'comparison': ['Fe2(SO4)3 x n H2O', 'protein_coding_genes'], 'correl': -0.022030554073595825, 'significance': 0.017979780608320593}
-{'comparison': ['Na2-EDTA', 'protein_coding_genes'], 'correl': -0.0220495652959696, 'significance': 0.01788083734704116}
-{'comparison': ['Na-lactate', 'protein_coding_genes'], 'correl': -0.022639498738362414, 'significance': 0.015038517555580819}
-{'comparison': ['Corn meal agar', 'protein_coding_genes'], 'correl': -0.023049007807122258, 'significance': 0.013307121389950646}
-{'comparison': ['NH4HCO3', 'protein_coding_genes'], 'correl': -0.023059409361181483, 'significance': 0.013265538411516809}
-{'comparison': ['Fe(III)-EDTA', 'protein_coding_genes'], 'correl': -0.023085618251955573, 'significance': 0.013161270309290712}
-{'comparison': ['Na-EDTA', 'protein_coding_genes'], 'correl': -0.023249087698116067, 'significance': 0.012527134717516592}
-{'comparison': ['Sodium lactate', 'protein_coding_genes'], 'correl': -0.024446082643472214, 'significance': 0.008651404046559624}
-{'comparison': ['NaNO3', 'protein_coding_genes'], 'correl': -0.02469507262529075, 'significance': 0.007995010988780882}
-{'comparison': ['HEPES', 'protein_coding_genes'], 'correl': -0.024921530505617927, 'significance': 0.007437119345585247}
+{'comparison': ['Nutrient broth', 'protein_coding_genes'], 'correl': -0.02150083794011753, 'significance': 0.020936337180101527}
+{'comparison': ['Bovine serum albumin', 'protein_coding_genes'], 'correl': -0.021502662288635455, 'significance': 0.0209254680243483}
+{'comparison': ['Na acetate', 'protein_coding_genes'], 'correl': -0.02166355822185558, 'significance': 0.019986012665065382}
+{'comparison': ['Fe2(SO4)3 x n H2O', 'protein_coding_genes'], 'correl': -0.022028971026346524, 'significance': 0.017988041110090763}
+{'comparison': ['Na2-EDTA', 'protein_coding_genes'], 'correl': -0.022056265508172895, 'significance': 0.01784608016777449}
+{'comparison': ['Na-lactate', 'protein_coding_genes'], 'correl': -0.022640097972185, 'significance': 0.015035845480256778}
+{'comparison': ['Corn meal agar', 'protein_coding_genes'], 'correl': -0.02304899801556668, 'significance': 0.013307160588513528}
+{'comparison': ['NH4HCO3', 'protein_coding_genes'], 'correl': -0.023059365171433574, 'significance': 0.013265714828563696}
+{'comparison': ['Fe(III)-EDTA', 'protein_coding_genes'], 'correl': -0.023083861959273082, 'significance': 0.013168234734998794}
+{'comparison': ['Na-EDTA', 'protein_coding_genes'], 'correl': -0.02322822146022077, 'significance': 0.012606544210902413}
+{'comparison': ['NaNO3', 'protein_coding_genes'], 'correl': -0.02422316897745663, 'significance': 0.009279477370669049}
+{'comparison': ['Sodium lactate', 'protein_coding_genes'], 'correl': -0.024446923855856003, 'significance': 0.008649107651029287}
+{'comparison': ['HEPES', 'protein_coding_genes'], 'correl': -0.024904845343016294, 'significance': 0.007477000043122027}
 {'comparison': ['CMRL 1066', 'protein_coding_genes'], 'correl': -0.025574617355219893, 'significance': 0.006018441391192827}
-{'comparison': ['Soy peptone', 'protein_coding_genes'], 'correl': -0.025676402755090675, 'significance': 0.005820771286306121}
-{'comparison': ['5902', 'protein_coding_genes'], 'correl': -0.025985272326016405, 'significance': 0.005256250963876001}
-{'comparison': ['Maltose', 'protein_coding_genes'], 'correl': -0.026062537489638025, 'significance': 0.005122996834822119}
-{'comparison': ['MES [2-(N-morpholino) ethane sulfonic acid]', 'protein_coding_genes'], 'correl': -0.026140323585317704, 'significance': 0.004991935492997506}
+{'comparison': ['Soy peptone', 'protein_coding_genes'], 'correl': -0.025583885304272216, 'significance': 0.006000195739554792}
+{'comparison': ['Maltose', 'protein_coding_genes'], 'correl': -0.025825091141806762, 'significance': 0.0055425252261206825}
+{'comparison': ['5902', 'protein_coding_genes'], 'correl': -0.026001396010095632, 'significance': 0.005228187762744031}
+{'comparison': ['MES [2-(N-morpholino) ethane sulfonic acid]', 'protein_coding_genes'], 'correl': -0.026147337881763644, 'significance': 0.004980267446937675}
 {'comparison': ['Tap water', 'protein_coding_genes'], 'correl': -0.02635407255136945, 'significance': 0.004647255523886643}
 {'comparison': ['1474', 'protein_coding_genes'], 'correl': -0.026468135149679963, 'significance': 0.004472277436370795}
-{'comparison': ['2-Mercaptoethanesulfonic acid', 'protein_coding_genes'], 'correl': -0.0266083671858321, 'significance': 0.004265344295473594}
-{'comparison': ['250', 'protein_coding_genes'], 'correl': -0.026655249241237605, 'significance': 0.0041981240396621435}
+{'comparison': ['2-Mercaptoethanesulfonic acid', 'protein_coding_genes'], 'correl': -0.026602880930994027, 'significance': 0.00427327403330512}
+{'comparison': ['250', 'protein_coding_genes'], 'correl': -0.026645954259897287, 'significance': 0.0042113744695181235}
 {'comparison': ['(NH4)2 citrate', 'protein_coding_genes'], 'correl': -0.026846321487007618, 'significance': 0.003933986593517502}
-{'comparison': ['Polypeptone', 'protein_coding_genes'], 'correl': -0.026904982372369535, 'significance': 0.003855975981831326}
+{'comparison': ['Polypeptone', 'protein_coding_genes'], 'correl': -0.026937708728837308, 'significance': 0.0038130678027344608}
 {'comparison': ['3846', 'protein_coding_genes'], 'correl': -0.02702931449199018, 'significance': 0.0036952582820826583}
-{'comparison': ['Na-DL-lactate', 'protein_coding_genes'], 'correl': -0.027095727631503398, 'significance': 0.0036119273031241395}
-{'comparison': ['Methanol', 'protein_coding_genes'], 'correl': -0.027748579136698037, 'significance': 0.002879191409203934}
-{'comparison': ['Potato', 'protein_coding_genes'], 'correl': -0.027758850097153752, 'significance': 0.0028688346598303377}
-{'comparison': ['Proteose peptone', 'protein_coding_genes'], 'correl': -0.027992652027093202, 'significance': 0.002642088027865351}
-{'comparison': ['SrCl2 x 6 H2O', 'protein_coding_genes'], 'correl': -0.02806303388793102, 'significance': 0.0025771099956204096}
-{'comparison': ['Brain heart infusion', 'protein_coding_genes'], 'correl': -0.028088250137020605, 'significance': 0.0025541876230803003}
+{'comparison': ['Na-DL-lactate', 'protein_coding_genes'], 'correl': -0.027055583826919284, 'significance': 0.003662090475348903}
+{'comparison': ['Methanol', 'protein_coding_genes'], 'correl': -0.027709565948335055, 'significance': 0.002918842205615052}
+{'comparison': ['Potato', 'protein_coding_genes'], 'correl': -0.027771650511496822, 'significance': 0.0028559749313508916}
+{'comparison': ['SrCl2 x 6 H2O', 'protein_coding_genes'], 'correl': -0.02805038553315143, 'significance': 0.0025886784446952664}
+{'comparison': ['Proteose peptone', 'protein_coding_genes'], 'correl': -0.02805466884462394, 'significance': 0.0025847555328769793}
+{'comparison': ['Brain heart infusion', 'protein_coding_genes'], 'correl': -0.028075813919750947, 'significance': 0.002565469137631804}
 {'comparison': ['Lactobacilli MRS broth', 'protein_coding_genes'], 'correl': -0.028166895912982354, 'significance': 0.002483888390657548}
 {'comparison': ['2762', 'protein_coding_genes'], 'correl': -0.028505027177379082, 'significance': 0.0022013585932394546}
-{'comparison': ['Trypticase', 'protein_coding_genes'], 'correl': -0.028966748219443124, 'significance': 0.0018630225127839704}
-{'comparison': ['dehydrated Wilkins-Chalgren medium', 'protein_coding_genes'], 'correl': -0.02931354266397124, 'significance': 0.001641072966918275}
+{'comparison': ['Trypticase', 'protein_coding_genes'], 'correl': -0.028975172324752586, 'significance': 0.0018573192781032035}
+{'comparison': ['dehydrated Wilkins-Chalgren medium', 'protein_coding_genes'], 'correl': -0.029320919742409753, 'significance': 0.0016366276239946729}
 {'comparison': ['6262', 'protein_coding_genes'], 'correl': -0.02963491067236402, 'significance': 0.0014573815790513965}
-{'comparison': ['DL-Dithiothreitol', 'protein_coding_genes'], 'correl': -0.029693407081027894, 'significance': 0.001426057352564168}
-{'comparison': ['1605', 'protein_coding_genes'], 'correl': -0.029916838448882002, 'significance': 0.0013120381574379127}
-{'comparison': ['Trimethylamine-HCl', 'protein_coding_genes'], 'correl': -0.02997986868285191, 'significance': 0.0012814293185140861}
+{'comparison': ['DL-Dithiothreitol', 'protein_coding_genes'], 'correl': -0.029692810679462917, 'significance': 0.0014263735637575702}
+{'comparison': ['1605', 'protein_coding_genes'], 'correl': -0.029917983483296506, 'significance': 0.0013114761387506377}
+{'comparison': ['Trimethylamine-HCl', 'protein_coding_genes'], 'correl': -0.02996690286990202, 'significance': 0.001287671428143406}
 {'comparison': ['3847', 'protein_coding_genes'], 'correl': -0.030773842911951087, 'significance': 0.0009483198944937502}
-{'comparison': ['Arginine', 'protein_coding_genes'], 'correl': -0.031189235639270493, 'significance': 0.0008079246294489526}
-{'comparison': ['K2HPO4 x 3 H2O', 'protein_coding_genes'], 'correl': -0.03194365561310426, 'significance': 0.0006010518188871857}
+{'comparison': ['Arginine', 'protein_coding_genes'], 'correl': -0.031188318142039262, 'significance': 0.0008082122674755452}
+{'comparison': ['K2HPO4 x 3 H2O', 'protein_coding_genes'], 'correl': -0.03182850731504219, 'significance': 0.0006290609793408409}
 {'comparison': ['GAM broth', 'protein_coding_genes'], 'correl': -0.031998117110380184, 'significance': 0.0005882126551288984}
-{'comparison': ['Casein peptone', 'protein_coding_genes'], 'correl': -0.03254911211815581, 'significance': 0.000471922600047917}
-{'comparison': ['Meat extract', 'protein_coding_genes'], 'correl': -0.033492814030229134, 'significance': 0.0003211310630594386}
-{'comparison': ['Xylose', 'protein_coding_genes'], 'correl': -0.03381024428738056, 'significance': 0.00028151088046182753}
-{'comparison': ['Na-pyruvate', 'protein_coding_genes'], 'correl': -0.033990073460640924, 'significance': 0.0002611470973818557}
-{'comparison': ['20', 'protein_coding_genes'], 'correl': -0.034270601443470265, 'significance': 0.00023211724520175623}
-{'comparison': ['Casitone', 'protein_coding_genes'], 'correl': -0.034696077193056854, 'significance': 0.00019380771970447434}
+{'comparison': ['Xylose', 'protein_coding_genes'], 'correl': -0.03381045454422364, 'significance': 0.00028148622527786663}
+{'comparison': ['Na-pyruvate', 'protein_coding_genes'], 'correl': -0.0339383571951741, 'significance': 0.0002668573191280725}
+{'comparison': ['20', 'protein_coding_genes'], 'correl': -0.0342638150029056, 'significance': 0.0002327822733859901}
+{'comparison': ['Casitone', 'protein_coding_genes'], 'correl': -0.03539730149151005, 'significance': 0.0001433448536997264}
 {'comparison': ['5540', 'protein_coding_genes'], 'correl': -0.035448685700952, 'significance': 0.0001401816741802159}
-{'comparison': ['Na2-fumarate', 'protein_coding_genes'], 'correl': -0.03738171808009484, 'significance': 5.9286558361778384e-05}
-{'comparison': ['PIPES', 'protein_coding_genes'], 'correl': -0.037638813446691774, 'significance': 5.271088579338071e-05}
-{'comparison': ['NiCl2 x 6 H2O', 'protein_coding_genes'], 'correl': -0.038709509319025226, 'significance': 3.205234486617442e-05}
-{'comparison': ['MES', 'protein_coding_genes'], 'correl': -0.039248384675117966, 'significance': 2.4833752121727103e-05}
-{'comparison': ['FeSO4 x 7 H2O', 'protein_coding_genes'], 'correl': -0.04013325939847442, 'significance': 1.6219491005435852e-05}
-{'comparison': ['Phytone peptone', 'protein_coding_genes'], 'correl': -0.041451009896872386, 'significance': 8.463019338859934e-06}
+{'comparison': ['Casein peptone', 'protein_coding_genes'], 'correl': -0.03551131432918139, 'significance': 0.0001364151724234118}
+{'comparison': ['Meat extract', 'protein_coding_genes'], 'correl': -0.0368985045682099, 'significance': 7.380037395206184e-05}
+{'comparison': ['Na2-fumarate', 'protein_coding_genes'], 'correl': -0.03741730661724215, 'significance': 5.8332113552140065e-05}
+{'comparison': ['PIPES', 'protein_coding_genes'], 'correl': -0.037612229766816656, 'significance': 5.335734401722972e-05}
+{'comparison': ['NiCl2 x 6 H2O', 'protein_coding_genes'], 'correl': -0.03870547033525591, 'significance': 3.211331436161318e-05}
+{'comparison': ['MES', 'protein_coding_genes'], 'correl': -0.039247369386205384, 'significance': 2.484576918083894e-05}
+{'comparison': ['FeSO4 x 7 H2O', 'protein_coding_genes'], 'correl': -0.04044285573732374, 'significance': 1.3944941247817478e-05}
+{'comparison': ['Phytone peptone', 'protein_coding_genes'], 'correl': -0.04141336797488469, 'significance': 8.624060434122038e-06}
 {'comparison': ['155', 'protein_coding_genes'], 'correl': -0.04218027951221418, 'significance': 5.855567003406375e-06}
-{'comparison': ['Sea Salt', 'protein_coding_genes'], 'correl': -0.043661295112667566, 'significance': 2.721426194198315e-06}
-{'comparison': ['NaBr', 'protein_coding_genes'], 'correl': -0.04391569784464123, 'significance': 2.3799251038402715e-06}
-{'comparison': ['Na-formate', 'protein_coding_genes'], 'correl': -0.044566236974063, 'significance': 1.6835407792430697e-06}
-{'comparison': ['Cellobiose', 'protein_coding_genes'], 'correl': -0.045625643962942955, 'significance': 9.483957313697873e-07}
-{'comparison': ['1038', 'protein_coding_genes'], 'correl': -0.0484457853033509, 'significance': 1.9358082804215424e-07}
-{'comparison': ['Casamino acids', 'protein_coding_genes'], 'correl': -0.04881616313766435, 'significance': 1.5607727117298817e-07}
-{'comparison': ['Tryptone', 'protein_coding_genes'], 'correl': -0.05103526810745845, 'significance': 4.1584575905563994e-08}
-{'comparison': ['Fe(III) citrate', 'protein_coding_genes'], 'correl': -0.0528404643183668, 'significance': 1.3609509399904341e-08}
-{'comparison': ['Sodium acetate', 'protein_coding_genes'], 'correl': -0.053758545859782784, 'significance': 7.603104431985657e-09}
-{'comparison': ['Ground beef', 'protein_coding_genes'], 'correl': -0.05417949824630583, 'significance': 5.803204737033206e-09}
-{'comparison': ['3804', 'protein_coding_genes'], 'correl': -0.05501721992627388, 'significance': 3.369692275193022e-09}
-{'comparison': ['KBr', 'protein_coding_genes'], 'correl': -0.0557977743947971, 'significance': 2.0160850944978013e-09}
-{'comparison': ['NaOH', 'protein_coding_genes'], 'correl': -0.05607687744717038, 'significance': 1.6749890531760726e-09}
-{'comparison': ['Yeast extract', 'protein_coding_genes'], 'correl': -0.05643829454056883, 'significance': 1.3158405710126255e-09}
-{'comparison': ['FeCl3 x 6 H2O', 'protein_coding_genes'], 'correl': -0.056697997301794534, 'significance': 1.1053321802237922e-09}
-{'comparison': ['MgCl2', 'protein_coding_genes'], 'correl': -0.05825475038702086, 'significance': 3.8253330119994737e-10}
-{'comparison': ['Trehalose', 'protein_coding_genes'], 'correl': -0.059078826833192565, 'significance': 2.157133290584853e-10}
-{'comparison': ['Fe(NH4)2(SO4)2 x 6 H2O', 'protein_coding_genes'], 'correl': -0.05941029555550113, 'significance': 1.7094519594793204e-10}
-{'comparison': ['L-Cysteine HCl', 'protein_coding_genes'], 'correl': -0.05994983660927732, 'significance': 1.1675072050878945e-10}
-{'comparison': ['CaCl2', 'protein_coding_genes'], 'correl': -0.06293900572118684, 'significance': 1.3293981777079158e-11}
-{'comparison': ['Glycerol', 'protein_coding_genes'], 'correl': -0.06496592447086587, 'significance': 2.8743970208524266e-12}
-{'comparison': ['Na-(DL)-lactate', 'protein_coding_genes'], 'correl': -0.06514663437643406, 'significance': 2.501820833891631e-12}
-{'comparison': ['K2HPO4', 'protein_coding_genes'], 'correl': -0.06724572268288281, 'significance': 4.852983767164898e-13}
-{'comparison': ['D-Glucose', 'protein_coding_genes'], 'correl': -0.0710922295434678, 'significance': 2.107406833417104e-14}
-{'comparison': ['3861', 'protein_coding_genes'], 'correl': -0.07397561018595637, 'significance': 1.7948180331541943e-15}
-{'comparison': ['Na2S2O3 x 5 H2O', 'protein_coding_genes'], 'correl': -0.07550645897178476, 'significance': 4.667974838804391e-16}
-{'comparison': ['FeSO4', 'protein_coding_genes'], 'correl': -0.07807054780705328, 'significance': 4.60340791501197e-17}
-{'comparison': ['Na2SO4', 'protein_coding_genes'], 'correl': -0.08389726941405913, 'significance': 1.7935474715343113e-19}
-{'comparison': ['Bacto peptone', 'protein_coding_genes'], 'correl': -0.08841769205897591, 'significance': 1.846123394021589e-21}
-{'comparison': ['Trypticase peptone', 'protein_coding_genes'], 'correl': -0.09188068174256658, 'significance': 4.7161142911194174e-23}
-{'comparison': ['MgSO4 x 7 H2O', 'protein_coding_genes'], 'correl': -0.09202463335112607, 'significance': 4.037003171281425e-23}
-{'comparison': ['Sulfur', 'protein_coding_genes'], 'correl': -0.09328256027205024, 'significance': 1.0268305816876856e-23}
+{'comparison': ['Sea Salt', 'protein_coding_genes'], 'correl': -0.043681451532337254, 'significance': 2.692738508934666e-06}
+{'comparison': ['NaBr', 'protein_coding_genes'], 'correl': -0.043954178660600675, 'significance': 2.331994867675546e-06}
+{'comparison': ['Na-formate', 'protein_coding_genes'], 'correl': -0.044564822520445996, 'significance': 1.6848170630382015e-06}
+{'comparison': ['Cellobiose', 'protein_coding_genes'], 'correl': -0.04545859404189217, 'significance': 1.0390877149048407e-06}
+{'comparison': ['1038', 'protein_coding_genes'], 'correl': -0.04844546317014218, 'significance': 1.9361695770624885e-07}
+{'comparison': ['Tryptone', 'protein_coding_genes'], 'correl': -0.05014403625098711, 'significance': 7.12072582652382e-08}
+{'comparison': ['Casamino acids', 'protein_coding_genes'], 'correl': -0.0506376243974262, 'significance': 5.2921976515868504e-08}
+{'comparison': ['Fe(III) citrate', 'protein_coding_genes'], 'correl': -0.05266215156774488, 'significance': 1.5221982286095327e-08}
+{'comparison': ['Sodium acetate', 'protein_coding_genes'], 'correl': -0.053803475828960556, 'significance': 7.387715857197461e-09}
+{'comparison': ['Ground beef', 'protein_coding_genes'], 'correl': -0.05423062246776909, 'significance': 5.615128474486084e-09}
+{'comparison': ['3804', 'protein_coding_genes'], 'correl': -0.055026708301572906, 'significance': 3.348856357155066e-09}
+{'comparison': ['KBr', 'protein_coding_genes'], 'correl': -0.055788001588883654, 'significance': 2.029179631165861e-09}
+{'comparison': ['NaOH', 'protein_coding_genes'], 'correl': -0.05605742872847681, 'significance': 1.6968118750833046e-09}
+{'comparison': ['FeCl3 x 6 H2O', 'protein_coding_genes'], 'correl': -0.056676621084245114, 'significance': 1.1213395696935603e-09}
+{'comparison': ['MgCl2', 'protein_coding_genes'], 'correl': -0.05791910172480565, 'significance': 4.819920468553498e-10}
+{'comparison': ['Trehalose', 'protein_coding_genes'], 'correl': -0.05908722318013582, 'significance': 2.1444937533233465e-10}
+{'comparison': ['Fe(NH4)2(SO4)2 x 6 H2O', 'protein_coding_genes'], 'correl': -0.05935661085918883, 'significance': 1.7752317292479332e-10}
+{'comparison': ['L-Cysteine HCl', 'protein_coding_genes'], 'correl': -0.06008535847691417, 'significance': 1.0603229403494024e-10}
+{'comparison': ['CaCl2', 'protein_coding_genes'], 'correl': -0.06270680544986824, 'significance': 1.5795894882277554e-11}
+{'comparison': ['Glycerol', 'protein_coding_genes'], 'correl': -0.06452756114633003, 'significance': 4.0190457256350755e-12}
+{'comparison': ['Na-(DL)-lactate', 'protein_coding_genes'], 'correl': -0.06518715252890754, 'significance': 2.425022332561509e-12}
+{'comparison': ['K2HPO4', 'protein_coding_genes'], 'correl': -0.06551863079866134, 'significance': 1.8777351265731114e-12}
+{'comparison': ['D-Glucose', 'protein_coding_genes'], 'correl': -0.07105528401828036, 'significance': 2.173625833511872e-14}
+{'comparison': ['3861', 'protein_coding_genes'], 'correl': -0.07400433021394638, 'significance': 1.7504739530957903e-15}
+{'comparison': ['Na2S2O3 x 5 H2O', 'protein_coding_genes'], 'correl': -0.07557578452406995, 'significance': 4.3889705950242453e-16}
+{'comparison': ['FeSO4', 'protein_coding_genes'], 'correl': -0.07812501425140475, 'significance': 4.378749710366957e-17}
+{'comparison': ['Na2SO4', 'protein_coding_genes'], 'correl': -0.08351828502439117, 'significance': 2.603975386498145e-19}
+{'comparison': ['Bacto peptone', 'protein_coding_genes'], 'correl': -0.08959104110768826, 'significance': 5.413107748269449e-22}
+{'comparison': ['Trypticase peptone', 'protein_coding_genes'], 'correl': -0.09185097171291373, 'significance': 4.869761137170404e-23}
+{'comparison': ['Sulfur', 'protein_coding_genes'], 'correl': -0.09330055949111783, 'significance': 1.0067762790778703e-23}
 {'comparison': ['(NH4)3 citrate', 'protein_coding_genes'], 'correl': -0.09332485277363474, 'significance': 9.803230081177275e-24}
-{'comparison': ['241', 'protein_coding_genes'], 'correl': -0.0949076727495866, 'significance': 1.7039385389504112e-24}
-{'comparison': ['MnSO4 x H2O', 'protein_coding_genes'], 'correl': -0.09848685592749452, 'significance': 2.923769210691654e-26}
-{'comparison': ['Tween 80', 'protein_coding_genes'], 'correl': -0.10432422256791066, 'significance': 2.791922966988636e-29}
-{'comparison': ['5980', 'protein_coding_genes'], 'correl': -0.10740749410160691, 'significance': 6.027527971842973e-31}
-{'comparison': ['CaCl2 x 2 H2O', 'protein_coding_genes'], 'correl': -0.10816847071283661, 'significance': 2.298731215540807e-31}
-{'comparison': ['Na2CO3', 'protein_coding_genes'], 'correl': -0.10905413475558318, 'significance': 7.421360247468871e-32}
-{'comparison': ['L-Cysteine HCl x H2O', 'protein_coding_genes'], 'correl': -0.10914322079144519, 'significance': 6.620200866776605e-32}
-{'comparison': ['Na-acetate', 'protein_coding_genes'], 'correl': -0.12227223063538224, 'significance': 1.1490865314978496e-39}
-{'comparison': ['NaCl', 'protein_coding_genes'], 'correl': -0.13361793507992886, 'significance': 4.273801669066976e-47}
-{'comparison': ['NaHCO3', 'protein_coding_genes'], 'correl': -0.13966639197137898, 'significance': 2.4759958303491334e-51}
-{'comparison': ['KH2PO4', 'protein_coding_genes'], 'correl': -0.140884938700549, 'significance': 3.286607209755166e-52}
-{'comparison': ['Trypticase soy broth', 'protein_coding_genes'], 'correl': -0.14251785660947627, 'significance': 2.1339702463269352e-53}
-{'comparison': ['Sodium resazurin', 'protein_coding_genes'], 'correl': -0.14689636216889704, 'significance': 1.1885412885804116e-56}
-{'comparison': ['Na2S x 9 H2O', 'protein_coding_genes'], 'correl': -0.15295189642168625, 'significance': 2.5476099459405906e-61}
-{'comparison': ['KCl', 'protein_coding_genes'], 'correl': -0.1606446624614123, 'significance': 1.5543562490496874e-67}
-{'comparison': ['MgCl2 x 6 H2O', 'protein_coding_genes'], 'correl': -0.1666657781923197, 'significance': 1.2726558236970196e-72}
-{'comparison': ['NH4Cl', 'protein_coding_genes'], 'correl': -0.1699708020159158, 'significance': 1.6939624442153459e-75}
+{'comparison': ['241', 'protein_coding_genes'], 'correl': -0.0950227575645685, 'significance': 1.4986608445046548e-24}
+{'comparison': ['MgSO4 x 7 H2O', 'protein_coding_genes'], 'correl': -0.09535049823684189, 'significance': 1.0388808121021863e-24}
+{'comparison': ['MnSO4 x H2O', 'protein_coding_genes'], 'correl': -0.0985353431709974, 'significance': 2.7642437437248376e-26}
+{'comparison': ['CaCl2 x 2 H2O', 'protein_coding_genes'], 'correl': -0.10298110268084469, 'significance': 1.4330437784339976e-28}
+{'comparison': ['Tween 80', 'protein_coding_genes'], 'correl': -0.10446860867822565, 'significance': 2.3387743761656608e-29}
+{'comparison': ['5980', 'protein_coding_genes'], 'correl': -0.10746453514670289, 'significance': 5.608691039806944e-31}
+{'comparison': ['Na2CO3', 'protein_coding_genes'], 'correl': -0.1088140064580126, 'significance': 1.0092716777787334e-31}
+{'comparison': ['L-Cysteine HCl x H2O', 'protein_coding_genes'], 'correl': -0.10960564799444003, 'significance': 3.653307201547532e-32}
+{'comparison': ['Na-acetate', 'protein_coding_genes'], 'correl': -0.12286083764992745, 'significance': 4.914332941935524e-40}
+{'comparison': ['KH2PO4', 'protein_coding_genes'], 'correl': -0.13532053548958844, 'significance': 2.868252601903104e-48}
+{'comparison': ['NaHCO3', 'protein_coding_genes'], 'correl': -0.14201660233327057, 'significance': 4.957181193887711e-53}
+{'comparison': ['Trypticase soy broth', 'protein_coding_genes'], 'correl': -0.14263327240643656, 'significance': 1.7567744452259782e-53}
+{'comparison': ['NaCl', 'protein_coding_genes'], 'correl': -0.14644425631276034, 'significance': 2.604627066899348e-56}
+{'comparison': ['Sodium resazurin', 'protein_coding_genes'], 'correl': -0.1468226045352384, 'significance': 1.3510651028309265e-56}
+{'comparison': ['Na2S x 9 H2O', 'protein_coding_genes'], 'correl': -0.15417432617342244, 'significance': 2.753206907756114e-62}
+{'comparison': ['KCl', 'protein_coding_genes'], 'correl': -0.15536211022387372, 'significance': 3.113549579105769e-63}
+{'comparison': ['MgCl2 x 6 H2O', 'protein_coding_genes'], 'correl': -0.167140510779277, 'significance': 4.9577426529865336e-73}
+{'comparison': ['NH4Cl', 'protein_coding_genes'], 'correl': -0.16737337510168768, 'significance': 3.1189296092320025e-73}

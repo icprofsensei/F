@@ -1,34 +1,35 @@
-{'comparison': ['Agar', 'chromosome_numbers'], 'correl': 0.08065536594929938, 'significance': 4.124692455956806e-18}
+{'comparison': ['Agar', 'chromosome_numbers'], 'correl': 0.085608458948135, 'significance': 3.262465601440737e-20}
 {'comparison': ['147', 'chromosome_numbers'], 'correl': 0.05205886857160284, 'significance': 2.2173644643721763e-08}
-{'comparison': ['Peptone', 'chromosome_numbers'], 'correl': 0.04699490677323221, 'significance': 4.4336365479837084e-07}
-{'comparison': ['Meat extract', 'chromosome_numbers'], 'correl': 0.04288845637393342, 'significance': 4.071685058933248e-06}
-{'comparison': ['CaCO3', 'chromosome_numbers'], 'correl': 0.03647472414180761, 'significance': 8.923655852084875e-05}
-{'comparison': ['Na3-citrate', 'chromosome_numbers'], 'correl': 0.0356545209043163, 'significance': 0.00012815781378557595}
+{'comparison': ['Peptone', 'chromosome_numbers'], 'correl': 0.048856515303370034, 'significance': 1.5244386544679233e-07}
+{'comparison': ['Meat extract', 'chromosome_numbers'], 'correl': 0.0423499124570064, 'significance': 5.370230728591744e-06}
+{'comparison': ['CaCO3', 'chromosome_numbers'], 'correl': 0.03808420228801138, 'significance': 4.292405203479113e-05}
+{'comparison': ['Na3-citrate', 'chromosome_numbers'], 'correl': 0.035665330740848135, 'significance': 0.00012755402391771253}
 {'comparison': ['Rolled oats', 'chromosome_numbers'], 'correl': 0.03562394977708651, 'significance': 0.0001298799943544158}
-{'comparison': ['Na glutamate', 'chromosome_numbers'], 'correl': 0.03409518348170964, 'significance': 0.00024989263335286444}
+{'comparison': ['Na glutamate', 'chromosome_numbers'], 'correl': 0.03413979008364626, 'significance': 0.00024525531625612057}
 {'comparison': ['Na-ampicillin', 'chromosome_numbers'], 'correl': 0.03403196788350056, 'significance': 0.00025660554154045915}
 {'comparison': ['2294', 'chromosome_numbers'], 'correl': 0.03403196788350056, 'significance': 0.00025660554154045915}
-{'comparison': ['N-Acetylglucosamine', 'chromosome_numbers'], 'correl': 0.03391233734557195, 'significance': 0.00026977434110227427}
+{'comparison': ['N-Acetylglucosamine', 'chromosome_numbers'], 'correl': 0.03391760131141339, 'significance': 0.00026918181012073044}
 {'comparison': ['Na-malate', 'chromosome_numbers'], 'correl': 0.03278814783500056, 'significance': 0.00042847173071198293}
 {'comparison': ['Bis-Tris', 'chromosome_numbers'], 'correl': 0.03278814783500056, 'significance': 0.00042847173071198293}
-{'comparison': ['934', 'chromosome_numbers'], 'correl': 0.02913806805258322, 'significance': 0.0017501426856228854}
-{'comparison': ['Fe(III) citrate', 'chromosome_numbers'], 'correl': 0.02467341177316012, 'significance': 0.00805028938922731}
+{'comparison': ['934', 'chromosome_numbers'], 'correl': 0.029120403968182777, 'significance': 0.0017614835422488523}
+{'comparison': ['Fe(III) citrate', 'chromosome_numbers'], 'correl': 0.024804793587600696, 'significance': 0.007720190730919794}
 {'comparison': ['1209', 'chromosome_numbers'], 'correl': 0.023808855534408938, 'significance': 0.010555731977635416}
 {'comparison': ['2164', 'chromosome_numbers'], 'correl': 0.02268473976266029, 'significance': 0.014837953125653433}
 {'comparison': ['2769', 'chromosome_numbers'], 'correl': 0.02268473976266029, 'significance': 0.014837953125653433}
-{'comparison': ['K-acetate', 'chromosome_numbers'], 'correl': 0.022345833393041647, 'significance': 0.016399417863270295}
+{'comparison': ['K-acetate', 'chromosome_numbers'], 'correl': 0.022344955756140025, 'significance': 0.016403642045740144}
+{'comparison': ['4059', 'chromosome_numbers'], 'correl': 0.022151794382727696, 'significance': 0.017356926139430417}
 {'comparison': ['Bacto Tryptone', 'chromosome_numbers'], 'correl': 0.02211051699510387, 'significance': 0.017566825106143713}
 {'comparison': ['Sodium glutamate monohydrate', 'chromosome_numbers'], 'correl': 0.02211051699510387, 'significance': 0.017566825106143713}
 {'comparison': ['2988', 'chromosome_numbers'], 'correl': 0.02211051699510387, 'significance': 0.017566825106143713}
-{'comparison': ['4059', 'chromosome_numbers'], 'correl': 0.022091702042966177, 'significance': 0.01766323663837698}
-{'comparison': ['MgCl2', 'chromosome_numbers'], 'correl': 0.02115233563058117, 'significance': 0.023105002821687936}
-{'comparison': ['Mannitol', 'chromosome_numbers'], 'correl': 0.020710326203146806, 'significance': 0.02613410155076397}
-{'comparison': ['Oatmeal', 'chromosome_numbers'], 'correl': 0.02000912255737555, 'significance': 0.03164302734914721}
-{'comparison': ['L-Asparagine', 'chromosome_numbers'], 'correl': 0.019726847232315665, 'significance': 0.034126813616333324}
+{'comparison': ['MgCl2', 'chromosome_numbers'], 'correl': 0.02131586851440455, 'significance': 0.02206420241973285}
+{'comparison': ['Mannitol', 'chromosome_numbers'], 'correl': 0.020711597469581122, 'significance': 0.026124919516563636}
+{'comparison': ['Oatmeal', 'chromosome_numbers'], 'correl': 0.020078989363337785, 'significance': 0.031052751018819897}
+{'comparison': ['L-Asparagine', 'chromosome_numbers'], 'correl': 0.019757306641722906, 'significance': 0.033851012619186716}
 {'comparison': ['Na-3-hydroxybutyrate', 'chromosome_numbers'], 'correl': 0.019258867813562272, 'significance': 0.03861164313600562}
-{'comparison': ['KBr', 'chromosome_numbers'], 'correl': 0.01920629785297055, 'significance': 0.039145406947821336}
+{'comparison': ['KBr', 'chromosome_numbers'], 'correl': 0.01914607016251632, 'significance': 0.03976461102894757}
+{'comparison': ['Malt extract', 'chromosome_numbers'], 'correl': 0.01852904373612291, 'significance': 0.046600974027885086}
 {'comparison': ['Trace metal solution', 'chromosome_numbers'], 'correl': 0.01849578300738193, 'significance': 0.04699599855323501}
-{'comparison': ['Na2HPO4', 'chromosome_numbers'], 'correl': 0.018281149410620524, 'significance': 0.049613412746140124}
+{'comparison': ['Na2HPO4', 'chromosome_numbers'], 'correl': 0.018244976245583404, 'significance': 0.050066357915809996}
 {'comparison': ['Succinate', 'chromosome_numbers'], 'correl': 0.017977209239634844, 'significance': 0.05352815476256131}
 {'comparison': ['Malate', 'chromosome_numbers'], 'correl': 0.017977209239634844, 'significance': 0.05352815476256131}
 {'comparison': ['2842', 'chromosome_numbers'], 'correl': 0.017977209239634844, 'significance': 0.05352815476256131}
@@ -43,24 +44,24 @@
 {'comparison': ['2766', 'chromosome_numbers'], 'correl': 0.01765015172474246, 'significance': 0.058025391951771706}
 {'comparison': ['2765', 'chromosome_numbers'], 'correl': 0.01765015172474246, 'significance': 0.058025391951771706}
 {'comparison': ['4622', 'chromosome_numbers'], 'correl': 0.01765015172474246, 'significance': 0.058025391951771706}
-{'comparison': ['Malt extract', 'chromosome_numbers'], 'correl': 0.0170633523681516, 'significance': 0.06688016871249765}
 {'comparison': ['Ammonium acetate', 'chromosome_numbers'], 'correl': 0.016429482585525124, 'significance': 0.07766530771975381}
 {'comparison': ['Na2-DL-malate', 'chromosome_numbers'], 'correl': 0.01640832520911867, 'significance': 0.07804840004079477}
 {'comparison': ['Fe(NH4)2(SO4)2', 'chromosome_numbers'], 'correl': 0.01614631310363443, 'significance': 0.08292128002696333}
 {'comparison': ['Isobutyramide', 'chromosome_numbers'], 'correl': 0.01614631310363443, 'significance': 0.08292128002696333}
 {'comparison': ['5666', 'chromosome_numbers'], 'correl': 0.01614631310363443, 'significance': 0.08292128002696333}
 {'comparison': ['2223', 'chromosome_numbers'], 'correl': 0.01614631310363443, 'significance': 0.08292128002696333}
-{'comparison': ['Oat flakes', 'chromosome_numbers'], 'correl': 0.01606902205071382, 'significance': 0.08440491140902917}
-{'comparison': ['Vitamin B12', 'chromosome_numbers'], 'correl': 0.01594973115919472, 'significance': 0.08673682888668839}
-{'comparison': ['NaBr', 'chromosome_numbers'], 'correl': 0.01492643924985106, 'significance': 0.10894297463070775}
+{'comparison': ['Oat flakes', 'chromosome_numbers'], 'correl': 0.016057621141380898, 'significance': 0.08462556281490828}
+{'comparison': ['Vitamin B12', 'chromosome_numbers'], 'correl': 0.015954808178700104, 'significance': 0.08663653373432882}
+{'comparison': ['NaBr', 'chromosome_numbers'], 'correl': 0.014979264189268064, 'significance': 0.10769598779557932}
+{'comparison': ['Beef extract', 'chromosome_numbers'], 'correl': 0.014976642178445979, 'significance': 0.107757615352209}
 {'comparison': ['Magnesium sulfate', 'chromosome_numbers'], 'correl': 0.014911747032941194, 'significance': 0.10929182142161738}
 {'comparison': ['Liver Concentrate', 'chromosome_numbers'], 'correl': 0.014911747032941194, 'significance': 0.10929182142161738}
 {'comparison': ['Betaine Hydrochloride', 'chromosome_numbers'], 'correl': 0.014911747032941194, 'significance': 0.10929182142161738}
 {'comparison': ['Potassium Aspartate', 'chromosome_numbers'], 'correl': 0.014911747032941194, 'significance': 0.10929182142161738}
 {'comparison': ['Manganese Sulfate', 'chromosome_numbers'], 'correl': 0.014911747032941194, 'significance': 0.10929182142161738}
 {'comparison': ['Potassium Glutamate', 'chromosome_numbers'], 'correl': 0.014911747032941194, 'significance': 0.10929182142161738}
+{'comparison': ['CaCl2', 'chromosome_numbers'], 'correl': 0.01485099618792352, 'significance': 0.11074365200448254}
 {'comparison': ['V-8 Juice', 'chromosome_numbers'], 'correl': 0.014504360096542802, 'significance': 0.11932096957663389}
-{'comparison': ['CaCl2', 'chromosome_numbers'], 'correl': 0.014348616231577719, 'significance': 0.12334041564105765}
 {'comparison': ['Charcoal', 'chromosome_numbers'], 'correl': 0.014267132409270446, 'significance': 0.1254850664063583}
 {'comparison': ['L-Tryptophan', 'chromosome_numbers'], 'correl': 0.013617485620064625, 'significance': 0.14363736195307736}
 {'comparison': ['DL-Na-malate', 'chromosome_numbers'], 'correl': 0.013617485620064625, 'significance': 0.14363736195307736}
@@ -73,46 +74,45 @@
 {'comparison': ['3641', 'chromosome_numbers'], 'correl': 0.013617485620064625, 'significance': 0.14363736195307736}
 {'comparison': ['5296', 'chromosome_numbers'], 'correl': 0.013617485620064625, 'significance': 0.14363736195307736}
 {'comparison': ['4025', 'chromosome_numbers'], 'correl': 0.013617485620064625, 'significance': 0.14363736195307736}
-{'comparison': ['Beef extract', 'chromosome_numbers'], 'correl': 0.013602473119514541, 'significance': 0.1440794690320934}
-{'comparison': ['Na2-glutamate', 'chromosome_numbers'], 'correl': 0.013593967338752328, 'significance': 0.1443304205216853}
+{'comparison': ['Na2-glutamate', 'chromosome_numbers'], 'correl': 0.013589562311086373, 'significance': 0.1444605164663837}
 {'comparison': ['Czapek-Dox liquid medium', 'chromosome_numbers'], 'correl': 0.013178481952482852, 'significance': 0.1570009570010688}
 {'comparison': ['3963', 'chromosome_numbers'], 'correl': 0.013110798250312874, 'significance': 0.15914254592703403}
-{'comparison': ['Diammonium Citrate', 'chromosome_numbers'], 'correl': 0.012860088724916938, 'significance': 0.16726806343336434}
+{'comparison': ['Diammonium Citrate', 'chromosome_numbers'], 'correl': 0.012864618113366163, 'significance': 0.16711855195741948}
 {'comparison': ['5605', 'chromosome_numbers'], 'correl': 0.012785042656021067, 'significance': 0.1697599199387462}
-{'comparison': ['Dipotassium Phosphate', 'chromosome_numbers'], 'correl': 0.012658874077942587, 'significance': 0.17401182548887567}
+{'comparison': ['Dipotassium Phosphate', 'chromosome_numbers'], 'correl': 0.012662008568095863, 'significance': 0.173905237938933}
 {'comparison': ['Corn meal', 'chromosome_numbers'], 'correl': 0.012299169084665912, 'significance': 0.1865700490900425}
 {'comparison': ['3685', 'chromosome_numbers'], 'correl': 0.012062657800382173, 'significance': 0.19518452389590585}
-{'comparison': ['EDTA', 'chromosome_numbers'], 'correl': 0.011474988241594226, 'significance': 0.21784445675126446}
+{'comparison': ['EDTA', 'chromosome_numbers'], 'correl': 0.011467195099012478, 'significance': 0.21815715192231577}
 {'comparison': ['K2S4O6', 'chromosome_numbers'], 'correl': 0.011229388921140334, 'significance': 0.2278545278986077}
-{'comparison': ['612', 'chromosome_numbers'], 'correl': 0.011178230459412629, 'significance': 0.22998022886741515}
-{'comparison': ['Potato', 'chromosome_numbers'], 'correl': 0.011067431692295968, 'significance': 0.234632314365798}
-{'comparison': ['dehydrated Wilkins-Chalgren medium', 'chromosome_numbers'], 'correl': 0.010986039601982142, 'significance': 0.23809190052536452}
-{'comparison': ['Casein peptone', 'chromosome_numbers'], 'correl': 0.01059232009136661, 'significance': 0.2553350421526508}
-{'comparison': ['Disodium succinate', 'chromosome_numbers'], 'correl': 0.010472994949085964, 'significance': 0.2607282460550144}
-{'comparison': ['Bacto peptone', 'chromosome_numbers'], 'correl': 0.010204335301777197, 'significance': 0.2731578788927073}
-{'comparison': ['CaSO4 x 2 H2O', 'chromosome_numbers'], 'correl': 0.010004054813875994, 'significance': 0.2826835285951442}
+{'comparison': ['612', 'chromosome_numbers'], 'correl': 0.011177468103787735, 'significance': 0.23001201202103644}
+{'comparison': ['Potato', 'chromosome_numbers'], 'correl': 0.011074174506809708, 'significance': 0.23434731476843532}
+{'comparison': ['dehydrated Wilkins-Chalgren medium', 'chromosome_numbers'], 'correl': 0.010980737675349794, 'significance': 0.23831850272364977}
+{'comparison': ['Casein peptone', 'chromosome_numbers'], 'correl': 0.010667527642208238, 'significance': 0.2519759522530517}
+{'comparison': ['Disodium succinate', 'chromosome_numbers'], 'correl': 0.010477463082488193, 'significance': 0.2605248881226071}
 {'comparison': ['NaVO3 x H2O', 'chromosome_numbers'], 'correl': 0.009981325423944592, 'significance': 0.28377862766366213}
-{'comparison': ['Na2WO4 x 2 H2O', 'chromosome_numbers'], 'correl': 0.009974204246440743, 'significance': 0.28412231518828984}
 {'comparison': ['1303', 'chromosome_numbers'], 'correl': 0.009974204246440743, 'significance': 0.28412231518828984}
 {'comparison': ['5118', 'chromosome_numbers'], 'correl': 0.009974204246440743, 'significance': 0.28412231518828984}
-{'comparison': ['1268', 'chromosome_numbers'], 'correl': 0.009502335019969398, 'significance': 0.30752476592695105}
+{'comparison': ['Na2WO4 x 2 H2O', 'chromosome_numbers'], 'correl': 0.00997384495709641, 'significance': 0.28413966293804693}
+{'comparison': ['CaSO4 x 2 H2O', 'chromosome_numbers'], 'correl': 0.009952419943116506, 'significance': 0.2851754338130641}
+{'comparison': ['1268', 'chromosome_numbers'], 'correl': 0.009502272051646736, 'significance': 0.30752797164755724}
 {'comparison': ['3998', 'chromosome_numbers'], 'correl': 0.009351800396990862, 'significance': 0.31525167988984004}
-{'comparison': ['NaH2PO4', 'chromosome_numbers'], 'correl': 0.00927670684332666, 'significance': 0.3191534909464746}
-{'comparison': ['L(+)-Tartaric acid', 'chromosome_numbers'], 'correl': 0.009144710736384459, 'significance': 0.3260881889806523}
+{'comparison': ['NaH2PO4', 'chromosome_numbers'], 'correl': 0.009273876630063028, 'significance': 0.3193011623120828}
+{'comparison': ['L(+)-Tartaric acid', 'chromosome_numbers'], 'correl': 0.009144472038368082, 'significance': 0.32610081754814346}
+{'comparison': ['Bacto peptone', 'chromosome_numbers'], 'correl': 0.008903326718353718, 'significance': 0.3390211573980265}
 {'comparison': ['Dextran', 'chromosome_numbers'], 'correl': 0.008901829711222607, 'significance': 0.33910237784313346}
 {'comparison': ['1935', 'chromosome_numbers'], 'correl': 0.008901829711222607, 'significance': 0.33910237784313346}
-{'comparison': ['Dextrose', 'chromosome_numbers'], 'correl': 0.008751768804103575, 'significance': 0.3473072650548884}
+{'comparison': ['Dextrose', 'chromosome_numbers'], 'correl': 0.008845878044878479, 'significance': 0.34214699714130903}
 {'comparison': ['Corn steep liquor', 'chromosome_numbers'], 'correl': 0.008739171115395525, 'significance': 0.3480017691656663}
-{'comparison': ['Fe2(SO4)3 x H2O', 'chromosome_numbers'], 'correl': 0.008637433421579079, 'significance': 0.35364283368267824}
-{'comparison': ['Trypticase soy broth', 'chromosome_numbers'], 'correl': 0.008517644259669301, 'significance': 0.3603584370320868}
+{'comparison': ['Fe2(SO4)3 x H2O', 'chromosome_numbers'], 'correl': 0.008646084831884199, 'significance': 0.35316090142487333}
+{'comparison': ['Trypticase soy broth', 'chromosome_numbers'], 'correl': 0.008565243790457812, 'significance': 0.3576803928831854}
 {'comparison': ['4331', 'chromosome_numbers'], 'correl': 0.00837282412419212, 'significance': 0.36858342697555935}
-{'comparison': ['Sodium gluconate', 'chromosome_numbers'], 'correl': 0.008360614951276707, 'significance': 0.36928213950647026}
-{'comparison': ['Glutathione', 'chromosome_numbers'], 'correl': 0.008360614951276707, 'significance': 0.36928213950647026}
-{'comparison': ['Betaine x H2O', 'chromosome_numbers'], 'correl': 0.008082141913527118, 'significance': 0.38544166333090946}
+{'comparison': ['Sodium gluconate', 'chromosome_numbers'], 'correl': 0.008360614825540905, 'significance': 0.36928214670637793}
+{'comparison': ['Glutathione', 'chromosome_numbers'], 'correl': 0.008360614825540905, 'significance': 0.36928214670637793}
+{'comparison': ['Betaine x H2O', 'chromosome_numbers'], 'correl': 0.008076146524945076, 'significance': 0.3857942545769032}
 {'comparison': ['(NH4)2 citrate', 'chromosome_numbers'], 'correl': 0.007850796760978872, 'significance': 0.3991896289380954}
 {'comparison': ['(NH4)3 citrate', 'chromosome_numbers'], 'correl': 0.007760405330160019, 'significance': 0.4046404340016022}
-{'comparison': ['Trisodium citrate x 2 H2O', 'chromosome_numbers'], 'correl': 0.007570099155268911, 'significance': 0.41626083204209596}
-{'comparison': ['KI', 'chromosome_numbers'], 'correl': 0.007554599849716536, 'significance': 0.41721583832189413}
+{'comparison': ['Trisodium citrate x 2 H2O', 'chromosome_numbers'], 'correl': 0.0075802990108950734, 'significance': 0.41563306141040857}
+{'comparison': ['KI', 'chromosome_numbers'], 'correl': 0.007556668902052597, 'significance': 0.4170882768067189}
 {'comparison': ['1180', 'chromosome_numbers'], 'correl': 0.007453211232731329, 'significance': 0.42349479041984694}
 {'comparison': ['(NH4) citrate', 'chromosome_numbers'], 'correl': 0.007441683871460556, 'significance': 0.4242121587070239}
 {'comparison': ['Na-aspartate', 'chromosome_numbers'], 'correl': 0.007441683871460556, 'significance': 0.4242121587070239}
@@ -146,34 +146,35 @@
 {'comparison': ['4827', 'chromosome_numbers'], 'correl': 0.006974755448683234, 'significance': 0.4538620380289986}
 {'comparison': ['2914', 'chromosome_numbers'], 'correl': 0.006693813206029665, 'significance': 0.472250605347992}
 {'comparison': ['Nitrilotriacetate', 'chromosome_numbers'], 'correl': 0.006569748138243374, 'significance': 0.4804998488349229}
-{'comparison': ['L-Cysteine HCl', 'chromosome_numbers'], 'correl': 0.00653069151772195, 'significance': 0.4831129283825827}
 {'comparison': ['Sterile serum', 'chromosome_numbers'], 'correl': 0.0064624102523100245, 'significance': 0.4876997555676723}
 {'comparison': ['Wilkins-Chalgren-Anaerobe-Broth', 'chromosome_numbers'], 'correl': 0.0064624102523100245, 'significance': 0.4876997555676723}
 {'comparison': ['Tetramethyl ammonium chloride', 'chromosome_numbers'], 'correl': 0.0064624102523100245, 'significance': 0.4876997555676723}
-{'comparison': ['MnSO4 x H2O', 'chromosome_numbers'], 'correl': 0.006162877477902653, 'significance': 0.5080956978194031}
+{'comparison': ['L-Cysteine HCl', 'chromosome_numbers'], 'correl': 0.006307595005503985, 'significance': 0.49818600440374317}
+{'comparison': ['MnSO4 x H2O', 'chromosome_numbers'], 'correl': 0.006246575169057512, 'significance': 0.5023518296968527}
 {'comparison': ['Trisodium citrate', 'chromosome_numbers'], 'correl': 0.006113614836149405, 'significance': 0.5114924489924315}
-{'comparison': ['Cysteine-HCl', 'chromosome_numbers'], 'correl': 0.00611069403661886, 'significance': 0.5116942151726971}
+{'comparison': ['Cysteine-HCl', 'chromosome_numbers'], 'correl': 0.00611087279753226, 'significance': 0.5116818653379431}
+{'comparison': ['CaCl2 x 6 H2O', 'chromosome_numbers'], 'correl': 0.005915774222764875, 'significance': 0.525252387941459}
 {'comparison': ['Cellulose', 'chromosome_numbers'], 'correl': 0.005911334857506875, 'significance': 0.525563306991671}
 {'comparison': ['2250', 'chromosome_numbers'], 'correl': 0.005911334857506875, 'significance': 0.525563306991671}
 {'comparison': ['2243', 'chromosome_numbers'], 'correl': 0.005911334857506875, 'significance': 0.525563306991671}
-{'comparison': ['CaCl2 x 6 H2O', 'chromosome_numbers'], 'correl': 0.0059021994258938145, 'significance': 0.5262034196180836}
 {'comparison': ['5540', 'chromosome_numbers'], 'correl': 0.0058505472862254715, 'significance': 0.5298301227691067}
 {'comparison': ['Na-gallate', 'chromosome_numbers'], 'correl': 0.005831458500272746, 'significance': 0.5311736299277015}
-{'comparison': ['Fe(III)-EDTA', 'chromosome_numbers'], 'correl': 0.00575549635327108, 'significance': 0.5365370603136751}
-{'comparison': ['NH4NO3', 'chromosome_numbers'], 'correl': 0.005749328943243643, 'significance': 0.5369737129571603}
-{'comparison': ['Tris', 'chromosome_numbers'], 'correl': 0.005551170912669236, 'significance': 0.551097673882439}
-{'comparison': ['Casein', 'chromosome_numbers'], 'correl': 0.005438625935878011, 'significance': 0.5591999957889697}
+{'comparison': ['Fe(III)-EDTA', 'chromosome_numbers'], 'correl': 0.005758689627380234, 'significance': 0.5363110466999474}
+{'comparison': ['NH4NO3', 'chromosome_numbers'], 'correl': 0.005750718098602409, 'significance': 0.5368753451702867}
+{'comparison': ['Tris', 'chromosome_numbers'], 'correl': 0.005574316868990406, 'significance': 0.5494385386271705}
 {'comparison': ['2054', 'chromosome_numbers'], 'correl': 0.005438625935878011, 'significance': 0.5591999957889697}
-{'comparison': ['2779', 'chromosome_numbers'], 'correl': 0.005193819766006378, 'significance': 0.5770211382286077}
-{'comparison': ['L-Alanine', 'chromosome_numbers'], 'correl': 0.004778336557410073, 'significance': 0.607864759121669}
-{'comparison': ['Polypeptone', 'chromosome_numbers'], 'correl': 0.004703899851711051, 'significance': 0.6134673611241575}
+{'comparison': ['Casein', 'chromosome_numbers'], 'correl': 0.005437728915609853, 'significance': 0.559264805493241}
+{'comparison': ['2779', 'chromosome_numbers'], 'correl': 0.005191145465052173, 'significance': 0.5772172879411768}
+{'comparison': ['L-Alanine', 'chromosome_numbers'], 'correl': 0.004771667405842767, 'significance': 0.608365792600035}
+{'comparison': ['Polypeptone', 'chromosome_numbers'], 'correl': 0.004700593279287822, 'significance': 0.6137167635084186}
 {'comparison': ['Fe(NH4)2(SO4)2 x 7 H2O', 'chromosome_numbers'], 'correl': 0.004573818185995364, 'significance': 0.6233124241368946}
-{'comparison': ['SrCl2', 'chromosome_numbers'], 'correl': 0.0045676628108013975, 'significance': 0.6237799765571268}
-{'comparison': ['Cysteine HCl', 'chromosome_numbers'], 'correl': 0.0045676628108013975, 'significance': 0.6237799765571268}
+{'comparison': ['SrCl2', 'chromosome_numbers'], 'correl': 0.004570971244782694, 'significance': 0.6235286543691507}
 {'comparison': ['2797', 'chromosome_numbers'], 'correl': 0.0045676628108013975, 'significance': 0.6237799765571268}
 {'comparison': ['2798', 'chromosome_numbers'], 'correl': 0.0045676628108013975, 'significance': 0.6237799765571268}
 {'comparison': ['3981', 'chromosome_numbers'], 'correl': 0.0045676628108013975, 'significance': 0.6237799765571268}
-{'comparison': ['L-Glutamic acid', 'chromosome_numbers'], 'correl': 0.004464008003745619, 'significance': 0.6316760765966734}
+{'comparison': ['Cysteine HCl', 'chromosome_numbers'], 'correl': 0.004564169893198452, 'significance': 0.6240453604017822}
+{'comparison': ['L-Glutamic acid', 'chromosome_numbers'], 'correl': 0.004462724530614962, 'significance': 0.6317741138845085}
+{'comparison': ['Glucose', 'chromosome_numbers'], 'correl': 0.004241818333531137, 'significance': 0.6487431258749566}
 {'comparison': ['Boric acid', 'chromosome_numbers'], 'correl': 0.004123106267141636, 'significance': 0.6579386769680927}
 {'comparison': ['Sugar', 'chromosome_numbers'], 'correl': 0.004123106267141636, 'significance': 0.6579386769680927}
 {'comparison': ['glycerin', 'chromosome_numbers'], 'correl': 0.004123106267141636, 'significance': 0.6579386769680927}
@@ -190,50 +191,50 @@
 {'comparison': ['Na3VO4', 'chromosome_numbers'], 'correl': 0.0036539788217807775, 'significance': 0.6947751154741364}
 {'comparison': ['2023', 'chromosome_numbers'], 'correl': 0.0036539788217807775, 'significance': 0.6947751154741364}
 {'comparison': ['2308', 'chromosome_numbers'], 'correl': 0.0036539788217807775, 'significance': 0.6947751154741364}
-{'comparison': ['Bromocresol purple', 'chromosome_numbers'], 'correl': 0.0036083801661238907, 'significance': 0.6983960599714281}
-{'comparison': ['Tryptone peptone', 'chromosome_numbers'], 'correl': 0.0036083801661238907, 'significance': 0.6983960599714281}
-{'comparison': ['FeCl2', 'chromosome_numbers'], 'correl': 0.003536856737965456, 'significance': 0.7040894880836228}
+{'comparison': ['Bromocresol purple', 'chromosome_numbers'], 'correl': 0.0036136304083804506, 'significance': 0.6979787917171842}
+{'comparison': ['Tryptone peptone', 'chromosome_numbers'], 'correl': 0.003612021260420337, 'significance': 0.6981066706660268}
+{'comparison': ['FeCl2', 'chromosome_numbers'], 'correl': 0.003533740946279481, 'significance': 0.7043378923184666}
 {'comparison': ['L-Glutathione', 'chromosome_numbers'], 'correl': 0.003489571939673561, 'significance': 0.7078626154277825}
 {'comparison': ['Na2-ß-glycerophosphate x 5 H2O', 'chromosome_numbers'], 'correl': 0.003489571939673561, 'significance': 0.7078626154277825}
 {'comparison': ['3851', 'chromosome_numbers'], 'correl': 0.003395890814087779, 'significance': 0.7153591122880689}
-{'comparison': ['Maltose', 'chromosome_numbers'], 'correl': 0.003342115051094404, 'significance': 0.7196748130455113}
-{'comparison': ['Phenol red', 'chromosome_numbers'], 'correl': 0.002997020987363201, 'significance': 0.747577479314775}
-{'comparison': ['H3BO3', 'chromosome_numbers'], 'correl': 0.0029551361695327157, 'significance': 0.7509875526514281}
-{'comparison': ['Glutamic acid', 'chromosome_numbers'], 'correl': 0.0028642030025241728, 'significance': 0.7584076021251018}
-{'comparison': ['Soy peptone', 'chromosome_numbers'], 'correl': 0.0026688480534409562, 'significance': 0.774422991868483}
+{'comparison': ['Maltose', 'chromosome_numbers'], 'correl': 0.0033029014453140617, 'significance': 0.7228274991112011}
+{'comparison': ['Phenol red', 'chromosome_numbers'], 'correl': 0.003003980170805209, 'significance': 0.7470113700692499}
+{'comparison': ['H3BO3', 'chromosome_numbers'], 'correl': 0.002960268663748416, 'significance': 0.7505694250016277}
+{'comparison': ['Glutamic acid', 'chromosome_numbers'], 'correl': 0.002867523183739448, 'significance': 0.7581362824521505}
+{'comparison': ['Tryptone', 'chromosome_numbers'], 'correl': 0.002720435743460302, 'significance': 0.7701841344272837}
+{'comparison': ['Soy peptone', 'chromosome_numbers'], 'correl': 0.002704735302945318, 'significance': 0.7714734882260389}
 {'comparison': ['ACES', 'chromosome_numbers'], 'correl': 0.002604523731897086, 'significance': 0.7797178126587737}
 {'comparison': ['Activated charcoal', 'chromosome_numbers'], 'correl': 0.002604523731897086, 'significance': 0.7797178126587737}
-{'comparison': ['L-Arginine x HCl', 'chromosome_numbers'], 'correl': 0.002551067459861668, 'significance': 0.7841258352629769}
 {'comparison': ['Soya pepton', 'chromosome_numbers'], 'correl': 0.002551067459861668, 'significance': 0.7841258352629769}
 {'comparison': ['1509', 'chromosome_numbers'], 'correl': 0.002551067459861668, 'significance': 0.7841258352629769}
 {'comparison': ['1510', 'chromosome_numbers'], 'correl': 0.002551067459861668, 'significance': 0.7841258352629769}
+{'comparison': ['L-Arginine x HCl', 'chromosome_numbers'], 'correl': 0.0025489270247742676, 'significance': 0.7843024816044211}
+{'comparison': ['Bromothymol blue', 'chromosome_numbers'], 'correl': 0.0025059306554043575, 'significance': 0.7878532382979825}
 {'comparison': ['CeCl3', 'chromosome_numbers'], 'correl': 0.0025044277475639028, 'significance': 0.787977432747682}
-{'comparison': ['Bromothymol blue', 'chromosome_numbers'], 'correl': 0.002499001747766209, 'significance': 0.7884258610709097}
 {'comparison': ['3704', 'chromosome_numbers'], 'correl': 0.002488071663369231, 'significance': 0.7893293837134088}
 {'comparison': ['Sodium ascorbate', 'chromosome_numbers'], 'correl': 0.0023584665412872715, 'significance': 0.8000643197974077}
-{'comparison': ['Tryptone', 'chromosome_numbers'], 'correl': 0.002328413835805897, 'significance': 0.8025590103536743}
 {'comparison': ['3272', 'chromosome_numbers'], 'correl': 0.0021452090752408165, 'significance': 0.8178095855211074}
 {'comparison': ['3273', 'chromosome_numbers'], 'correl': 0.0021452090752408165, 'significance': 0.8178095855211074}
-{'comparison': ['Maltose monohydrate', 'chromosome_numbers'], 'correl': 0.0017853476041318722, 'significance': 0.8479620186066723}
-{'comparison': ['D(+)-Glucose', 'chromosome_numbers'], 'correl': 0.0017555503039696873, 'significance': 0.8504693506035131}
+{'comparison': ['Maltose monohydrate', 'chromosome_numbers'], 'correl': 0.0017844185710865408, 'significance': 0.848040170190042}
+{'comparison': ['D(+)-Glucose', 'chromosome_numbers'], 'correl': 0.0017705907950491952, 'significance': 0.8492035585854943}
 {'comparison': ['Trimethylammonium chloride', 'chromosome_numbers'], 'correl': 0.0017449932988876336, 'significance': 0.8513580475194449}
-{'comparison': ['CuSO4', 'chromosome_numbers'], 'correl': 0.0017330808001588104, 'significance': 0.8523610775894687}
 {'comparison': ['4318', 'chromosome_numbers'], 'correl': 0.0017330808001588104, 'significance': 0.8523610775894687}
-{'comparison': ['Ferric ammonium citrate', 'chromosome_numbers'], 'correl': 0.0017217771711346573, 'significance': 0.8533130617693552}
-{'comparison': ['Phytone peptone', 'chromosome_numbers'], 'correl': 0.001589011940335251, 'significance': 0.8645100896378515}
-{'comparison': ['Sodium tartrate', 'chromosome_numbers'], 'correl': 0.0011990182731214372, 'significance': 0.8975503979665159}
+{'comparison': ['CuSO4', 'chromosome_numbers'], 'correl': 0.0017322506985230253, 'significance': 0.8524309809032651}
+{'comparison': ['Ferric ammonium citrate', 'chromosome_numbers'], 'correl': 0.0017190433667589589, 'significance': 0.853543333106262}
+{'comparison': ['Phytone peptone', 'chromosome_numbers'], 'correl': 0.0016362513583143084, 'significance': 0.860522816864572}
+{'comparison': ['Sodium tartrate', 'chromosome_numbers'], 'correl': 0.0012015650468473835, 'significance': 0.8973339934959441}
+{'comparison': ['L-Sodium lactate', 'chromosome_numbers'], 'correl': 0.001200291655476774, 'significance': 0.897442195160835}
 {'comparison': ['VOSO4 x 5 H2O', 'chromosome_numbers'], 'correl': 0.0011990182731214372, 'significance': 0.8975503979665159}
-{'comparison': ['L-Sodium lactate', 'chromosome_numbers'], 'correl': 0.0011990182731214372, 'significance': 0.8975503979665159}
-{'comparison': ['Xylan', 'chromosome_numbers'], 'correl': 0.001176234203167322, 'significance': 0.8994867431962628}
+{'comparison': ['Xylan', 'chromosome_numbers'], 'correl': 0.0011732224120570996, 'significance': 0.8997427507166182}
 {'comparison': ['Sodium carbonate', 'chromosome_numbers'], 'correl': 0.0008126582723881976, 'significance': 0.9304591423112161}
-{'comparison': ['Ferric citrate', 'chromosome_numbers'], 'correl': 0.0008056651286899861, 'significance': 0.9310560622982426}
-{'comparison': ['Sodium beta-glycerophosphate', 'chromosome_numbers'], 'correl': 0.0003307013473718508, 'significance': 0.9716712335440605}
+{'comparison': ['Ferric citrate', 'chromosome_numbers'], 'correl': 0.0008097571567348993, 'significance': 0.9307067706924534}
 {'comparison': ['3177', 'chromosome_numbers'], 'correl': 0.0003307013473718508, 'significance': 0.9716712335440605}
 {'comparison': ['3179', 'chromosome_numbers'], 'correl': 0.0003307013473718508, 'significance': 0.9716712335440605}
-{'comparison': ['Methylamine hydrochloride', 'chromosome_numbers'], 'correl': 0.0002657563498108784, 'significance': 0.9772329021560417}
-{'comparison': ['Sodium citrate', 'chromosome_numbers'], 'correl': 0.000230646725573, 'significance': 0.980240049092975}
-{'comparison': ['Peptone mixture', 'chromosome_numbers'], 'correl': 5.902674426307829e-05, 'significance': 0.9949425815904195}
-{'comparison': ['Casein hydrolysate', 'chromosome_numbers'], 'correl': -7.936606000558016e-05, 'significance': 0.9931999434012075}
+{'comparison': ['Sodium beta-glycerophosphate', 'chromosome_numbers'], 'correl': 0.00032950323675725755, 'significance': 0.9717738240226932}
+{'comparison': ['Methylamine hydrochloride', 'chromosome_numbers'], 'correl': 0.00026507540190065136, 'significance': 0.9772912225540946}
+{'comparison': ['Sodium citrate', 'chromosome_numbers'], 'correl': 0.0002377846030173334, 'significance': 0.9796286642133347}
+{'comparison': ['Peptone mixture', 'chromosome_numbers'], 'correl': 5.378390234071095e-05, 'significance': 0.9953917836671085}
+{'comparison': ['Casein hydrolysate', 'chromosome_numbers'], 'correl': -7.708600534409642e-05, 'significance': 0.9933952931693484}
 {'comparison': ['Crotonic acid', 'chromosome_numbers'], 'correl': -0.000515664927667204, 'significance': 0.9558400388632762}
 {'comparison': ['K2CO3', 'chromosome_numbers'], 'correl': -0.000515664927667204, 'significance': 0.9558400388632762}
 {'comparison': ['Fumaric acid', 'chromosome_numbers'], 'correl': -0.000515664927667204, 'significance': 0.9558400388632762}
@@ -259,68 +260,66 @@
 {'comparison': ['3890', 'chromosome_numbers'], 'correl': -0.000515664927667204, 'significance': 0.9558400388632762}
 {'comparison': ['3891', 'chromosome_numbers'], 'correl': -0.000515664927667204, 'significance': 0.9558400388632762}
 {'comparison': ['4328', 'chromosome_numbers'], 'correl': -0.000515664927667204, 'significance': 0.9558400388632762}
-{'comparison': ['n-Valeric acid', 'chromosome_numbers'], 'correl': -0.0006524733500734555, 'significance': 0.94414133354135}
-{'comparison': ['Meat infusion', 'chromosome_numbers'], 'correl': -0.0007071013757782411, 'significance': 0.9394732259374297}
-{'comparison': ['MnSO4 x 2 H2O', 'chromosome_numbers'], 'correl': -0.0007293235805494095, 'significance': 0.9375748661736061}
+{'comparison': ['n-Valeric acid', 'chromosome_numbers'], 'correl': -0.0006629560070125015, 'significance': 0.9432454094023732}
+{'comparison': ['Meat infusion', 'chromosome_numbers'], 'correl': -0.0007046610187189326, 'significance': 0.939681717660345}
+{'comparison': ['3909', 'chromosome_numbers'], 'correl': -0.0007280363975870939, 'significance': 0.9376848158208375}
+{'comparison': ['MnSO4 x 2 H2O', 'chromosome_numbers'], 'correl': -0.0007293235695810674, 'significance': 0.9375748671105039}
 {'comparison': ['Dextrin', 'chromosome_numbers'], 'correl': -0.0007293235805494095, 'significance': 0.9375748661736061}
 {'comparison': ['DL-Sodium malate', 'chromosome_numbers'], 'correl': -0.0007293235805494095, 'significance': 0.9375748661736061}
 {'comparison': ['CaHPO4', 'chromosome_numbers'], 'correl': -0.0007293235805494095, 'significance': 0.9375748661736061}
 {'comparison': ['691', 'chromosome_numbers'], 'correl': -0.0007293235805494095, 'significance': 0.9375748661736061}
-{'comparison': ['3909', 'chromosome_numbers'], 'correl': -0.0007293235805494095, 'significance': 0.9375748661736061}
 {'comparison': ['4144', 'chromosome_numbers'], 'correl': -0.0007293235805494095, 'significance': 0.9375748661736061}
-{'comparison': ['Malic acid', 'chromosome_numbers'], 'correl': -0.0007471339301023393, 'significance': 0.9360536502404777}
-{'comparison': ['Glucose', 'chromosome_numbers'], 'correl': -0.0007815095492753227, 'significance': 0.93311822778516}
-{'comparison': ['Na2SeO4', 'chromosome_numbers'], 'correl': -0.0008933127954818744, 'significance': 0.9235775540251536}
+{'comparison': ['Malic acid', 'chromosome_numbers'], 'correl': -0.0007453379177620383, 'significance': 0.9362070405923931}
+{'comparison': ['Na2SeO4', 'chromosome_numbers'], 'correl': -0.0008933127686080417, 'significance': 0.9235775563171535}
 {'comparison': ['Sodium sulfite', 'chromosome_numbers'], 'correl': -0.001031598256082045, 'significance': 0.9117923718688925}
-{'comparison': ['Resazurin', 'chromosome_numbers'], 'correl': -0.0011046966510444042, 'significance': 0.9055703271949238}
 {'comparison': ['(NH4)2Ni(SO4)2 x 6 H2O', 'chromosome_numbers'], 'correl': -0.001129444492390201, 'significance': 0.9034651148146067}
 {'comparison': ['3256', 'chromosome_numbers'], 'correl': -0.001129444492390201, 'significance': 0.9034651148146067}
-{'comparison': ['Dithiothreitol', 'chromosome_numbers'], 'correl': -0.0012011173881552983, 'significance': 0.8973720314000646}
+{'comparison': ['Dithiothreitol', 'chromosome_numbers'], 'correl': -0.0012024562146676781, 'significance': 0.8972582709816915}
+{'comparison': ['Resazurin', 'chromosome_numbers'], 'correl': -0.001225381035365069, 'significance': 0.8953106728882535}
 {'comparison': ['Citric acid', 'chromosome_numbers'], 'correl': -0.0012909118042403367, 'significance': 0.8897469672546818}
 {'comparison': ['Tris buffer', 'chromosome_numbers'], 'correl': -0.0012909118042403367, 'significance': 0.8897469672546818}
-{'comparison': ['Marine agar 2216', 'chromosome_numbers'], 'correl': -0.0015974835398459846, 'significance': 0.8637947820207998}
-{'comparison': ['Tween 80', 'chromosome_numbers'], 'correl': -0.001611150085182258, 'significance': 0.8626410696761353}
+{'comparison': ['Tween 80', 'chromosome_numbers'], 'correl': -0.0014744019814033101, 'significance': 0.8741979670038014}
+{'comparison': ['Marine agar 2216', 'chromosome_numbers'], 'correl': -0.0015944524005172243, 'significance': 0.8640507063800249}
 {'comparison': ['dehydrated RCM medium', 'chromosome_numbers'], 'correl': -0.0016634681563826137, 'significance': 0.8582271722840804}
 {'comparison': ['Tween', 'chromosome_numbers'], 'correl': -0.0016895922157149793, 'significance': 0.8560248231290316}
-{'comparison': ['Na2SiO3 x 9 H2O', 'chromosome_numbers'], 'correl': -0.00199007970646266, 'significance': 0.8307774498439154}
+{'comparison': ['Na2SiO3 x 9 H2O', 'chromosome_numbers'], 'correl': -0.001990982314474632, 'significance': 0.8307018602690387}
 {'comparison': ['MnSO4', 'chromosome_numbers'], 'correl': -0.002066871066419858, 'significance': 0.8243521693410651}
-{'comparison': ['Hemin', 'chromosome_numbers'], 'correl': -0.002395109036213323, 'significance': 0.79702536701544}
+{'comparison': ['Hemin', 'chromosome_numbers'], 'correl': -0.0023997032449639398, 'significance': 0.7966445613141043}
 {'comparison': ['3924', 'chromosome_numbers'], 'correl': -0.00262945790658649, 'significance': 0.7776641420486863}
-{'comparison': ['SrCl2 x 6 H2O', 'chromosome_numbers'], 'correl': -0.0027496948470346703, 'significance': 0.7677830106118522}
-{'comparison': ['Potassium phosphate buffer', 'chromosome_numbers'], 'correl': -0.002791513735878667, 'significance': 0.7643550488828813}
-{'comparison': ['4134', 'chromosome_numbers'], 'correl': -0.002855473975777677, 'significance': 0.7591210654854531}
-{'comparison': ['L-Cysteine', 'chromosome_numbers'], 'correl': -0.002898339564149134, 'significance': 0.7556194443772972}
-{'comparison': ['Na acetate', 'chromosome_numbers'], 'correl': -0.002914950863950647, 'significance': 0.7542638378610325}
-{'comparison': ['Ground beef', 'chromosome_numbers'], 'correl': -0.003079153919365347, 'significance': 0.7409049611408813}
-{'comparison': ['Sodium succinate', 'chromosome_numbers'], 'correl': -0.003214889422428548, 'significance': 0.7299205492719727}
-{'comparison': ['Succinic acid', 'chromosome_numbers'], 'correl': -0.003407313964434525, 'significance': 0.7144435276092715}
+{'comparison': ['SrCl2 x 6 H2O', 'chromosome_numbers'], 'correl': -0.0027436423374014693, 'significance': 0.768279522820879}
+{'comparison': ['Potassium phosphate buffer', 'chromosome_numbers'], 'correl': -0.002788482596449462, 'significance': 0.7646033620300452}
+{'comparison': ['4134', 'chromosome_numbers'], 'correl': -0.002857679607012393, 'significance': 0.7589407697517823}
+{'comparison': ['L-Cysteine', 'chromosome_numbers'], 'correl': -0.002892197941862985, 'significance': 0.7561208375764483}
+{'comparison': ['Na acetate', 'chromosome_numbers'], 'correl': -0.0029145280582682856, 'significance': 0.75429833260483}
+{'comparison': ['Ground beef', 'chromosome_numbers'], 'correl': -0.003124601385752472, 'significance': 0.7372211076056304}
+{'comparison': ['Sodium succinate', 'chromosome_numbers'], 'correl': -0.003176960116649264, 'significance': 0.7329845210017814}
+{'comparison': ['Succinic acid', 'chromosome_numbers'], 'correl': -0.003435544971442692, 'significance': 0.712182529673119}
 {'comparison': ['MnSO4 x 4 H2O', 'chromosome_numbers'], 'correl': -0.0037243178385360396, 'significance': 0.6892032175087476}
+{'comparison': ['Fructose', 'chromosome_numbers'], 'correl': -0.003769043976916158, 'significance': 0.6856689641588669}
 {'comparison': ['KOH', 'chromosome_numbers'], 'correl': -0.003770977012020122, 'significance': 0.6855163702122329}
 {'comparison': ['Uric acid', 'chromosome_numbers'], 'correl': -0.003770977012020122, 'significance': 0.6855163702122329}
-{'comparison': ['Fructose', 'chromosome_numbers'], 'correl': -0.0037802087553983122, 'significance': 0.6847877926200432}
-{'comparison': ['Pancreatic digest of casein', 'chromosome_numbers'], 'correl': -0.0038359733468960352, 'significance': 0.6803930542655501}
-{'comparison': ['Na-gluconate', 'chromosome_numbers'], 'correl': -0.0039688306859435585, 'significance': 0.6699665945530363}
+{'comparison': ['Pancreatic digest of casein', 'chromosome_numbers'], 'correl': -0.003834716252097786, 'significance': 0.6804920055663118}
+{'comparison': ['Na-gluconate', 'chromosome_numbers'], 'correl': -0.003966934557919576, 'significance': 0.6701149596360647}
 {'comparison': ['Na-fumarate', 'chromosome_numbers'], 'correl': -0.004135315576469407, 'significance': 0.6569905107089237}
-{'comparison': ['DL-Malic acid', 'chromosome_numbers'], 'correl': -0.004135315576469407, 'significance': 0.6569905107089237}
 {'comparison': ['690', 'chromosome_numbers'], 'correl': -0.004135315576469407, 'significance': 0.6569905107089237}
+{'comparison': ['DL-Malic acid', 'chromosome_numbers'], 'correl': -0.004136466848280754, 'significance': 0.6569011322102227}
 {'comparison': ['Czapek Dox agar', 'chromosome_numbers'], 'correl': -0.004154363076100148, 'significance': 0.655512397910338}
 {'comparison': ['Tryptophan', 'chromosome_numbers'], 'correl': -0.004154363076100148, 'significance': 0.655512397910338}
 {'comparison': ['Difco marine broth', 'chromosome_numbers'], 'correl': -0.004185161075113719, 'significance': 0.6531252838395374}
+{'comparison': ['Na-caproate', 'chromosome_numbers'], 'correl': -0.004275447073659806, 'significance': 0.646147836203202}
 {'comparison': ['ZnSO4 x 7 H2O', 'chromosome_numbers'], 'correl': -0.004276143939459731, 'significance': 0.6460941011302963}
-{'comparison': ['Na-caproate', 'chromosome_numbers'], 'correl': -0.004276143939459731, 'significance': 0.6460941011302963}
 {'comparison': ['Glycerol (anhydrous)', 'chromosome_numbers'], 'correl': -0.004276143939459731, 'significance': 0.6460941011302963}
 {'comparison': ['Dichloran-Glycerol-agar base', 'chromosome_numbers'], 'correl': -0.004276143939459731, 'significance': 0.6460941011302963}
-{'comparison': ['L-Histidine', 'chromosome_numbers'], 'correl': -0.004422940718836277, 'significance': 0.6348161791166151}
-{'comparison': ['D-Xylose', 'chromosome_numbers'], 'correl': -0.004422940718836277, 'significance': 0.6348161791166151}
-{'comparison': ['MgSO4', 'chromosome_numbers'], 'correl': -0.004555003105967159, 'significance': 0.6247420637621695}
-{'comparison': ['NaH2PO4 x H2O', 'chromosome_numbers'], 'correl': -0.004872069326717407, 'significance': 0.6008424554063441}
+{'comparison': ['L-Histidine', 'chromosome_numbers'], 'correl': -0.004418730997366644, 'significance': 0.6351384372655324}
+{'comparison': ['D-Xylose', 'chromosome_numbers'], 'correl': -0.004424343688423402, 'significance': 0.6347087958378672}
+{'comparison': ['MgSO4', 'chromosome_numbers'], 'correl': -0.004546291746951971, 'significance': 0.625404464132499}
 {'comparison': ['Carboxymethyl cellulose', 'chromosome_numbers'], 'correl': -0.004872069326717407, 'significance': 0.6008424554063441}
 {'comparison': ['Na malate', 'chromosome_numbers'], 'correl': -0.004872069326717407, 'significance': 0.6008424554063441}
 {'comparison': ['3819', 'chromosome_numbers'], 'correl': -0.004872069326717407, 'significance': 0.6008424554063441}
 {'comparison': ['4194', 'chromosome_numbers'], 'correl': -0.004872069326717407, 'significance': 0.6008424554063441}
 {'comparison': ['5058', 'chromosome_numbers'], 'correl': -0.004872069326717407, 'significance': 0.6008424554063441}
 {'comparison': ['5441', 'chromosome_numbers'], 'correl': -0.004872069326717407, 'significance': 0.6008424554063441}
-{'comparison': ['p-Aminobenzoic acid', 'chromosome_numbers'], 'correl': -0.004917149542069978, 'significance': 0.5974782222217234}
+{'comparison': ['NaH2PO4 x H2O', 'chromosome_numbers'], 'correl': -0.004872997269657623, 'significance': 0.6007731189644565}
 {'comparison': ['H2SO4', 'chromosome_numbers'], 'correl': -0.004917149542069978, 'significance': 0.5974782222217234}
 {'comparison': ['Universal peptone', 'chromosome_numbers'], 'correl': -0.004917149542069978, 'significance': 0.5974782222217234}
 {'comparison': ['Nutrient broth No. 2', 'chromosome_numbers'], 'correl': -0.004917149542069978, 'significance': 0.5974782222217234}
@@ -347,29 +346,32 @@
 {'comparison': ['4090', 'chromosome_numbers'], 'correl': -0.004917149542069978, 'significance': 0.5974782222217234}
 {'comparison': ['4256', 'chromosome_numbers'], 'correl': -0.004917149542069978, 'significance': 0.5974782222217234}
 {'comparison': ['4611', 'chromosome_numbers'], 'correl': -0.004917149542069978, 'significance': 0.5974782222217234}
-{'comparison': ['Coenzyme M', 'chromosome_numbers'], 'correl': -0.004986879297208677, 'significance': 0.59229138541064}
-{'comparison': ['NaOH', 'chromosome_numbers'], 'correl': -0.005152552088105337, 'significance': 0.5800514547737918}
+{'comparison': ['p-Aminobenzoic acid', 'chromosome_numbers'], 'correl': -0.004917892623556947, 'significance': 0.597422839540237}
+{'comparison': ['Coenzyme M', 'chromosome_numbers'], 'correl': -0.004985285160342219, 'significance': 0.5924097339978445}
+{'comparison': ['NaOH', 'chromosome_numbers'], 'correl': -0.0051092869221233995, 'significance': 0.5832364350749193}
 {'comparison': ['Tap water', 'chromosome_numbers'], 'correl': -0.005251336986337071, 'significance': 0.5728100920140793}
-{'comparison': ['Biotin', 'chromosome_numbers'], 'correl': -0.00537840477192892, 'significance': 0.5635590471144466}
-{'comparison': ['Nutrient broth', 'chromosome_numbers'], 'correl': -0.00556954894269851, 'significance': 0.5497801089147192}
-{'comparison': ['NaF', 'chromosome_numbers'], 'correl': -0.006037084774381963, 'significance': 0.5167927566764746}
+{'comparison': ['Biotin', 'chromosome_numbers'], 'correl': -0.005377502225525921, 'significance': 0.5636245014262515}
+{'comparison': ['Nutrient broth', 'chromosome_numbers'], 'correl': -0.0055179163528353515, 'significance': 0.5534857124657915}
 {'comparison': ['4826', 'chromosome_numbers'], 'correl': -0.006037084774381963, 'significance': 0.5167927566764746}
-{'comparison': ['Na2HPO4 x 12 H2O', 'chromosome_numbers'], 'correl': -0.006264675942507662, 'significance': 0.501114170933209}
-{'comparison': ['Corn meal agar', 'chromosome_numbers'], 'correl': -0.006281459338267816, 'significance': 0.49996803406852874}
-{'comparison': ['Cellobiose or Cellulose MN 300', 'chromosome_numbers'], 'correl': -0.006281459338267816, 'significance': 0.49996803406852874}
-{'comparison': ['926', 'chromosome_numbers'], 'correl': -0.006312185647301375, 'significance': 0.4978733460961978}
+{'comparison': ['NaF', 'chromosome_numbers'], 'correl': -0.006041030411927683, 'significance': 0.5165187963202618}
+{'comparison': ['(NH4)2SO4', 'chromosome_numbers'], 'correl': -0.0061789103757720525, 'significance': 0.5069927572138713}
+{'comparison': ['Cellobiose or Cellulose MN 300', 'chromosome_numbers'], 'correl': -0.006278728071147858, 'significance': 0.5001544572948362}
+{'comparison': ['Corn meal agar', 'chromosome_numbers'], 'correl': -0.006281003819961194, 'significance': 0.4999991230068985}
+{'comparison': ['Na2HPO4 x 12 H2O', 'chromosome_numbers'], 'correl': -0.006284180438743879, 'significance': 0.49978234143772593}
+{'comparison': ['926', 'chromosome_numbers'], 'correl': -0.006318578747765089, 'significance': 0.49743810039730085}
+{'comparison': ['Yeast extract', 'chromosome_numbers'], 'correl': -0.006548300730046583, 'significance': 0.4819338315088719}
 {'comparison': ['Rye grass', 'chromosome_numbers'], 'correl': -0.006709738509823244, 'significance': 0.471197390161298}
 {'comparison': ['Complan', 'chromosome_numbers'], 'correl': -0.006709738509823244, 'significance': 0.471197390161298}
 {'comparison': ['Peptic digest of animal tissue', 'chromosome_numbers'], 'correl': -0.006903005926616063, 'significance': 0.4585195064054427}
-{'comparison': ['4042', 'chromosome_numbers'], 'correl': -0.006903005926616063, 'significance': 0.4585195064054427}
+{'comparison': ['4042', 'chromosome_numbers'], 'correl': -0.006904352273167174, 'significance': 0.45843186520703194}
 {'comparison': ['2,3-butanediol', 'chromosome_numbers'], 'correl': -0.006932703191892518, 'significance': 0.4565885287199013}
-{'comparison': ['Tryptose', 'chromosome_numbers'], 'correl': -0.006954804339073478, 'significance': 0.45515443754006657}
 {'comparison': ['2036', 'chromosome_numbers'], 'correl': -0.006954804339073478, 'significance': 0.45515443754006657}
 {'comparison': ['5678', 'chromosome_numbers'], 'correl': -0.006954804339073478, 'significance': 0.45515443754006657}
-{'comparison': ['Meat peptone', 'chromosome_numbers'], 'correl': -0.007165685036430135, 'significance': 0.44159910175407435}
-{'comparison': ['Na2S2O3', 'chromosome_numbers'], 'correl': -0.0072453597609946335, 'significance': 0.43653842912964336}
-{'comparison': ['Na2HPO4 x H2O', 'chromosome_numbers'], 'correl': -0.007270954773257106, 'significance': 0.43491983732973694}
-{'comparison': ['(NH4)2SO4', 'chromosome_numbers'], 'correl': -0.007407338688183845, 'significance': 0.4263537278875924}
+{'comparison': ['Tryptose', 'chromosome_numbers'], 'correl': -0.006955855194764115, 'significance': 0.4550863132141473}
+{'comparison': ['Na2SO4', 'chromosome_numbers'], 'correl': -0.0070815119152338605, 'significance': 0.44698180292976675}
+{'comparison': ['Meat peptone', 'chromosome_numbers'], 'correl': -0.007159698521217497, 'significance': 0.44198069717271926}
+{'comparison': ['Na2S2O3', 'chromosome_numbers'], 'correl': -0.007246847870174757, 'significance': 0.4364442283319375}
+{'comparison': ['Na2HPO4 x H2O', 'chromosome_numbers'], 'correl': -0.007267344094038168, 'significance': 0.4351479614060477}
 {'comparison': ['1741', 'chromosome_numbers'], 'correl': -0.007785135551666376, 'significance': 0.4031447410156961}
 {'comparison': ['Selenite-tungstate solution', 'chromosome_numbers'], 'correl': -0.007786785617724843, 'significance': 0.40304506240561444}
 {'comparison': ['Horse serum', 'chromosome_numbers'], 'correl': -0.007786785617724843, 'significance': 0.40304506240561444}
@@ -439,56 +441,56 @@
 {'comparison': ['5063', 'chromosome_numbers'], 'correl': -0.007786785617724843, 'significance': 0.40304506240561444}
 {'comparison': ['5350', 'chromosome_numbers'], 'correl': -0.007786785617724843, 'significance': 0.40304506240561444}
 {'comparison': ['5351', 'chromosome_numbers'], 'correl': -0.007786785617724843, 'significance': 0.40304506240561444}
-{'comparison': ['Trichloroethylene', 'chromosome_numbers'], 'correl': -0.007840860712188608, 'significance': 0.3997866245284992}
+{'comparison': ['Trichloroethylene', 'chromosome_numbers'], 'correl': -0.007841690656801969, 'significance': 0.3997367377613745}
 {'comparison': ['2-Mercaptoethanesulfonate', 'chromosome_numbers'], 'correl': -0.00791574563129908, 'significance': 0.395300483800996}
-{'comparison': ['Na2SO4', 'chromosome_numbers'], 'correl': -0.008031729538406043, 'significance': 0.3884125665126287}
-{'comparison': ['CaSO4', 'chromosome_numbers'], 'correl': -0.008041374818064438, 'significance': 0.387843074459996}
+{'comparison': ['CaSO4', 'chromosome_numbers'], 'correl': -0.008046225961320812, 'significance': 0.38755683789498696}
+{'comparison': ['4676', 'chromosome_numbers'], 'correl': -0.008151173069791913, 'significance': 0.3813961107190331}
 {'comparison': ['CoCl2 x 6 H2O', 'chromosome_numbers'], 'correl': -0.008152460367128484, 'significance': 0.3813209173346527}
 {'comparison': ['Tomato juice', 'chromosome_numbers'], 'correl': -0.008152460367128484, 'significance': 0.3813209173346527}
 {'comparison': ['Na2SeO3 x 5 H2O', 'chromosome_numbers'], 'correl': -0.008152460367128484, 'significance': 0.3813209173346527}
-{'comparison': ['(NH4)2HPO4', 'chromosome_numbers'], 'correl': -0.008152460367128484, 'significance': 0.3813209173346527}
 {'comparison': ['ZnSO4', 'chromosome_numbers'], 'correl': -0.008152460367128484, 'significance': 0.3813209173346527}
 {'comparison': ['FeSO4 x 6 H2O', 'chromosome_numbers'], 'correl': -0.008152460367128484, 'significance': 0.3813209173346527}
 {'comparison': ['Liver extract concentrate', 'chromosome_numbers'], 'correl': -0.008152460367128484, 'significance': 0.3813209173346527}
-{'comparison': ['FeSO4 x 5 H2O', 'chromosome_numbers'], 'correl': -0.008152460367128484, 'significance': 0.3813209173346527}
 {'comparison': ['2304', 'chromosome_numbers'], 'correl': -0.008152460367128484, 'significance': 0.3813209173346527}
 {'comparison': ['2679', 'chromosome_numbers'], 'correl': -0.008152460367128484, 'significance': 0.3813209173346527}
 {'comparison': ['2680', 'chromosome_numbers'], 'correl': -0.008152460367128484, 'significance': 0.3813209173346527}
-{'comparison': ['4676', 'chromosome_numbers'], 'correl': -0.008152460367128484, 'significance': 0.3813209173346527}
 {'comparison': ['4919', 'chromosome_numbers'], 'correl': -0.008152460367128484, 'significance': 0.3813209173346527}
 {'comparison': ['4920', 'chromosome_numbers'], 'correl': -0.008152460367128484, 'significance': 0.3813209173346527}
 {'comparison': ['4929', 'chromosome_numbers'], 'correl': -0.008152460367128484, 'significance': 0.3813209173346527}
 {'comparison': ['4931', 'chromosome_numbers'], 'correl': -0.008152460367128484, 'significance': 0.3813209173346527}
 {'comparison': ['4932', 'chromosome_numbers'], 'correl': -0.008152460367128484, 'significance': 0.3813209173346527}
 {'comparison': ['4934', 'chromosome_numbers'], 'correl': -0.008152460367128484, 'significance': 0.3813209173346527}
-{'comparison': ['114', 'chromosome_numbers'], 'correl': -0.008206611976000361, 'significance': 0.37816606895800275}
-{'comparison': ['Na2-EDTA', 'chromosome_numbers'], 'correl': -0.008378564704975508, 'significance': 0.3682551866846894}
-{'comparison': ['Ethanol', 'chromosome_numbers'], 'correl': -0.008446510025484542, 'significance': 0.3643839768793402}
-{'comparison': ['KHCO3', 'chromosome_numbers'], 'correl': -0.008446510025484542, 'significance': 0.3643839768793402}
+{'comparison': ['(NH4)2HPO4', 'chromosome_numbers'], 'correl': -0.008153747403926263, 'significance': 0.3812457482647511}
+{'comparison': ['FeSO4 x 5 H2O', 'chromosome_numbers'], 'correl': -0.008153747419254351, 'significance': 0.3812457473695724}
+{'comparison': ['114', 'chromosome_numbers'], 'correl': -0.008215366309165927, 'significance': 0.37765755894437714}
+{'comparison': ['Na2-EDTA', 'chromosome_numbers'], 'correl': -0.008354553876131541, 'significance': 0.3696293113536071}
+{'comparison': ['Ethanol', 'chromosome_numbers'], 'correl': -0.008442897357021792, 'significance': 0.3645891676140659}
+{'comparison': ['KHCO3', 'chromosome_numbers'], 'correl': -0.008446761764060265, 'significance': 0.3643696814340003}
 {'comparison': ['Pyruvic acid sodium salt', 'chromosome_numbers'], 'correl': -0.008470272397387575, 'significance': 0.36303613140604163}
-{'comparison': ['L-Cystine', 'chromosome_numbers'], 'correl': -0.008518969488984918, 'significance': 0.36028370711669777}
-{'comparison': ['Enzymatic digest of casein', 'chromosome_numbers'], 'correl': -0.008518969488984918, 'significance': 0.36028370711669777}
-{'comparison': ['Cysteine', 'chromosome_numbers'], 'correl': -0.008652673840536997, 'significance': 0.3527941352741397}
-{'comparison': ['5861', 'chromosome_numbers'], 'correl': -0.008921204360150415, 'significance': 0.33805216671287086}
-{'comparison': ['Monosodium glutamate', 'chromosome_numbers'], 'correl': -0.009091298920981292, 'significance': 0.3289219181773093}
+{'comparison': ['L-Cystine', 'chromosome_numbers'], 'correl': -0.008516823134438967, 'significance': 0.36040474530982547}
+{'comparison': ['Enzymatic digest of casein', 'chromosome_numbers'], 'correl': -0.008521543755794659, 'significance': 0.3601385715570866}
+{'comparison': ['Cysteine', 'chromosome_numbers'], 'correl': -0.008650032189758093, 'significance': 0.3529411494035497}
+{'comparison': ['5861', 'chromosome_numbers'], 'correl': -0.008953754254064092, 'significance': 0.3362924934723668}
+{'comparison': ['Monosodium glutamate', 'chromosome_numbers'], 'correl': -0.009090248052115498, 'significance': 0.3289778309617537}
+{'comparison': ['Starch', 'chromosome_numbers'], 'correl': -0.009144890345411359, 'significance': 0.326078686787343}
 {'comparison': ['Lactobacilli MRS broth', 'chromosome_numbers'], 'correl': -0.00920883894529887, 'significance': 0.32270693383959204}
-{'comparison': ['FeCl2 x 4 H2O', 'chromosome_numbers'], 'correl': -0.009317811380548642, 'significance': 0.31701382825201746}
+{'comparison': ['FeCl2 x 4 H2O', 'chromosome_numbers'], 'correl': -0.009320946094212326, 'significance': 0.3168510402731824}
 {'comparison': ['Elemental sulphur', 'chromosome_numbers'], 'correl': -0.009383071134395848, 'significance': 0.3136361538178541}
 {'comparison': ['3862', 'chromosome_numbers'], 'correl': -0.009383071134395848, 'significance': 0.3136361538178541}
-{'comparison': ['Cellobiose', 'chromosome_numbers'], 'correl': -0.009590330638077155, 'significance': 0.3030665137834653}
-{'comparison': ['Na2HPO4 x 2 H2O', 'chromosome_numbers'], 'correl': -0.00989118040424683, 'significance': 0.28815006111070507}
-{'comparison': ['PIPES', 'chromosome_numbers'], 'correl': -0.010303490675479985, 'significance': 0.2685240590091706}
-{'comparison': ['Sodium thiosulfate pentahydrate', 'chromosome_numbers'], 'correl': -0.010337635483051335, 'significance': 0.2669409402018764}
-{'comparison': ['Starch', 'chromosome_numbers'], 'correl': -0.010372799745801018, 'significance': 0.2653172759143474}
+{'comparison': ['Cellobiose', 'chromosome_numbers'], 'correl': -0.009709638711625774, 'significance': 0.29709077809331136}
+{'comparison': ['Na2HPO4 x 2 H2O', 'chromosome_numbers'], 'correl': -0.009875584525667364, 'significance': 0.28891094007172985}
+{'comparison': ['PIPES', 'chromosome_numbers'], 'correl': -0.010301755734376713, 'significance': 0.26860467105318564}
+{'comparison': ['Sodium thiosulfate pentahydrate', 'chromosome_numbers'], 'correl': -0.010337635159102786, 'significance': 0.2669409551911888}
+{'comparison': ['Glycerol', 'chromosome_numbers'], 'correl': -0.01038398699219356, 'significance': 0.2648021484952721}
 {'comparison': ['155', 'chromosome_numbers'], 'correl': -0.010406584873895128, 'significance': 0.2637637106275027}
-{'comparison': ['Glycine', 'chromosome_numbers'], 'correl': -0.010425261004965443, 'significance': 0.2629076110558739}
-{'comparison': ['Sodium Thiosulfate', 'chromosome_numbers'], 'correl': -0.010438164011861713, 'significance': 0.2623172685715874}
-{'comparison': ['MnCl2 x 4 H2O', 'chromosome_numbers'], 'correl': -0.010511342086408672, 'significance': 0.2589865247712455}
-{'comparison': ['Glycerol', 'chromosome_numbers'], 'correl': -0.010540137025088896, 'significance': 0.25768397286162553}
-{'comparison': ['Bovine serum albumin', 'chromosome_numbers'], 'correl': -0.010545513887150795, 'significance': 0.257441252417766}
-{'comparison': ['20', 'chromosome_numbers'], 'correl': -0.010712263854060844, 'significance': 0.2499925190274045}
-{'comparison': ['Ethanol absolute', 'chromosome_numbers'], 'correl': -0.010775058900502718, 'significance': 0.24722686196350274}
-{'comparison': ['MgSO4 x H2O', 'chromosome_numbers'], 'correl': -0.010775058900502718, 'significance': 0.24722686196350274}
+{'comparison': ['Glycine', 'chromosome_numbers'], 'correl': -0.010430857351081124, 'significance': 0.2626514527214567}
+{'comparison': ['Sodium Thiosulfate', 'chromosome_numbers'], 'correl': -0.010442314517745733, 'significance': 0.26212756806021253}
+{'comparison': ['MnCl2 x 4 H2O', 'chromosome_numbers'], 'correl': -0.010514774668010863, 'significance': 0.25883101139145576}
+{'comparison': ['Bovine serum albumin', 'chromosome_numbers'], 'correl': -0.01054307037451684, 'significance': 0.25755153695032623}
+{'comparison': ['20', 'chromosome_numbers'], 'correl': -0.010712770244900728, 'significance': 0.24997013017794129}
+{'comparison': ['Ethanol absolute', 'chromosome_numbers'], 'correl': -0.010772755940804927, 'significance': 0.2473279103428426}
+{'comparison': ['MgSO4 x H2O', 'chromosome_numbers'], 'correl': -0.010773331656412456, 'significance': 0.24730264660459525}
+{'comparison': ['2253', 'chromosome_numbers'], 'correl': -0.011012655237881181, 'significance': 0.2369566574623969}
 {'comparison': ['Riboflavin', 'chromosome_numbers'], 'correl': -0.011012655279279, 'significance': 0.23695665569962612}
 {'comparison': ['Nicotinic acid', 'chromosome_numbers'], 'correl': -0.011012655279279, 'significance': 0.23695665569962612}
 {'comparison': ['Hexachlorocyclo-hexane', 'chromosome_numbers'], 'correl': -0.011012655279279, 'significance': 0.23695665569962612}
@@ -522,7 +524,6 @@
 {'comparison': ['5672', 'chromosome_numbers'], 'correl': -0.011012655279279, 'significance': 0.23695665569962612}
 {'comparison': ['5673', 'chromosome_numbers'], 'correl': -0.011012655279279, 'significance': 0.23695665569962612}
 {'comparison': ['5674', 'chromosome_numbers'], 'correl': -0.011012655279279, 'significance': 0.23695665569962612}
-{'comparison': ['2253', 'chromosome_numbers'], 'correl': -0.011012655279279, 'significance': 0.23695665569962612}
 {'comparison': ['2734', 'chromosome_numbers'], 'correl': -0.011012655279279, 'significance': 0.23695665569962612}
 {'comparison': ['2735', 'chromosome_numbers'], 'correl': -0.011012655279279, 'significance': 0.23695665569962612}
 {'comparison': ['2909', 'chromosome_numbers'], 'correl': -0.011012655279279, 'significance': 0.23695665569962612}
@@ -543,25 +544,26 @@
 {'comparison': ['4372', 'chromosome_numbers'], 'correl': -0.011012655279279, 'significance': 0.23695665569962612}
 {'comparison': ['4411', 'chromosome_numbers'], 'correl': -0.011012655279279, 'significance': 0.23695665569962612}
 {'comparison': ['Sodium succinate dibasic', 'chromosome_numbers'], 'correl': -0.011519493780794181, 'significance': 0.21606487113282843}
-{'comparison': ['Na2-9,10-anthraquinone-2,6-disulfonate', 'chromosome_numbers'], 'correl': -0.011531320420453586, 'significance': 0.21559373954895758}
-{'comparison': ['Fe2(SO4)3 x n H2O', 'chromosome_numbers'], 'correl': -0.011531320420453586, 'significance': 0.21559373954895758}
+{'comparison': ['Na2-9,10-anthraquinone-2,6-disulfonate', 'chromosome_numbers'], 'correl': -0.011526767957175067, 'significance': 0.2157750059560208}
 {'comparison': ['1457', 'chromosome_numbers'], 'correl': -0.011531320420453586, 'significance': 0.21559373954895758}
+{'comparison': ['Fe2(SO4)3 x n H2O', 'chromosome_numbers'], 'correl': -0.011531774825404038, 'significance': 0.21557565243115942}
 {'comparison': ['Morpholinopropane sulfonic acid', 'chromosome_numbers'], 'correl': -0.011961797911961305, 'significance': 0.1989455621236142}
-{'comparison': ['D-Galactose', 'chromosome_numbers'], 'correl': -0.012230784765602937, 'significance': 0.18903143654039933}
-{'comparison': ['Xylose', 'chromosome_numbers'], 'correl': -0.01251510004899179, 'significance': 0.17895342472044953}
-{'comparison': ['D-Fructose', 'chromosome_numbers'], 'correl': -0.012773503756684037, 'significance': 0.17014551718236248}
-{'comparison': ['Sucrose', 'chromosome_numbers'], 'correl': -0.012885842554842148, 'significance': 0.16641928759550384}
+{'comparison': ['D-Galactose', 'chromosome_numbers'], 'correl': -0.01222694537719544, 'significance': 0.18917033572518496}
+{'comparison': ['Xylose', 'chromosome_numbers'], 'correl': -0.012514398174853681, 'significance': 0.17897780189884926}
+{'comparison': ['NaCl', 'chromosome_numbers'], 'correl': -0.012540795677852535, 'significance': 0.17806267463736708}
+{'comparison': ['D-Fructose', 'chromosome_numbers'], 'correl': -0.012777527314872352, 'significance': 0.17001098683534419}
+{'comparison': ['Sucrose', 'chromosome_numbers'], 'correl': -0.012878293657680534, 'significance': 0.16666774247252764}
 {'comparison': ['1178', 'chromosome_numbers'], 'correl': -0.013016295882665082, 'significance': 0.16216958201376}
 {'comparison': ['3954', 'chromosome_numbers'], 'correl': -0.013016295882665082, 'significance': 0.16216958201376}
 {'comparison': ['4078', 'chromosome_numbers'], 'correl': -0.013016295882665082, 'significance': 0.16216958201376}
 {'comparison': ['4079', 'chromosome_numbers'], 'correl': -0.013016295882665082, 'significance': 0.16216958201376}
 {'comparison': ['4825', 'chromosome_numbers'], 'correl': -0.013034996633852148, 'significance': 0.16156714961696247}
-{'comparison': ['Na-thioglycolate', 'chromosome_numbers'], 'correl': -0.013109187293518188, 'significance': 0.15919378636690207}
-{'comparison': ['K2SO4', 'chromosome_numbers'], 'correl': -0.013327467250349159, 'significance': 0.15236394800493647}
-{'comparison': ['NaCl', 'chromosome_numbers'], 'correl': -0.013448772001396958, 'significance': 0.14866605036526137}
-{'comparison': ['KNO3', 'chromosome_numbers'], 'correl': -0.013471246532174366, 'significance': 0.14798851609949185}
+{'comparison': ['Na-thioglycolate', 'chromosome_numbers'], 'correl': -0.013144396932879193, 'significance': 0.1580766992019237}
+{'comparison': ['K2SO4', 'chromosome_numbers'], 'correl': -0.013317384225564458, 'significance': 0.1526744459603395}
+{'comparison': ['Sodium formate', 'chromosome_numbers'], 'correl': -0.013488277770698439, 'significance': 0.14747665249164976}
+{'comparison': ['NaCO3', 'chromosome_numbers'], 'correl': -0.013488277770698439, 'significance': 0.14747665249164976}
+{'comparison': ['Sodium DL-lactate', 'chromosome_numbers'], 'correl': -0.013488277804504012, 'significance': 0.14747665147698816}
 {'comparison': ['Tris-HCl buffer', 'chromosome_numbers'], 'correl': -0.013488277905920736, 'significance': 0.1474766484330037}
-{'comparison': ['Sodium formate', 'chromosome_numbers'], 'correl': -0.013488277905920736, 'significance': 0.1474766484330037}
 {'comparison': ['Na-oxalate', 'chromosome_numbers'], 'correl': -0.013488277905920736, 'significance': 0.1474766484330037}
 {'comparison': ['Gelatine', 'chromosome_numbers'], 'correl': -0.013488277905920736, 'significance': 0.1474766484330037}
 {'comparison': ['Bacto beef extract', 'chromosome_numbers'], 'correl': -0.013488277905920736, 'significance': 0.1474766484330037}
@@ -569,8 +571,6 @@
 {'comparison': ['Sodium thiosulphate', 'chromosome_numbers'], 'correl': -0.013488277905920736, 'significance': 0.1474766484330037}
 {'comparison': ['Ammonium Sulfate', 'chromosome_numbers'], 'correl': -0.013488277905920736, 'significance': 0.1474766484330037}
 {'comparison': ['PIPES buffer', 'chromosome_numbers'], 'correl': -0.013488277905920736, 'significance': 0.1474766484330037}
-{'comparison': ['Sodium DL-lactate', 'chromosome_numbers'], 'correl': -0.013488277905920736, 'significance': 0.1474766484330037}
-{'comparison': ['NaCO3', 'chromosome_numbers'], 'correl': -0.013488277905920736, 'significance': 0.1474766484330037}
 {'comparison': ['L-Fucose', 'chromosome_numbers'], 'correl': -0.013488277905920736, 'significance': 0.1474766484330037}
 {'comparison': ['FeSO4 x H2O', 'chromosome_numbers'], 'correl': -0.013488277905920736, 'significance': 0.1474766484330037}
 {'comparison': ['Sodium thioglycollate', 'chromosome_numbers'], 'correl': -0.013488277905920736, 'significance': 0.1474766484330037}
@@ -586,34 +586,36 @@
 {'comparison': ['4477', 'chromosome_numbers'], 'correl': -0.013488277905920736, 'significance': 0.1474766484330037}
 {'comparison': ['4484', 'chromosome_numbers'], 'correl': -0.013488277905920736, 'significance': 0.1474766484330037}
 {'comparison': ['4585', 'chromosome_numbers'], 'correl': -0.013488277905920736, 'significance': 0.1474766484330037}
-{'comparison': ['250', 'chromosome_numbers'], 'correl': -0.013513766894411989, 'significance': 0.14671312165549732}
-{'comparison': ['L-Serine', 'chromosome_numbers'], 'correl': -0.01356684530557685, 'significance': 0.1451328565226297}
+{'comparison': ['250', 'chromosome_numbers'], 'correl': -0.013527854788672258, 'significance': 0.14629241573440374}
+{'comparison': ['KNO3', 'chromosome_numbers'], 'correl': -0.013529026247128116, 'significance': 0.14625747415073062}
+{'comparison': ['L-Serine', 'chromosome_numbers'], 'correl': -0.013568312388237505, 'significance': 0.14508936399721142}
 {'comparison': ['Arabinose', 'chromosome_numbers'], 'correl': -0.013686518284839853, 'significance': 0.1416177806931454}
 {'comparison': ['3182', 'chromosome_numbers'], 'correl': -0.013857262703620248, 'significance': 0.13671631435860981}
 {'comparison': ['3183', 'chromosome_numbers'], 'correl': -0.013857262703620248, 'significance': 0.13671631435860981}
 {'comparison': ['3184', 'chromosome_numbers'], 'correl': -0.013857262703620248, 'significance': 0.13671631435860981}
-{'comparison': ['Na-butyrate', 'chromosome_numbers'], 'correl': -0.013912258064119156, 'significance': 0.13516577771106675}
-{'comparison': ['Lactose', 'chromosome_numbers'], 'correl': -0.014039744027896666, 'significance': 0.13162371633222747}
-{'comparison': ['MES [2-(N-morpholino) ethane sulfonic acid]', 'chromosome_numbers'], 'correl': -0.014114123956320241, 'significance': 0.12959062847287273}
-{'comparison': ['Ascorbic acid', 'chromosome_numbers'], 'correl': -0.014125376803789605, 'significance': 0.12928517990280464}
-{'comparison': ['Sodium lactate', 'chromosome_numbers'], 'correl': -0.014337769063775933, 'significance': 0.12362425044959131}
-{'comparison': ['Na pyruvate', 'chromosome_numbers'], 'correl': -0.014461192291536388, 'significance': 0.12042462548197053}
-{'comparison': ['FeCl3 x 6 H2O', 'chromosome_numbers'], 'correl': -0.014993906759502774, 'significance': 0.10735234274495659}
+{'comparison': ['Na-butyrate', 'chromosome_numbers'], 'correl': -0.013913211570852091, 'significance': 0.13513901490374886}
+{'comparison': ['Lactose', 'chromosome_numbers'], 'correl': -0.014045200034715937, 'significance': 0.13147374767008776}
+{'comparison': ['Ascorbic acid', 'chromosome_numbers'], 'correl': -0.014119427268124884, 'significance': 0.1294466050442259}
+{'comparison': ['MES [2-(N-morpholino) ethane sulfonic acid]', 'chromosome_numbers'], 'correl': -0.014121616439044011, 'significance': 0.12938718940917185}
+{'comparison': ['Sodium lactate', 'chromosome_numbers'], 'correl': -0.014354547312013511, 'significance': 0.12318543399836743}
+{'comparison': ['Na pyruvate', 'chromosome_numbers'], 'correl': -0.014458566069250006, 'significance': 0.12049202615196039}
+{'comparison': ['FeCl3 x 6 H2O', 'chromosome_numbers'], 'correl': -0.014957588683224738, 'significance': 0.10820628632284572}
 {'comparison': ['DL-2-Methylbutyric acid', 'chromosome_numbers'], 'correl': -0.014995165256771576, 'significance': 0.10732284776865704}
-{'comparison': ['Catalase', 'chromosome_numbers'], 'correl': -0.014995165256771576, 'significance': 0.10732284776865704}
 {'comparison': ['n-Butyric acid', 'chromosome_numbers'], 'correl': -0.014995165256771576, 'significance': 0.10732284776865704}
 {'comparison': ['iso-Butyric acid', 'chromosome_numbers'], 'correl': -0.014995165256771576, 'significance': 0.10732284776865704}
 {'comparison': ['iso-Valeric acid', 'chromosome_numbers'], 'correl': -0.014995165256771576, 'significance': 0.10732284776865704}
+{'comparison': ['Catalase', 'chromosome_numbers'], 'correl': -0.014997110858491517, 'significance': 0.1072772619881738}
 {'comparison': ['2762', 'chromosome_numbers'], 'correl': -0.015296804340413634, 'significance': 0.10043659060621475}
-{'comparison': ['Na-propionate', 'chromosome_numbers'], 'correl': -0.015486683215472963, 'significance': 0.09628552537631803}
-{'comparison': ['MgCl2 x 2 H2O', 'chromosome_numbers'], 'correl': -0.015489049070121908, 'significance': 0.09623468314408541}
+{'comparison': ['Na-propionate', 'chromosome_numbers'], 'correl': -0.015488023644083184, 'significance': 0.0962567169185035}
+{'comparison': ['MgCl2 x 2 H2O', 'chromosome_numbers'], 'correl': -0.015489046022611124, 'significance': 0.09623474862129318}
+{'comparison': ['MnSO4 x 5 H2O', 'chromosome_numbers'], 'correl': -0.015575596978025788, 'significance': 0.09438948796113737}
+{'comparison': ['Na2HPO4 x 7 H2O', 'chromosome_numbers'], 'correl': -0.015575596978025788, 'significance': 0.09438948796113737}
+{'comparison': ['4478', 'chromosome_numbers'], 'correl': -0.015575596978025788, 'significance': 0.09438948796113737}
 {'comparison': ['Vitamin solution', 'chromosome_numbers'], 'correl': -0.01557559715370756, 'significance': 0.09438948424460056}
-{'comparison': ['MnSO4 x 5 H2O', 'chromosome_numbers'], 'correl': -0.01557559715370756, 'significance': 0.09438948424460056}
 {'comparison': ['Pyridoxine hydrochloride', 'chromosome_numbers'], 'correl': -0.01557559715370756, 'significance': 0.09438948424460056}
 {'comparison': ['Lab-Lemco beef extract', 'chromosome_numbers'], 'correl': -0.01557559715370756, 'significance': 0.09438948424460056}
 {'comparison': ['3,4,5-Trimethoxycinnamic acid', 'chromosome_numbers'], 'correl': -0.01557559715370756, 'significance': 0.09438948424460056}
 {'comparison': ['Horse blood', 'chromosome_numbers'], 'correl': -0.01557559715370756, 'significance': 0.09438948424460056}
-{'comparison': ['Na2HPO4 x 7 H2O', 'chromosome_numbers'], 'correl': -0.01557559715370756, 'significance': 0.09438948424460056}
 {'comparison': ['Poly hexamethylene carbonate', 'chromosome_numbers'], 'correl': -0.01557559715370756, 'significance': 0.09438948424460056}
 {'comparison': ['Na3-citrate x 5 H2O', 'chromosome_numbers'], 'correl': -0.01557559715370756, 'significance': 0.09438948424460056}
 {'comparison': ['NiCl2', 'chromosome_numbers'], 'correl': -0.01557559715370756, 'significance': 0.09438948424460056}
@@ -623,97 +625,95 @@
 {'comparison': ['5701', 'chromosome_numbers'], 'correl': -0.01557559715370756, 'significance': 0.09438948424460056}
 {'comparison': ['5704', 'chromosome_numbers'], 'correl': -0.01557559715370756, 'significance': 0.09438948424460056}
 {'comparison': ['4092', 'chromosome_numbers'], 'correl': -0.01557559715370756, 'significance': 0.09438948424460056}
-{'comparison': ['4478', 'chromosome_numbers'], 'correl': -0.01557559715370756, 'significance': 0.09438948424460056}
 {'comparison': ['5215', 'chromosome_numbers'], 'correl': -0.01557559715370756, 'significance': 0.09438948424460056}
-{'comparison': ['FeCl3', 'chromosome_numbers'], 'correl': -0.015787664379278758, 'significance': 0.08998796708495617}
-{'comparison': ["Baker's yeast", 'chromosome_numbers'], 'correl': -0.01602167090601688, 'significance': 0.08532439495531571}
+{'comparison': ['FeCl3', 'chromosome_numbers'], 'correl': -0.015796484177846185, 'significance': 0.08980854945968379}
+{'comparison': ["Baker's yeast", 'chromosome_numbers'], 'correl': -0.016009076181461076, 'significance': 0.08557032289046272}
+{'comparison': ['4186', 'chromosome_numbers'], 'correl': -0.016226897790909713, 'significance': 0.08139699792886249}
 {'comparison': ['Raffinose', 'chromosome_numbers'], 'correl': -0.016231230241600197, 'significance': 0.08131569673824018}
 {'comparison': ['Galactose', 'chromosome_numbers'], 'correl': -0.016231230241600197, 'significance': 0.08131569673824018}
-{'comparison': ['4186', 'chromosome_numbers'], 'correl': -0.016231230241600197, 'significance': 0.08131569673824018}
+{'comparison': ['Casitone', 'chromosome_numbers'], 'correl': -0.016468353229898963, 'significance': 0.07696547654750079}
 {'comparison': ['6262', 'chromosome_numbers'], 'correl': -0.0165180223787324, 'significance': 0.07607871585193056}
-{'comparison': ['Casitone', 'chromosome_numbers'], 'correl': -0.016668803992141247, 'significance': 0.07343769115510287}
-{'comparison': ['NiCl2 x 6 H2O', 'chromosome_numbers'], 'correl': -0.01674441716794131, 'significance': 0.0721417848592685}
-{'comparison': ['Na-acetate x 3 H2O', 'chromosome_numbers'], 'correl': -0.016771638235868865, 'significance': 0.07167986168128751}
-{'comparison': ['NaH2PO4 x 2 H2O', 'chromosome_numbers'], 'correl': -0.016819766529542337, 'significance': 0.0708690875016364}
-{'comparison': ['MgSO4 x 6 H2O', 'chromosome_numbers'], 'correl': -0.016881691323987324, 'significance': 0.06983697282077349}
-{'comparison': ['5902', 'chromosome_numbers'], 'correl': -0.01701418988028584, 'significance': 0.06767000439077706}
-{'comparison': ['Brain heart infusion', 'chromosome_numbers'], 'correl': -0.0170321027924738, 'significance': 0.06738133485726872}
-{'comparison': ['Sodium acetate', 'chromosome_numbers'], 'correl': -0.01713472471740555, 'significance': 0.06574703385149695}
-{'comparison': ['Na2-fumarate', 'chromosome_numbers'], 'correl': -0.017143676414984464, 'significance': 0.06560603657326058}
-{'comparison': ['Na-DL-lactate', 'chromosome_numbers'], 'correl': -0.01740797092859245, 'significance': 0.06155418629572088}
-{'comparison': ['Na3-EDTA', 'chromosome_numbers'], 'correl': -0.01741480222453603, 'significance': 0.0614522670856952}
-{'comparison': ['MOPS buffer', 'chromosome_numbers'], 'correl': -0.01741480222453603, 'significance': 0.0614522670856952}
+{'comparison': ['NiCl2 x 6 H2O', 'chromosome_numbers'], 'correl': -0.01671135498621338, 'significance': 0.07270610300608138}
+{'comparison': ['Na-acetate x 3 H2O', 'chromosome_numbers'], 'correl': -0.016748032181605726, 'significance': 0.0720803005113433}
+{'comparison': ['NaH2PO4 x 2 H2O', 'chromosome_numbers'], 'correl': -0.016821134188152724, 'significance': 0.07084615810862853}
+{'comparison': ['MgSO4 x 6 H2O', 'chromosome_numbers'], 'correl': -0.016881301029881557, 'significance': 0.06984343909840933}
+{'comparison': ['5902', 'chromosome_numbers'], 'correl': -0.017003661605133846, 'significance': 0.06784014340538978}
+{'comparison': ['Brain heart infusion', 'chromosome_numbers'], 'correl': -0.01702173416991825, 'significance': 0.06754830316314236}
+{'comparison': ['Sodium acetate', 'chromosome_numbers'], 'correl': -0.017111133942067702, 'significance': 0.06611980644364648}
+{'comparison': ['Na2-fumarate', 'chromosome_numbers'], 'correl': -0.01714609171189242, 'significance': 0.06556803620404314}
+{'comparison': ['Na3-EDTA', 'chromosome_numbers'], 'correl': -0.017414801831648535, 'significance': 0.06145227294334267}
+{'comparison': ['MOPS buffer', 'chromosome_numbers'], 'correl': -0.017414801831648535, 'significance': 0.06145227294334267}
 {'comparison': ['Na-crotonate', 'chromosome_numbers'], 'correl': -0.01741480222453603, 'significance': 0.0614522670856952}
-{'comparison': ['N-Z amine', 'chromosome_numbers'], 'correl': -0.017434961542516617, 'significance': 0.06115231522795646}
-{'comparison': ['MOPS', 'chromosome_numbers'], 'correl': -0.017507871445575286, 'significance': 0.06007758898884191}
-{'comparison': ['Urea', 'chromosome_numbers'], 'correl': -0.018012605181831568, 'significance': 0.05305938074089195}
-{'comparison': ['Ca(NO3)2 x 4 H2O', 'chromosome_numbers'], 'correl': -0.018306506359069233, 'significance': 0.049297956654153464}
+{'comparison': ['Na-DL-lactate', 'chromosome_numbers'], 'correl': -0.017414977436443303, 'significance': 0.06144965485827839}
+{'comparison': ['MOPS', 'chromosome_numbers'], 'correl': -0.017498757605764387, 'significance': 0.06021106890245471}
+{'comparison': ['N-Z amine', 'chromosome_numbers'], 'correl': -0.017615155558261708, 'significance': 0.058524683387693746}
+{'comparison': ['Urea', 'chromosome_numbers'], 'correl': -0.018010087266645342, 'significance': 0.05309261362258318}
+{'comparison': ['Ca(NO3)2 x 4 H2O', 'chromosome_numbers'], 'correl': -0.018294899678558567, 'significance': 0.049442141472084436}
 {'comparison': ['CMRL 1066', 'chromosome_numbers'], 'correl': -0.018418631938147103, 'significance': 0.047923146139707634}
-{'comparison': ['NaNO3', 'chromosome_numbers'], 'correl': -0.01842557830198936, 'significance': 0.04783904476008312}
-{'comparison': ['Sodium thioglycolate', 'chromosome_numbers'], 'correl': -0.018671048654503298, 'significance': 0.04494572992324606}
-{'comparison': ['Sodium glycerophosphate', 'chromosome_numbers'], 'correl': -0.019077787426256685, 'significance': 0.04047666202157293}
-{'comparison': ['Arginine', 'chromosome_numbers'], 'correl': -0.019077787426256685, 'significance': 0.04047666202157293}
-{'comparison': ['4221', 'chromosome_numbers'], 'correl': -0.019077787426256685, 'significance': 0.04047666202157293}
+{'comparison': ['NaNO3', 'chromosome_numbers'], 'correl': -0.01846847154828848, 'significance': 0.04732246845063043}
+{'comparison': ['Sodium thioglycolate', 'chromosome_numbers'], 'correl': -0.018670378865120824, 'significance': 0.04495341923906625}
+{'comparison': ['Casamino acids', 'chromosome_numbers'], 'correl': -0.018736029994318726, 'significance': 0.04420498603598223}
+{'comparison': ['Arginine', 'chromosome_numbers'], 'correl': -0.01907778670885223, 'significance': 0.04047666955906392}
+{'comparison': ['Sodium glycerophosphate', 'chromosome_numbers'], 'correl': -0.019077786852333117, 'significance': 0.04047666805156568}
+{'comparison': ['4221', 'chromosome_numbers'], 'correl': -0.019077786852333117, 'significance': 0.04047666805156568}
 {'comparison': ['3847', 'chromosome_numbers'], 'correl': -0.019139950808889826, 'significance': 0.03982798699051007}
-{'comparison': ['HEPES', 'chromosome_numbers'], 'correl': -0.019298620687082105, 'significance': 0.038212134091325324}
-{'comparison': ['Na2SO3', 'chromosome_numbers'], 'correl': -0.019503947746729627, 'significance': 0.03620414683528918}
+{'comparison': ['HEPES', 'chromosome_numbers'], 'correl': -0.019262710937790736, 'significance': 0.038572866102773315}
+{'comparison': ['Na2SO3', 'chromosome_numbers'], 'correl': -0.019514056976822042, 'significance': 0.036107651649276554}
 {'comparison': ['3846', 'chromosome_numbers'], 'correl': -0.019582585217874263, 'significance': 0.03545929488548131}
-{'comparison': ['Ferric citrate monohydrate', 'chromosome_numbers'], 'correl': -0.019695243155599673, 'significance': 0.034415006989580034}
+{'comparison': ['Ferric citrate monohydrate', 'chromosome_numbers'], 'correl': -0.01968431624610694, 'significance': 0.03451513053176658}
 {'comparison': ['Na-ascorbate', 'chromosome_numbers'], 'correl': -0.019851825633911958, 'significance': 0.03300727065205698}
-{'comparison': ['Na2MoO4 x 2 H2O', 'chromosome_numbers'], 'correl': -0.01993756578213835, 'significance': 0.03225752888159973}
+{'comparison': ['Na2MoO4 x 2 H2O', 'chromosome_numbers'], 'correl': -0.019935121104296547, 'significance': 0.03227870218733316}
 {'comparison': ['3383', 'chromosome_numbers'], 'correl': -0.01993756578213835, 'significance': 0.03225752888159973}
-{'comparison': ['Trypticase', 'chromosome_numbers'], 'correl': -0.020122503009160533, 'significance': 0.03068991748664643}
-{'comparison': ['MES', 'chromosome_numbers'], 'correl': -0.020316641310600184, 'significance': 0.029115135083802195}
-{'comparison': ['Na-EDTA', 'chromosome_numbers'], 'correl': -0.020330036621059946, 'significance': 0.02900908876951432}
-{'comparison': ['Casamino acids', 'chromosome_numbers'], 'correl': -0.020404840621847456, 'significance': 0.028422981290367667}
-{'comparison': ['Ca(NO3)2', 'chromosome_numbers'], 'correl': -0.0206072593791473, 'significance': 0.026887866226215987}
-{'comparison': ['NH4HCO3', 'chromosome_numbers'], 'correl': -0.0206072593791473, 'significance': 0.026887866226215987}
+{'comparison': ['Trypticase', 'chromosome_numbers'], 'correl': -0.02011441741768565, 'significance': 0.030757061588549926}
+{'comparison': ['MES', 'chromosome_numbers'], 'correl': -0.020304609978685252, 'significance': 0.029210667421916622}
+{'comparison': ['Na-EDTA', 'chromosome_numbers'], 'correl': -0.02031917917596773, 'significance': 0.029095018053964052}
+{'comparison': ['D-Glucose', 'chromosome_numbers'], 'correl': -0.020341723204941944, 'significance': 0.028916841576218252}
+{'comparison': ['Ca(NO3)2', 'chromosome_numbers'], 'correl': -0.02060725827202416, 'significance': 0.026887874422760086}
+{'comparison': ['3979', 'chromosome_numbers'], 'correl': -0.020607258449163852, 'significance': 0.026887873111312965}
+{'comparison': ['NH4HCO3', 'chromosome_numbers'], 'correl': -0.02060725860416108, 'significance': 0.02688787196379677}
 {'comparison': ['3903', 'chromosome_numbers'], 'correl': -0.0206072593791473, 'significance': 0.026887866226215987}
-{'comparison': ['3979', 'chromosome_numbers'], 'correl': -0.0206072593791473, 'significance': 0.026887866226215987}
-{'comparison': ['D-Glucose', 'chromosome_numbers'], 'correl': -0.020801991660838764, 'significance': 0.025479132851746515}
-{'comparison': ['4178', 'chromosome_numbers'], 'correl': -0.02080525999186186, 'significance': 0.025456044512959037}
-{'comparison': ['2-Mercaptoethanesulfonic acid', 'chromosome_numbers'], 'correl': -0.020811374573193278, 'significance': 0.02541289812825786}
-{'comparison': ['1605', 'chromosome_numbers'], 'correl': -0.021040269246368957, 'significance': 0.02384262855995885}
-{'comparison': ['Na-lactate', 'chromosome_numbers'], 'correl': -0.022150704908256387, 'significance': 0.017362437826969838}
-{'comparison': ['Na-L-lactate', 'chromosome_numbers'], 'correl': -0.022248625545597204, 'significance': 0.016873141064878527}
-{'comparison': ['3804', 'chromosome_numbers'], 'correl': -0.022398042229859163, 'significance': 0.016149842746659898}
+{'comparison': ['2-Mercaptoethanesulfonic acid', 'chromosome_numbers'], 'correl': -0.020808716742116207, 'significance': 0.025431644829582475}
+{'comparison': ['4178', 'chromosome_numbers'], 'correl': -0.020810616439769194, 'significance': 0.025418244314695738}
+{'comparison': ['1605', 'chromosome_numbers'], 'correl': -0.021039084149664083, 'significance': 0.023850536804895916}
+{'comparison': ['Na-lactate', 'chromosome_numbers'], 'correl': -0.0221558501896436, 'significance': 0.017336421161701126}
+{'comparison': ['Na-L-lactate', 'chromosome_numbers'], 'correl': -0.022260106004718373, 'significance': 0.016816574872478608}
+{'comparison': ['3804', 'chromosome_numbers'], 'correl': -0.02238903913699787, 'significance': 0.01619264078896864}
 {'comparison': ['GAM broth', 'chromosome_numbers'], 'correl': -0.022506169860527687, 'significance': 0.01564355026350013}
-{'comparison': ['Trimethylamine-HCl', 'chromosome_numbers'], 'correl': -0.022600389300366102, 'significance': 0.015213819408989419}
-{'comparison': ['CaCl2 x H2O', 'chromosome_numbers'], 'correl': -0.023368463162728198, 'significance': 0.012081291521319098}
-{'comparison': ['4172', 'chromosome_numbers'], 'correl': -0.023368463162728198, 'significance': 0.012081291521319098}
-{'comparison': ['Methanol', 'chromosome_numbers'], 'correl': -0.024448916385357834, 'significance': 0.008643670489360654}
-{'comparison': ['Proteose peptone no. 3', 'chromosome_numbers'], 'correl': -0.02653206747823763, 'significance': 0.004376833196955576}
-{'comparison': ['Sea Salt', 'chromosome_numbers'], 'correl': -0.027079742769774415, 'significance': 0.0036318264265063193}
-{'comparison': ['Proteose peptone', 'chromosome_numbers'], 'correl': -0.02725596701676401, 'significance': 0.0034178590472258843}
-{'comparison': ['Sodium pyruvate', 'chromosome_numbers'], 'correl': -0.030061792997132273, 'significance': 0.0012426299860589132}
-{'comparison': ['MgSO4 x 7 H2O', 'chromosome_numbers'], 'correl': -0.03017122811702034, 'significance': 0.0011924928554038893}
-{'comparison': ['1038', 'chromosome_numbers'], 'correl': -0.030855645733598603, 'significance': 0.0009190012475465087}
+{'comparison': ['Trimethylamine-HCl', 'chromosome_numbers'], 'correl': -0.022592403476871817, 'significance': 0.015249834979187292}
+{'comparison': ['CaCl2 x H2O', 'chromosome_numbers'], 'correl': -0.02336846158056333, 'significance': 0.012081297335974118}
+{'comparison': ['4172', 'chromosome_numbers'], 'correl': -0.0233684619321555, 'significance': 0.012081296043828429}
+{'comparison': ['Methanol', 'chromosome_numbers'], 'correl': -0.02446967519577486, 'significance': 0.008587205831924894}
+{'comparison': ['Proteose peptone no. 3', 'chromosome_numbers'], 'correl': -0.026444172043561948, 'significance': 0.00450853495518959}
+{'comparison': ['MgSO4 x 7 H2O', 'chromosome_numbers'], 'correl': -0.026967986913422934, 'significance': 0.0037737562905077976}
+{'comparison': ['Sea Salt', 'chromosome_numbers'], 'correl': -0.027122279124235718, 'significance': 0.0035790930874491263}
+{'comparison': ['Proteose peptone', 'chromosome_numbers'], 'correl': -0.027251047790473073, 'significance': 0.003423672722503131}
+{'comparison': ['Sodium pyruvate', 'chromosome_numbers'], 'correl': -0.030110396684678895, 'significance': 0.0012201269210415822}
+{'comparison': ['1038', 'chromosome_numbers'], 'correl': -0.03082991087051719, 'significance': 0.0009281329799621823}
 {'comparison': ['1474', 'chromosome_numbers'], 'correl': -0.03246049290820261, 'significance': 0.0004890506479236118}
-{'comparison': ['Fe(NH4)2(SO4)2 x 6 H2O', 'chromosome_numbers'], 'correl': -0.033099821653195916, 'significance': 0.0003774150981781993}
-{'comparison': ['Na-pyruvate', 'chromosome_numbers'], 'correl': -0.035181473249453754, 'significance': 0.00015737973686036005}
-{'comparison': ['Na-formate', 'chromosome_numbers'], 'correl': -0.03605857550317562, 'significance': 0.00010732601544647568}
-{'comparison': ['FeSO4 x 7 H2O', 'chromosome_numbers'], 'correl': -0.03663367064839549, 'significance': 8.31201660681309e-05}
-{'comparison': ['DL-Dithiothreitol', 'chromosome_numbers'], 'correl': -0.03736451227107973, 'significance': 5.975328373207631e-05}
-{'comparison': ['K2HPO4 x 3 H2O', 'chromosome_numbers'], 'correl': -0.03831331947501918, 'significance': 3.858721498065632e-05}
-{'comparison': ['NaHCO3', 'chromosome_numbers'], 'correl': -0.03953816033567073, 'significance': 2.162086584428646e-05}
-{'comparison': ['Na2S2O3 x 5 H2O', 'chromosome_numbers'], 'correl': -0.04274876196417168, 'significance': 4.376158926066544e-06}
-{'comparison': ['Na-acetate', 'chromosome_numbers'], 'correl': -0.04279672927307803, 'significance': 4.2692312473952e-06}
-{'comparison': ['Trypticase peptone', 'chromosome_numbers'], 'correl': -0.042942862022202585, 'significance': 3.95868601886775e-06}
-{'comparison': ['Na-(DL)-lactate', 'chromosome_numbers'], 'correl': -0.04380039973526099, 'significance': 2.5292641581164673e-06}
-{'comparison': ['3861', 'chromosome_numbers'], 'correl': -0.044176094446387856, 'significance': 2.0731582625627237e-06}
-{'comparison': ['KCl', 'chromosome_numbers'], 'correl': -0.044611666745593415, 'significance': 1.6430393874691313e-06}
-{'comparison': ['Sulfur', 'chromosome_numbers'], 'correl': -0.044828085855429016, 'significance': 1.462613734344199e-06}
-{'comparison': ['Yeast extract', 'chromosome_numbers'], 'correl': -0.04508806803121719, 'significance': 1.2709873524237855e-06}
-{'comparison': ['K2HPO4', 'chromosome_numbers'], 'correl': -0.050225071810298484, 'significance': 6.78337469675795e-08}
-{'comparison': ['Trehalose', 'chromosome_numbers'], 'correl': -0.0502506571531631, 'significance': 6.680116297304066e-08}
-{'comparison': ['241', 'chromosome_numbers'], 'correl': -0.05622118556845745, 'significance': 1.521391072558123e-09}
-{'comparison': ['FeSO4', 'chromosome_numbers'], 'correl': -0.056986051915091526, 'significance': 9.101800350964395e-10}
-{'comparison': ['KH2PO4', 'chromosome_numbers'], 'correl': -0.0638112404630283, 'significance': 6.917473088950045e-12}
-{'comparison': ['L-Cysteine HCl x H2O', 'chromosome_numbers'], 'correl': -0.07032398184077626, 'significance': 3.997051281587154e-14}
-{'comparison': ['5980', 'chromosome_numbers'], 'correl': -0.07388492008679462, 'significance': 1.94223272696509e-15}
-{'comparison': ['Na2CO3', 'chromosome_numbers'], 'correl': -0.07494006899272943, 'significance': 7.70727697106473e-16}
-{'comparison': ['CaCl2 x 2 H2O', 'chromosome_numbers'], 'correl': -0.07505651270607852, 'significance': 6.954419395767805e-16}
-{'comparison': ['Sodium resazurin', 'chromosome_numbers'], 'correl': -0.08116997873489014, 'significance': 2.528048936340319e-18}
-{'comparison': ['MgCl2 x 6 H2O', 'chromosome_numbers'], 'correl': -0.09209526700660849, 'significance': 3.7401368085276766e-23}
-{'comparison': ['NH4Cl', 'chromosome_numbers'], 'correl': -0.09696906042061239, 'significance': 1.66962476577713e-25}
-{'comparison': ['Na2S x 9 H2O', 'chromosome_numbers'], 'correl': -0.09807531952289884, 'significance': 4.701888694321133e-26}
+{'comparison': ['Fe(NH4)2(SO4)2 x 6 H2O', 'chromosome_numbers'], 'correl': -0.0331086875572411, 'significance': 0.0003760495430884859}
+{'comparison': ['Na-pyruvate', 'chromosome_numbers'], 'correl': -0.035174116544000676, 'significance': 0.00015788019361827018}
+{'comparison': ['Na-formate', 'chromosome_numbers'], 'correl': -0.03610007833497823, 'significance': 0.00010537741979445083}
+{'comparison': ['KCl', 'chromosome_numbers'], 'correl': -0.03617036619417533, 'significance': 0.00010215327535155964}
+{'comparison': ['FeSO4 x 7 H2O', 'chromosome_numbers'], 'correl': -0.03657409342540861, 'significance': 8.536480482192242e-05}
+{'comparison': ['DL-Dithiothreitol', 'chromosome_numbers'], 'correl': -0.03735541412294636, 'significance': 6.000148439960972e-05}
+{'comparison': ['K2HPO4 x 3 H2O', 'chromosome_numbers'], 'correl': -0.03824544070708896, 'significance': 3.9826671916537615e-05}
+{'comparison': ['Na-acetate', 'chromosome_numbers'], 'correl': -0.041545137483290806, 'significance': 8.072800864009085e-06}
+{'comparison': ['K2HPO4', 'chromosome_numbers'], 'correl': -0.04231227216408371, 'significance': 5.4744792670419266e-06}
+{'comparison': ['Trypticase peptone', 'chromosome_numbers'], 'correl': -0.0424361422875351, 'significance': 5.138524438135205e-06}
+{'comparison': ['Na2S2O3 x 5 H2O', 'chromosome_numbers'], 'correl': -0.04283228301076184, 'significance': 4.191595702329589e-06}
+{'comparison': ['Na-(DL)-lactate', 'chromosome_numbers'], 'correl': -0.04387092497325308, 'significance': 2.4368829859042804e-06}
+{'comparison': ['3861', 'chromosome_numbers'], 'correl': -0.04415529991261574, 'significance': 2.096189139754412e-06}
+{'comparison': ['NaHCO3', 'chromosome_numbers'], 'correl': -0.04442481581786488, 'significance': 1.8158545091467998e-06}
+{'comparison': ['Sulfur', 'chromosome_numbers'], 'correl': -0.04488523508907573, 'significance': 1.4182453945543434e-06}
+{'comparison': ['Trehalose', 'chromosome_numbers'], 'correl': -0.05025180714978895, 'significance': 6.675511027174864e-08}
+{'comparison': ['241', 'chromosome_numbers'], 'correl': -0.056453948053223034, 'significance': 1.3021148126919887e-09}
+{'comparison': ['FeSO4', 'chromosome_numbers'], 'correl': -0.05699555647366058, 'significance': 9.04350162055363e-10}
+{'comparison': ['KH2PO4', 'chromosome_numbers'], 'correl': -0.06014657824447591, 'significance': 1.0151171678964824e-10}
+{'comparison': ['L-Cysteine HCl x H2O', 'chromosome_numbers'], 'correl': -0.07006908971883957, 'significance': 4.935375618856415e-14}
+{'comparison': ['5980', 'chromosome_numbers'], 'correl': -0.0739277995862539, 'significance': 1.8711041747173026e-15}
+{'comparison': ['Na2CO3', 'chromosome_numbers'], 'correl': -0.0744411160103511, 'significance': 1.1951145722254292e-15}
+{'comparison': ['CaCl2 x 2 H2O', 'chromosome_numbers'], 'correl': -0.07602503997963064, 'significance': 2.9398464771304204e-16}
+{'comparison': ['Sodium resazurin', 'chromosome_numbers'], 'correl': -0.08114525608309615, 'significance': 2.5883911314804934e-18}
+{'comparison': ['MgCl2 x 6 H2O', 'chromosome_numbers'], 'correl': -0.0903211846899407, 'significance': 2.5024263532622376e-22}
+{'comparison': ['NH4Cl', 'chromosome_numbers'], 'correl': -0.09558148146688258, 'significance': 8.018264877153129e-25}
+{'comparison': ['Na2S x 9 H2O', 'chromosome_numbers'], 'correl': -0.09925292811718954, 'significance': 1.2010350801515671e-26}

@@ -21,22 +21,24 @@ for h in headers:
             cols.append(h)
 def correltester(cols, basetitle):
     sigrel = []
-    nottouse = ['name','cultures','taxid','sci_name','chromosome_numbers','genome_size','genome_gc_content','gene_counts','protein_coding_genes']
+    nottouse = ['name','cultures','taxid','sci_name','chromosome_numbers','genome_size','genome_gc_content','gene_counts','protein_coding_genes', 'lineage', '0', 'min_pH','max_pH','complex_medium','MediaID']
     for h in cols:
+      if h in nottouse: 
+                continue
+      else:
           data = []
           for item in prok[h]:
                 if str(item).endswith('g/l'):
-                      data.append(bool(str(item).rstrip('g/l')))
+                      data.append(float(str(item).rstrip('g/l')))
                 elif str(item).endswith('g'):
-                      data.append(bool(str(item).rstrip('g')))
+                      data.append(float(str(item).rstrip('g')))
                 elif str(item).endswith('ml'):
-                      data.append(bool(str(item).rstrip('ml')))
+                      data.append(float(str(item).rstrip('ml')))
                 else:
                       data.append(0)
           a = ss.spearmanr(data,prok[basetitle] )
-          if h in nottouse: 
-                continue
-          elif any(np.isnan(val) for val in a):
+          
+          if any(np.isnan(val) for val in a):
                 continue
           else:
                 sigrel.append({'comparison': [h, basetitle], 'correl': a[0], 'significance': a[1]})

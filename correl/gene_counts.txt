@@ -1,23 +1,23 @@
-{'comparison': ['CaCO3', 'gene_counts'], 'correl': 0.26138915747190694, 'significance': 1.7133875263118043e-179}
-{'comparison': ['Agar', 'gene_counts'], 'correl': 0.24941962327493944, 'significance': 4.304869638221115e-163}
+{'comparison': ['Agar', 'gene_counts'], 'correl': 0.33608706098722757, 'significance': 1.5857629364052745e-302}
+{'comparison': ['CaCO3', 'gene_counts'], 'correl': 0.2597182562553539, 'significance': 3.7656879358414407e-177}
 {'comparison': ['147', 'gene_counts'], 'correl': 0.22598677574819578, 'significance': 1.771748798513033e-133}
 {'comparison': ['Rolled oats', 'gene_counts'], 'correl': 0.18250413756514197, 'significance': 6.033465027359048e-87}
-{'comparison': ['Malt extract', 'gene_counts'], 'correl': 0.16901918145122188, 'significance': 1.1561980338714561e-74}
-{'comparison': ['Starch', 'gene_counts'], 'correl': 0.14945085620270743, 'significance': 1.3469402459025526e-58}
-{'comparison': ['Glucose', 'gene_counts'], 'correl': 0.14089536467534214, 'significance': 3.2300570785278644e-52}
-{'comparison': ['N-Z amine', 'gene_counts'], 'correl': 0.1047625967441758, 'significance': 1.6294782370929475e-29}
-{'comparison': ['Oatmeal', 'gene_counts'], 'correl': 0.09171227287644232, 'significance': 5.655202971462021e-23}
+{'comparison': ['Malt extract', 'gene_counts'], 'correl': 0.17750485009768247, 'significance': 2.821268996439998e-82}
+{'comparison': ['Starch', 'gene_counts'], 'correl': 0.15749277666840525, 'significance': 5.974133768121477e-65}
+{'comparison': ['Glucose', 'gene_counts'], 'correl': 0.13192695524467407, 'significance': 6.0382165798894395e-46}
+{'comparison': ['N-Z amine', 'gene_counts'], 'correl': 0.10481595520974141, 'significance': 1.5258666451382636e-29}
+{'comparison': ['Oatmeal', 'gene_counts'], 'correl': 0.09177968054531126, 'significance': 5.2589531886709455e-23}
 {'comparison': ['1209', 'gene_counts'], 'correl': 0.08061122366167278, 'significance': 4.300967912421905e-18}
-{'comparison': ['L-Asparagine', 'gene_counts'], 'correl': 0.04635724558593062, 'significance': 6.334088527799867e-07}
-{'comparison': ['Dextrose', 'gene_counts'], 'correl': 0.04091089714543499, 'significance': 1.1074760491340846e-05}
-{'comparison': ['Sucrose', 'gene_counts'], 'correl': 0.02645635344694102, 'significance': 0.004490070668812647}
-{'comparison': ['4059', 'gene_counts'], 'correl': 0.02303488546358464, 'significance': 0.013363763594935912}
+{'comparison': ['L-Asparagine', 'gene_counts'], 'correl': 0.046357562883845044, 'significance': 6.332971483617629e-07}
+{'comparison': ['Dextrose', 'gene_counts'], 'correl': 0.041112222145332646, 'significance': 1.002210781028266e-05}
+{'comparison': ['Sucrose', 'gene_counts'], 'correl': 0.02658927889747142, 'significance': 0.0042929918633702584}
+{'comparison': ['4059', 'gene_counts'], 'correl': 0.02312245535514224, 'significance': 0.013015944542349804}
 {'comparison': ['Raffinose', 'gene_counts'], 'correl': 0.021586724686830823, 'significance': 0.02042994276147555}
 {'comparison': ['Galactose', 'gene_counts'], 'correl': 0.021586724686830823, 'significance': 0.02042994276147555}
 {'comparison': ['Na-malate', 'gene_counts'], 'correl': 0.017844548924652887, 'significance': 0.05531594534313706}
 {'comparison': ['Bis-Tris', 'gene_counts'], 'correl': 0.017844548924652887, 'significance': 0.05531594534313706}
-{'comparison': ['L-Glutamic acid', 'gene_counts'], 'correl': 0.01547754757939369, 'significance': 0.09648205199808554}
-{'comparison': ['934', 'gene_counts'], 'correl': 0.014592508340875795, 'significance': 0.11709194029736446}
+{'comparison': ['L-Glutamic acid', 'gene_counts'], 'correl': 0.015476610767570584, 'significance': 0.09650222290363614}
+{'comparison': ['934', 'gene_counts'], 'correl': 0.014579165157118781, 'significance': 0.11742723788871598}
 {'comparison': ['Carrot', 'gene_counts'], 'correl': 0.013983356406137423, 'significance': 0.13318141184235713}
 {'comparison': ['K2S4O6', 'gene_counts'], 'correl': 0.012366181309941398, 'significance': 0.18418109593763793}
 {'comparison': ['DL-Na-malate', 'gene_counts'], 'correl': 0.011772145516149097, 'significance': 0.20616056434773888}
@@ -27,13 +27,15 @@
 {'comparison': ['Succinate', 'gene_counts'], 'correl': 0.011551164288686633, 'significance': 0.21480489291558288}
 {'comparison': ['Malate', 'gene_counts'], 'correl': 0.011551164288686633, 'significance': 0.21480489291558288}
 {'comparison': ['2842', 'gene_counts'], 'correl': 0.011551164288686633, 'significance': 0.21480489291558288}
-{'comparison': ['Betaine x H2O', 'gene_counts'], 'correl': 0.011436056899764178, 'significance': 0.2194097722612328}
-{'comparison': ['Oat flakes', 'gene_counts'], 'correl': 0.011290767122409234, 'significance': 0.22532270181720193}
-{'comparison': ['612', 'gene_counts'], 'correl': 0.011104068684567843, 'significance': 0.2330867265351007}
-{'comparison': ["Baker's yeast", 'gene_counts'], 'correl': 0.010979393469353959, 'significance': 0.2383759777248154}
-{'comparison': ['Xylan', 'gene_counts'], 'correl': 0.009974233405660574, 'significance': 0.28412090731032996}
+{'comparison': ['Betaine x H2O', 'gene_counts'], 'correl': 0.011431148775867091, 'significance': 0.21960768520881643}
+{'comparison': ['Oat flakes', 'gene_counts'], 'correl': 0.01123126467208114, 'significance': 0.22777685491135424}
+{'comparison': ['612', 'gene_counts'], 'correl': 0.011103194267740363, 'significance': 0.23312353084988477}
+{'comparison': ["Baker's yeast", 'gene_counts'], 'correl': 0.010969428658034847, 'significance': 0.2388023540679204}
+{'comparison': ['(NH4)2SO4', 'gene_counts'], 'correl': 0.010250112862063204, 'significance': 0.27101180876636227}
+{'comparison': ['Xylan', 'gene_counts'], 'correl': 0.00997016047804222, 'significance': 0.28431760387984634}
 {'comparison': ['Melibiose', 'gene_counts'], 'correl': 0.009552542933978654, 'significance': 0.30497571764092796}
 {'comparison': ['Phosphates solution', 'gene_counts'], 'correl': 0.009111779407618597, 'significance': 0.32783345819955045}
+{'comparison': ['Beef extract', 'gene_counts'], 'correl': 0.008996508591382457, 'significance': 0.3339901301052345}
 {'comparison': ['Sodium acetate x 3 H2O', 'gene_counts'], 'correl': 0.008987502327049316, 'significance': 0.33447427936473106}
 {'comparison': ['4456', 'gene_counts'], 'correl': 0.008987502327049316, 'significance': 0.33447427936473106}
 {'comparison': ['4457', 'gene_counts'], 'correl': 0.008987502327049316, 'significance': 0.33447427936473106}
@@ -46,7 +48,8 @@
 {'comparison': ['Bacto Tryptone', 'gene_counts'], 'correl': 0.008144524413517762, 'significance': 0.3817846156927427}
 {'comparison': ['Sodium glutamate monohydrate', 'gene_counts'], 'correl': 0.008144524413517762, 'significance': 0.3817846156927427}
 {'comparison': ['2988', 'gene_counts'], 'correl': 0.008144524413517762, 'significance': 0.3817846156927427}
-{'comparison': ['Mannitol', 'gene_counts'], 'correl': 0.007815883571521935, 'significance': 0.4012897152619699}
+{'comparison': ['Peptone', 'gene_counts'], 'correl': 0.008006320147313886, 'significance': 0.38991526444541924}
+{'comparison': ['Mannitol', 'gene_counts'], 'correl': 0.007782499011402579, 'significance': 0.4033040420538059}
 {'comparison': ['L-Tryptophan', 'gene_counts'], 'correl': 0.007766511114551019, 'significance': 0.4042708457125155}
 {'comparison': ['DL-Asparagine x H2O', 'gene_counts'], 'correl': 0.007766511114551019, 'significance': 0.4042708457125155}
 {'comparison': ['L-Proline', 'gene_counts'], 'correl': 0.007766511114551019, 'significance': 0.4042708457125155}
@@ -54,18 +57,15 @@
 {'comparison': ['Myo-inositol', 'gene_counts'], 'correl': 0.007488186657177411, 'significance': 0.421322556062259}
 {'comparison': ['Niacinamide', 'gene_counts'], 'correl': 0.007488186657177411, 'significance': 0.421322556062259}
 {'comparison': ['Leptospira Enrichment EMJH', 'gene_counts'], 'correl': 0.007488186657177411, 'significance': 0.421322556062259}
-{'comparison': ['Beef extract', 'gene_counts'], 'correl': 0.007347553539229088, 'significance': 0.4300965890483939}
-{'comparison': ['Na2HPO4', 'gene_counts'], 'correl': 0.007056640571734572, 'significance': 0.4485793885789766}
-{'comparison': ['(NH4)2SO4', 'gene_counts'], 'correl': 0.006966272952664908, 'significance': 0.4544112668839446}
+{'comparison': ['Na2HPO4', 'gene_counts'], 'correl': 0.007139691248685385, 'significance': 0.44325737899042716}
 {'comparison': ['Czapek-Dox liquid medium', 'gene_counts'], 'correl': 0.006920431076697181, 'significance': 0.4573859324727416}
-{'comparison': ['Peptone', 'gene_counts'], 'correl': 0.00692005746598658, 'significance': 0.45741022078836835}
 {'comparison': ['Sodium malate', 'gene_counts'], 'correl': 0.00677349420633362, 'significance': 0.46699392958754415}
 {'comparison': ['5296', 'gene_counts'], 'correl': 0.00677349420633362, 'significance': 0.46699392958754415}
 {'comparison': ['4025', 'gene_counts'], 'correl': 0.00677349420633362, 'significance': 0.46699392958754415}
-{'comparison': ['L-Arginine x HCl', 'gene_counts'], 'correl': 0.0066960427003857044, 'significance': 0.472103080393926}
-{'comparison': ['K-acetate', 'gene_counts'], 'correl': 0.006427377851879028, 'significance': 0.4900621636132588}
+{'comparison': ['L-Arginine x HCl', 'gene_counts'], 'correl': 0.006695276281866826, 'significance': 0.47215379120707646}
+{'comparison': ['K-acetate', 'gene_counts'], 'correl': 0.006426256782330071, 'significance': 0.4901378643819214}
 {'comparison': ['5605', 'gene_counts'], 'correl': 0.006008799214823712, 'significance': 0.5187589305380611}
-{'comparison': ['Bromocresol purple', 'gene_counts'], 'correl': 0.005982119767970222, 'significance': 0.5206169958210005}
+{'comparison': ['Bromocresol purple', 'gene_counts'], 'correl': 0.005987135234718043, 'significance': 0.5202674368113211}
 {'comparison': ['HEPES buffer', 'gene_counts'], 'correl': 0.005764958446435341, 'significance': 0.5358674914925718}
 {'comparison': ['1380', 'gene_counts'], 'correl': 0.005618237915928588, 'significance': 0.5462970011729297}
 {'comparison': ['4016', 'gene_counts'], 'correl': 0.005363419052156263, 'significance': 0.5646463131112003}
@@ -83,13 +83,13 @@
 {'comparison': ['Sodium ascorbate', 'gene_counts'], 'correl': 0.005017671587821739, 'significance': 0.5900074997381398}
 {'comparison': ['Marine Broth', 'gene_counts'], 'correl': 0.004980469310087553, 'significance': 0.592767328176526}
 {'comparison': ['Na-gallate', 'gene_counts'], 'correl': 0.004850329656065894, 'significance': 0.6024678895727568}
-{'comparison': ['Sodium tartrate', 'gene_counts'], 'correl': 0.0044520836910929866, 'significance': 0.6325871569497901}
+{'comparison': ['Sodium tartrate', 'gene_counts'], 'correl': 0.004451716565352467, 'significance': 0.6326152161498806}
 {'comparison': ['2248', 'gene_counts'], 'correl': 0.004200932225841778, 'significance': 0.6519042530095902}
 {'comparison': ['Sodium thiosulphate', 'gene_counts'], 'correl': 0.004154093688913899, 'significance': 0.6555332933495925}
 {'comparison': ['Nitrilotriacetate', 'gene_counts'], 'correl': 0.004072579843285347, 'significance': 0.6618683614950208}
 {'comparison': ['3251', 'gene_counts'], 'correl': 0.003969270402142229, 'significance': 0.6699321902072948}
 {'comparison': ['Maize extract', 'gene_counts'], 'correl': 0.0038322060965009534, 'significance': 0.680689607089205}
-{'comparison': ['L-Cysteine', 'gene_counts'], 'correl': 0.003703995186892021, 'significance': 0.6908113598309747}
+{'comparison': ['L-Cysteine', 'gene_counts'], 'correl': 0.0037039671147560643, 'significance': 0.6908135821613779}
 {'comparison': ['Trace metal solution', 'gene_counts'], 'correl': 0.0034910861230899666, 'significance': 0.7077416781740973}
 {'comparison': ['Creatinine', 'gene_counts'], 'correl': 0.0034657688712150963, 'significance': 0.709764724005483}
 {'comparison': ['Creatine', 'gene_counts'], 'correl': 0.0034657688712150963, 'significance': 0.709764724005483}
@@ -98,14 +98,14 @@
 {'comparison': ['Tryptophan', 'gene_counts'], 'correl': 0.0034217601478548553, 'significance': 0.713286230165746}
 {'comparison': ['Sodium Potassium phosphate buffer', 'gene_counts'], 'correl': 0.003247202706672393, 'significance': 0.7273136402053751}
 {'comparison': ['(NH4)HCO3', 'gene_counts'], 'correl': 0.003247202706672393, 'significance': 0.7273136402053751}
-{'comparison': ['1268', 'gene_counts'], 'correl': 0.003141698747663734, 'significance': 0.735836795798641}
+{'comparison': ['1268', 'gene_counts'], 'correl': 0.003140956733900446, 'significance': 0.7358968562186667}
 {'comparison': ['Thioglycolate', 'gene_counts'], 'correl': 0.003089541338383433, 'significance': 0.7400624566814901}
 {'comparison': ['Sterile serum', 'gene_counts'], 'correl': 0.0028968199158704946, 'significance': 0.7557434967018306}
 {'comparison': ['Wilkins-Chalgren-Anaerobe-Broth', 'gene_counts'], 'correl': 0.0028968199158704946, 'significance': 0.7557434967018306}
-{'comparison': ['L(+)-Tartaric acid', 'gene_counts'], 'correl': 0.002821157580157334, 'significance': 0.7619278842082411}
+{'comparison': ['L(+)-Tartaric acid', 'gene_counts'], 'correl': 0.0028269110971154664, 'significance': 0.7614570708454533}
 {'comparison': ['L-Arginine', 'gene_counts'], 'correl': 0.0027117897759278524, 'significance': 0.7708940814747222}
 {'comparison': ['Sodium pyrophosphate', 'gene_counts'], 'correl': 0.0027117897759278524, 'significance': 0.7708940814747222}
-{'comparison': ['Na-propionate', 'gene_counts'], 'correl': 0.0024283093238525667, 'significance': 0.7942745472596594}
+{'comparison': ['Na-propionate', 'gene_counts'], 'correl': 0.0024270015990154343, 'significance': 0.7943828510517021}
 {'comparison': ['Malt extract broth', 'gene_counts'], 'correl': 0.002386037810449134, 'significance': 0.7977774064082985}
 {'comparison': ['3677', 'gene_counts'], 'correl': 0.002386037810449134, 'significance': 0.7977774064082985}
 {'comparison': ['Na2-DL-malate', 'gene_counts'], 'correl': 0.0023568186614951825, 'significance': 0.8002010585603209}
@@ -113,16 +113,16 @@
 {'comparison': ['3182', 'gene_counts'], 'correl': 0.002122296937323594, 'significance': 0.8197218559665991}
 {'comparison': ['3183', 'gene_counts'], 'correl': 0.002122296937323594, 'significance': 0.8197218559665991}
 {'comparison': ['3184', 'gene_counts'], 'correl': 0.002122296937323594, 'significance': 0.8197218559665991}
-{'comparison': ['NaH2PO4', 'gene_counts'], 'correl': 0.002051354915492495, 'significance': 0.8256495018541298}
-{'comparison': ['Proteose peptone no. 3', 'gene_counts'], 'correl': 0.001896203117672082, 'significance': 0.8386476357491045}
+{'comparison': ['NaH2PO4', 'gene_counts'], 'correl': 0.0020369001939872333, 'significance': 0.8268585149151997}
 {'comparison': ['Tris(hydroxymethyl)aminomethane', 'gene_counts'], 'correl': 0.0018296745798430916, 'significance': 0.8442349206855979}
-{'comparison': ['n-Valeric acid', 'gene_counts'], 'correl': 0.0017016768699006596, 'significance': 0.8550064227572545}
-{'comparison': ['Meat peptone', 'gene_counts'], 'correl': 0.001302270504707094, 'significance': 0.8887831327363331}
-{'comparison': ['Sodium glycerophosphate', 'gene_counts'], 'correl': 0.0012518646652902464, 'significance': 0.8930615189927389}
+{'comparison': ['Proteose peptone no. 3', 'gene_counts'], 'correl': 0.0017935763085122319, 'significance': 0.8472698736011309}
+{'comparison': ['n-Valeric acid', 'gene_counts'], 'correl': 0.00169805961743184, 'significance': 0.8553112313306597}
+{'comparison': ['Meat peptone', 'gene_counts'], 'correl': 0.0013039023566923198, 'significance': 0.8886446765573905}
+{'comparison': ['Sodium glycerophosphate', 'gene_counts'], 'correl': 0.0012515320848225807, 'significance': 0.8930897584937727}
 {'comparison': ['DL-Methionine', 'gene_counts'], 'correl': 0.0012283545017108756, 'significance': 0.8950581054298024}
 {'comparison': ['2036', 'gene_counts'], 'correl': 0.0011753364421383792, 'significance': 0.899563053363675}
 {'comparison': ['5678', 'gene_counts'], 'correl': 0.0011753364421383792, 'significance': 0.899563053363675}
-{'comparison': ['Glycine', 'gene_counts'], 'correl': 0.0010846569260088157, 'significance': 0.907275523571217}
+{'comparison': ['Glycine', 'gene_counts'], 'correl': 0.001085687599641938, 'significance': 0.9071878122275457}
 {'comparison': ['2914', 'gene_counts'], 'correl': 0.0009854527015712826, 'significance': 0.9157230348789774}
 {'comparison': ['(NH4)2Ni(SO4)2 x 6 H2O', 'gene_counts'], 'correl': 0.0009650353729105967, 'significance': 0.9174628396490395}
 {'comparison': ['3685', 'gene_counts'], 'correl': 0.0008341322990579952, 'significance': 0.9286264106090522}
@@ -156,14 +156,14 @@
 {'comparison': ['4622', 'gene_counts'], 'correl': 0.00012587538273178315, 'significance': 0.9892152385290264}
 {'comparison': ['2164', 'gene_counts'], 'correl': 6.506118336431277e-05, 'significance': 0.9944255581578535}
 {'comparison': ['2769', 'gene_counts'], 'correl': 6.506118336431277e-05, 'significance': 0.9944255581578535}
-{'comparison': ['Glutamic acid', 'gene_counts'], 'correl': -0.00024397943761617284, 'significance': 0.9790980640307207}
-{'comparison': ['Enzymatic digest of casein', 'gene_counts'], 'correl': -0.0003306541318936862, 'significance': 0.9716752764494734}
+{'comparison': ['Glutamic acid', 'gene_counts'], 'correl': -0.00024581725327262066, 'significance': 0.9789406531498398}
+{'comparison': ['Enzymatic digest of casein', 'gene_counts'], 'correl': -0.000331117764799448, 'significance': 0.9716355771269531}
 {'comparison': ['Ammonium acetate', 'gene_counts'], 'correl': -0.0004170041080266492, 'significance': 0.9642827354243966}
 {'comparison': ['1741', 'gene_counts'], 'correl': -0.0005129368446655466, 'significance': 0.9560734267421989}
 {'comparison': ['Carboxymethyl cellulose', 'gene_counts'], 'correl': -0.0006266611927664082, 'significance': 0.9463477271744248}
 {'comparison': ['3819', 'gene_counts'], 'correl': -0.0006266611927664082, 'significance': 0.9463477271744248}
 {'comparison': ['4194', 'gene_counts'], 'correl': -0.0006266611927664082, 'significance': 0.9463477271744248}
-{'comparison': ['KHCO3', 'gene_counts'], 'correl': -0.0006459003320573694, 'significance': 0.9447031476034914}
+{'comparison': ['KHCO3', 'gene_counts'], 'correl': -0.0006398567395358828, 'significance': 0.9452197344767002}
 {'comparison': ['(NH4)H2PO4', 'gene_counts'], 'correl': -0.000668660492694539, 'significance': 0.9427578926367782}
 {'comparison': ['Tetramethyl ammonium chloride', 'gene_counts'], 'correl': -0.0008040678018445586, 'significance': 0.9311924121989568}
 {'comparison': ['Boric acid', 'gene_counts'], 'correl': -0.000806045828417362, 'significance': 0.9310235655719}
@@ -191,15 +191,15 @@
 {'comparison': ['DL-Sodium malate', 'gene_counts'], 'correl': -0.0016100156983797672, 'significance': 0.8627368220520895}
 {'comparison': ['4144', 'gene_counts'], 'correl': -0.0016100156983797672, 'significance': 0.8627368220520895}
 {'comparison': ['2023', 'gene_counts'], 'correl': -0.001624005133826954, 'significance': 0.8615561301012763}
-{'comparison': ['KNO3', 'gene_counts'], 'correl': -0.0016388579742173458, 'significance': 0.860302906302858}
 {'comparison': ['5856', 'gene_counts'], 'correl': -0.001653077329161499, 'significance': 0.8591034629559078}
-{'comparison': ['Tryptone peptone', 'gene_counts'], 'correl': -0.001694126029874153, 'significance': 0.8556427204502923}
+{'comparison': ['Tryptone peptone', 'gene_counts'], 'correl': -0.0016944060525865012, 'significance': 0.8556191216880723}
 {'comparison': ['glycerin', 'gene_counts'], 'correl': -0.001750553516930958, 'significance': 0.8508899604302633}
 {'comparison': ['1303', 'gene_counts'], 'correl': -0.0017687791925292925, 'significance': 0.8493560006397007}
-{'comparison': ['L-Histidine', 'gene_counts'], 'correl': -0.001799914292102846, 'significance': 0.8467368439738616}
+{'comparison': ['L-Histidine', 'gene_counts'], 'correl': -0.0017987273218479979, 'significance': 0.8468366638193949}
 {'comparison': ['D-Sorbitol', 'gene_counts'], 'correl': -0.0018335847417929746, 'significance': 0.8439063127215924}
 {'comparison': ['Sodium butyrate', 'gene_counts'], 'correl': -0.0018335847417929746, 'significance': 0.8439063127215924}
 {'comparison': ['209', 'gene_counts'], 'correl': -0.0018335847417929746, 'significance': 0.8439063127215924}
+{'comparison': ['KNO3', 'gene_counts'], 'correl': -0.0019756403957031194, 'significance': 0.831986892977318}
 {'comparison': ['4379', 'gene_counts'], 'correl': -0.002007013046890098, 'significance': 0.8293596162978871}
 {'comparison': ['4375', 'gene_counts'], 'correl': -0.002007013046890098, 'significance': 0.8293596162978871}
 {'comparison': ['4376', 'gene_counts'], 'correl': -0.002007013046890098, 'significance': 0.8293596162978871}
@@ -209,7 +209,7 @@
 {'comparison': ['4012', 'gene_counts'], 'correl': -0.0021141946496066465, 'significance': 0.8203983384209548}
 {'comparison': ['4011', 'gene_counts'], 'correl': -0.0021141946496066465, 'significance': 0.8203983384209548}
 {'comparison': ['4013', 'gene_counts'], 'correl': -0.0021141946496066465, 'significance': 0.8203983384209548}
-{'comparison': ['Sodium thioglycolate', 'gene_counts'], 'correl': -0.002163344481598605, 'significance': 0.8162967535830468}
+{'comparison': ['Sodium thioglycolate', 'gene_counts'], 'correl': -0.002162723346351273, 'significance': 0.8163485565905451}
 {'comparison': ['Na2-glyoxalate', 'gene_counts'], 'correl': -0.0022302249608357684, 'significance': 0.8107236273676186}
 {'comparison': ['Na2WO4', 'gene_counts'], 'correl': -0.0022447776587167993, 'significance': 0.809512215535519}
 {'comparison': ['2857', 'gene_counts'], 'correl': -0.0022447776587167993, 'significance': 0.809512215535519}
@@ -220,16 +220,16 @@
 {'comparison': ['Uric acid', 'gene_counts'], 'correl': -0.0025354256846748372, 'significance': 0.7854169792108541}
 {'comparison': ['Na acetate x 3 H2O', 'gene_counts'], 'correl': -0.002683193046007734, 'significance': 0.773243611427004}
 {'comparison': ['4007', 'gene_counts'], 'correl': -0.002686160085866939, 'significance': 0.7729997400482962}
-{'comparison': ['MnSO4 x 5 H2O', 'gene_counts'], 'correl': -0.002708770981678905, 'significance': 0.771142009215773}
-{'comparison': ['D-Fructose', 'gene_counts'], 'correl': -0.002761768035055169, 'significance': 0.766792882179743}
+{'comparison': ['MnSO4 x 5 H2O', 'gene_counts'], 'correl': -0.0027091057335012587, 'significance': 0.7711145155423311}
+{'comparison': ['D-Fructose', 'gene_counts'], 'correl': -0.0027548654984978146, 'significance': 0.7673589162980631}
 {'comparison': ['ACES', 'gene_counts'], 'correl': -0.0027769984749237034, 'significance': 0.7655443689552559}
 {'comparison': ['Activated charcoal', 'gene_counts'], 'correl': -0.0027769984749237034, 'significance': 0.7655443689552559}
 {'comparison': ['Na3-citrate x 5 H2O', 'gene_counts'], 'correl': -0.002797594610564322, 'significance': 0.7638569722749091}
 {'comparison': ['Na-3-hydroxybutyrate', 'gene_counts'], 'correl': -0.002820665892817566, 'significance': 0.7619681233350905}
 {'comparison': ['3851', 'gene_counts'], 'correl': -0.002863259662672418, 'significance': 0.7584846957135869}
 {'comparison': ['Dextran', 'gene_counts'], 'correl': -0.0029621336801975468, 'significance': 0.7504175062998737}
-{'comparison': ['EDTA', 'gene_counts'], 'correl': -0.0029623625469516143, 'significance': 0.7503988641601883}
-{'comparison': ['2779', 'gene_counts'], 'correl': -0.0030594312849903252, 'significance': 0.7425054821616963}
+{'comparison': ['EDTA', 'gene_counts'], 'correl': -0.0029637666662617377, 'significance': 0.7502844960496439}
+{'comparison': ['2779', 'gene_counts'], 'correl': -0.0030612506260018256, 'significance': 0.7423577932057187}
 {'comparison': ['Sodium carbonate', 'gene_counts'], 'correl': -0.003110986304971766, 'significance': 0.7383240819124423}
 {'comparison': ['Bacto beef extract', 'gene_counts'], 'correl': -0.003173714657354515, 'significance': 0.7332468913176069}
 {'comparison': ['(NH4) citrate', 'gene_counts'], 'correl': -0.003395793927271179, 'significance': 0.7153668796825798}
@@ -237,13 +237,13 @@
 {'comparison': ['n-Butyric acid', 'gene_counts'], 'correl': -0.003562286306080163, 'significance': 0.7020633162499381}
 {'comparison': ['iso-Butyric acid', 'gene_counts'], 'correl': -0.003562286306080163, 'significance': 0.7020633162499381}
 {'comparison': ['iso-Valeric acid', 'gene_counts'], 'correl': -0.003562286306080163, 'significance': 0.7020633162499381}
-{'comparison': ['NaF', 'gene_counts'], 'correl': -0.003633416855576236, 'significance': 0.6964070650993968}
-{'comparison': ['Na2WO4 x 2 H2O', 'gene_counts'], 'correl': -0.0036949230819028284, 'significance': 0.691529691550087}
+{'comparison': ['NaF', 'gene_counts'], 'correl': -0.003634165575647455, 'significance': 0.6963476164262205}
+{'comparison': ['Na2WO4 x 2 H2O', 'gene_counts'], 'correl': -0.0036965420140793273, 'significance': 0.6914014836918247}
 {'comparison': ['3704', 'gene_counts'], 'correl': -0.0037112901509527623, 'significance': 0.6902339444204008}
-{'comparison': ['Na2SeO4', 'gene_counts'], 'correl': -0.0037316075378679148, 'significance': 0.6886267211941138}
+{'comparison': ['Na2SeO4', 'gene_counts'], 'correl': -0.0037322176485923672, 'significance': 0.6885784795819464}
+{'comparison': ['Na2HPO4 x 12 H2O', 'gene_counts'], 'correl': -0.003759718595106072, 'significance': 0.6864052905435949}
 {'comparison': ['Pyridoxine hydrochloride', 'gene_counts'], 'correl': -0.0037697587377354238, 'significance': 0.6856125393883112}
 {'comparison': ['Tris-HCl buffer', 'gene_counts'], 'correl': -0.003774540027601782, 'significance': 0.6852351390848441}
-{'comparison': ['Na2HPO4 x 12 H2O', 'gene_counts'], 'correl': -0.00377715146219935, 'significance': 0.6850290445511565}
 {'comparison': ['K-phosphate buffer', 'gene_counts'], 'correl': -0.0038393495778112877, 'significance': 0.6801273239441178}
 {'comparison': ['Cyclomaltoheptaose', 'gene_counts'], 'correl': -0.0038393495778112877, 'significance': 0.6801273239441178}
 {'comparison': ['Sodium DL-malate', 'gene_counts'], 'correl': -0.0038393495778112877, 'significance': 0.6801273239441178}
@@ -254,8 +254,8 @@
 {'comparison': ['6306', 'gene_counts'], 'correl': -0.0038393495778112877, 'significance': 0.6801273239441178}
 {'comparison': ['4372', 'gene_counts'], 'correl': -0.0038393495778112877, 'significance': 0.6801273239441178}
 {'comparison': ['4411', 'gene_counts'], 'correl': -0.0038393495778112877, 'significance': 0.6801273239441178}
-{'comparison': ['NaCO3', 'gene_counts'], 'correl': -0.003847220515938145, 'significance': 0.6795079865358473}
-{'comparison': ['Marine agar 2216', 'gene_counts'], 'correl': -0.004020587246187653, 'significance': 0.6659218213197889}
+{'comparison': ['NaCO3', 'gene_counts'], 'correl': -0.0038472204773690997, 'significance': 0.679507989570185}
+{'comparison': ['Marine agar 2216', 'gene_counts'], 'correl': -0.004020968786932308, 'significance': 0.6658920397916355}
 {'comparison': ['3890', 'gene_counts'], 'correl': -0.004185504228051872, 'significance': 0.6530987064189075}
 {'comparison': ['3891', 'gene_counts'], 'correl': -0.004185504228051872, 'significance': 0.6530987064189075}
 {'comparison': ['5560', 'gene_counts'], 'correl': -0.004193664177008141, 'significance': 0.652466842743199}
@@ -266,44 +266,44 @@
 {'comparison': ['Bicine', 'gene_counts'], 'correl': -0.004321258812087533, 'significance': 0.6426192489083361}
 {'comparison': ['3177', 'gene_counts'], 'correl': -0.004372942714904503, 'significance': 0.6386480274756418}
 {'comparison': ['3179', 'gene_counts'], 'correl': -0.004372942714904503, 'significance': 0.6386480274756418}
-{'comparison': ['Sodium pyruvate', 'gene_counts'], 'correl': -0.004443358338818894, 'significance': 0.6332541733762848}
 {'comparison': ['Cellulose', 'gene_counts'], 'correl': -0.0044555048552395275, 'significance': 0.6323257048551334}
 {'comparison': ['2250', 'gene_counts'], 'correl': -0.0044555048552395275, 'significance': 0.6323257048551334}
 {'comparison': ['2243', 'gene_counts'], 'correl': -0.0044555048552395275, 'significance': 0.6323257048551334}
 {'comparison': ['Corn steep liquor', 'gene_counts'], 'correl': -0.004569115467514462, 'significance': 0.6236696214123812}
-{'comparison': ['Peptone mixture', 'gene_counts'], 'correl': -0.0045828792483906975, 'significance': 0.6226244365365001}
+{'comparison': ['Peptone mixture', 'gene_counts'], 'correl': -0.004582743430507933, 'significance': 0.6226347464755615}
 {'comparison': ['MnSO4', 'gene_counts'], 'correl': -0.004597165882858601, 'significance': 0.6215403513100703}
 {'comparison': ['Corn meal', 'gene_counts'], 'correl': -0.0046460901803383305, 'significance': 0.6178341517031817}
-{'comparison': ['Na-gluconate', 'gene_counts'], 'correl': -0.0046871016911543915, 'significance': 0.6147348465491023}
+{'comparison': ['Na-gluconate', 'gene_counts'], 'correl': -0.0046852595606237816, 'significance': 0.6148739124377918}
 {'comparison': ['Fumaric acid', 'gene_counts'], 'correl': -0.00469880212369434, 'significance': 0.6138518823388102}
 {'comparison': ['Hexadecane', 'gene_counts'], 'correl': -0.00469880212369434, 'significance': 0.6138518823388102}
 {'comparison': ['MES buffer', 'gene_counts'], 'correl': -0.00469880212369434, 'significance': 0.6138518823388102}
 {'comparison': ['4328', 'gene_counts'], 'correl': -0.00469880212369434, 'significance': 0.6138518823388102}
+{'comparison': ['Sodium pyruvate', 'gene_counts'], 'correl': -0.004738878285189068, 'significance': 0.6108318122739378}
 {'comparison': ['Trisodium citrate', 'gene_counts'], 'correl': -0.004753839201227448, 'significance': 0.6097060747325369}
-{'comparison': ['DL-Malic acid', 'gene_counts'], 'correl': -0.004935891699465651, 'significance': 0.5960820620250717}
-{'comparison': ['D(+)-Glucose', 'gene_counts'], 'correl': -0.005030101673899803, 'significance': 0.5890867022901023}
+{'comparison': ['DL-Malic acid', 'gene_counts'], 'correl': -0.004936979109644371, 'significance': 0.5960011031850384}
+{'comparison': ['D(+)-Glucose', 'gene_counts'], 'correl': -0.005053600525044981, 'significance': 0.5873477654972508}
 {'comparison': ['Na-ascorbate', 'gene_counts'], 'correl': -0.005099740074737567, 'significance': 0.5839403259371587}
-{'comparison': ['FeCl3', 'gene_counts'], 'correl': -0.00510375864338875, 'significance': 0.5836439879098753}
+{'comparison': ['FeCl3', 'gene_counts'], 'correl': -0.0051142001684403495, 'significance': 0.5828743347157674}
 {'comparison': ['PIPES buffer', 'gene_counts'], 'correl': -0.0052079607697911616, 'significance': 0.5759844723168879}
 {'comparison': ['L-Fucose', 'gene_counts'], 'correl': -0.0052079607697911616, 'significance': 0.5759844723168879}
-{'comparison': ['926', 'gene_counts'], 'correl': -0.005212850093685243, 'significance': 0.5756262444426216}
+{'comparison': ['926', 'gene_counts'], 'correl': -0.005218968810223733, 'significance': 0.575178090504903}
 {'comparison': ['V-8 Juice', 'gene_counts'], 'correl': -0.005351972070472218, 'significance': 0.5654775105920765}
-{'comparison': ['Dithiothreitol', 'gene_counts'], 'correl': -0.005428229692809056, 'significance': 0.5599513478445974}
+{'comparison': ['Dithiothreitol', 'gene_counts'], 'correl': -0.0054259070182334085, 'significance': 0.5601192778734482}
 {'comparison': ['Vitamin solution', 'gene_counts'], 'correl': -0.005430131139105349, 'significance': 0.5598138909110401}
 {'comparison': ['5215', 'gene_counts'], 'correl': -0.005430131139105349, 'significance': 0.5598138909110401}
 {'comparison': ['5-Aminovaleric acid', 'gene_counts'], 'correl': -0.005565177762582203, 'significance': 0.5500933485442832}
 {'comparison': ['1163', 'gene_counts'], 'correl': -0.005565177762582203, 'significance': 0.5500933485442832}
-{'comparison': ['Na-caproate', 'gene_counts'], 'correl': -0.005596840200658948, 'significance': 0.5478264017396954}
+{'comparison': ['Na-caproate', 'gene_counts'], 'correl': -0.005594887832462547, 'significance': 0.547966052441697}
 {'comparison': ['Nitrilotriacetic acid', 'gene_counts'], 'correl': -0.005637853573286306, 'significance': 0.5448968341810071}
 {'comparison': ['Casman-Agar-Base', 'gene_counts'], 'correl': -0.005637853573286306, 'significance': 0.5448968341810071}
 {'comparison': ['dehydrated RCM medium', 'gene_counts'], 'correl': -0.0058821682683977096, 'significance': 0.5276083802357403}
-{'comparison': ['FeCl2', 'gene_counts'], 'correl': -0.005957477395945677, 'significance': 0.5223362315747526}
+{'comparison': ['FeCl2', 'gene_counts'], 'correl': -0.005958018228142745, 'significance': 0.5222984677978364}
 {'comparison': ['691', 'gene_counts'], 'correl': -0.0059595759191546464, 'significance': 0.5221897093771537}
 {'comparison': ['2797', 'gene_counts'], 'correl': -0.006048399548040064, 'significance': 0.5160073312941362}
 {'comparison': ['2798', 'gene_counts'], 'correl': -0.006048399548040064, 'significance': 0.5160073312941362}
-{'comparison': ['Na-butyrate', 'gene_counts'], 'correl': -0.006063024311076884, 'significance': 0.5149930579604488}
+{'comparison': ['Na-butyrate', 'gene_counts'], 'correl': -0.006059582776779821, 'significance': 0.5152316459920763}
 {'comparison': ['FeSO4 x H2O', 'gene_counts'], 'correl': -0.0061519995571823645, 'significance': 0.5088447314941762}
-{'comparison': ['Sodium gluconate', 'gene_counts'], 'correl': -0.006301581860296134, 'significance': 0.4985957041661204}
+{'comparison': ['Sodium gluconate', 'gene_counts'], 'correl': -0.0063015817655262575, 'significance': 0.4985957106245843}
 {'comparison': ['4289', 'gene_counts'], 'correl': -0.006353909597227676, 'significance': 0.4950364153557184}
 {'comparison': ['4290', 'gene_counts'], 'correl': -0.006353909597227676, 'significance': 0.4950364153557184}
 {'comparison': ['Fe(NH4)2(SO4)2', 'gene_counts'], 'correl': -0.006393070827410897, 'significance': 0.49238160808524645}
@@ -314,28 +314,28 @@
 {'comparison': ['NaS2O3 x 5 H2O', 'gene_counts'], 'correl': -0.006526707852605391, 'significance': 0.4833798880636362}
 {'comparison': ['Salicylate', 'gene_counts'], 'correl': -0.006526707852605391, 'significance': 0.4833798880636362}
 {'comparison': ['2308', 'gene_counts'], 'correl': -0.006526707852605391, 'significance': 0.4833798880636362}
-{'comparison': ['3909', 'gene_counts'], 'correl': -0.00661631125398462, 'significance': 0.47739463767698553}
-{'comparison': ['L-Sodium lactate', 'gene_counts'], 'correl': -0.006705986390501753, 'significance': 0.471445418721799}
+{'comparison': ['3909', 'gene_counts'], 'correl': -0.006618514036472474, 'significance': 0.4772480105105523}
+{'comparison': ['L-Sodium lactate', 'gene_counts'], 'correl': -0.006705394007337734, 'significance': 0.47148458395488535}
 {'comparison': ['2709', 'gene_counts'], 'correl': -0.006709157899604043, 'significance': 0.47123576587415994}
 {'comparison': ['5058', 'gene_counts'], 'correl': -0.006723319247838706, 'significance': 0.47030025659159524}
 {'comparison': ['2-Mercaptoethanesulfonate', 'gene_counts'], 'correl': -0.006786891461577593, 'significance': 0.4661132901138185}
-{'comparison': ['FeCl2 x 4 H2O', 'gene_counts'], 'correl': -0.0068009955393728665, 'significance': 0.46518718632159206}
-{'comparison': ['Sodium citrate', 'gene_counts'], 'correl': -0.006873443173394204, 'significance': 0.46044627662775617}
+{'comparison': ['FeCl2 x 4 H2O', 'gene_counts'], 'correl': -0.006793652901441895, 'significance': 0.4656691918828647}
+{'comparison': ['Sodium citrate', 'gene_counts'], 'correl': -0.006889865902734533, 'significance': 0.45937535680600583}
 {'comparison': ['3,4,5-Trimethoxycinnamic acid', 'gene_counts'], 'correl': -0.006905162897525388, 'significance': 0.45837910168135654}
 {'comparison': ['Tomato juice', 'gene_counts'], 'correl': -0.006961814188389315, 'significance': 0.4547001152782152}
 {'comparison': ['Liver extract concentrate', 'gene_counts'], 'correl': -0.006961814188389315, 'significance': 0.4547001152782152}
-{'comparison': ['Na2S2O3', 'gene_counts'], 'correl': -0.007014073339737002, 'significance': 0.4513211585089191}
-{'comparison': ['Vitamin B12', 'gene_counts'], 'correl': -0.007022953261239516, 'significance': 0.45074841841834146}
+{'comparison': ['Na2S2O3', 'gene_counts'], 'correl': -0.007017923980218168, 'significance': 0.45107274809429343}
 {'comparison': ['Trimethylammonium chloride', 'gene_counts'], 'correl': -0.007025886103042149, 'significance': 0.4505593454570572}
 {'comparison': ['4132', 'gene_counts'], 'correl': -0.007029818344089326, 'significance': 0.4503059142174636}
-{'comparison': ['NH4NO3', 'gene_counts'], 'correl': -0.007042465214261049, 'significance': 0.44949137658209726}
-{'comparison': ['Methylamine hydrochloride', 'gene_counts'], 'correl': -0.007131485835106758, 'significance': 0.443781582404583}
-{'comparison': ['Monosodium glutamate', 'gene_counts'], 'correl': -0.007132262051252075, 'significance': 0.44373197862774016}
-{'comparison': ['Cysteine HCl', 'gene_counts'], 'correl': -0.0072024073248978466, 'significance': 0.4392624628776951}
+{'comparison': ['NH4NO3', 'gene_counts'], 'correl': -0.007045969129976762, 'significance': 0.44926585035077027}
+{'comparison': ['Vitamin B12', 'gene_counts'], 'correl': -0.007050838264960507, 'significance': 0.4489525596521551}
+{'comparison': ['Monosodium glutamate', 'gene_counts'], 'correl': -0.0071331524417757065, 'significance': 0.44367508248297427}
+{'comparison': ['Methylamine hydrochloride', 'gene_counts'], 'correl': -0.0071367695445513, 'significance': 0.4434439916883076}
+{'comparison': ['Cysteine HCl', 'gene_counts'], 'correl': -0.007204342538850384, 'significance': 0.4391395224651473}
 {'comparison': ['CaHPO4', 'gene_counts'], 'correl': -0.007205904318161052, 'significance': 0.4390403200454691}
 {'comparison': ['1935', 'gene_counts'], 'correl': -0.007227670784560536, 'significance': 0.4376590795630497}
-{'comparison': ['Sodium DL-lactate', 'gene_counts'], 'correl': -0.007241399321246293, 'significance': 0.4367891913051676}
-{'comparison': ['FeSO4 x 5 H2O', 'gene_counts'], 'correl': -0.007298924338962316, 'significance': 0.4331550496310067}
+{'comparison': ['Sodium DL-lactate', 'gene_counts'], 'correl': -0.007240853354459441, 'significance': 0.436823766653176}
+{'comparison': ['FeSO4 x 5 H2O', 'gene_counts'], 'correl': -0.0072986001797444525, 'significance': 0.4331754792583342}
 {'comparison': ['4919', 'gene_counts'], 'correl': -0.007298924338962316, 'significance': 0.4331550496310067}
 {'comparison': ['4920', 'gene_counts'], 'correl': -0.007298924338962316, 'significance': 0.4331550496310067}
 {'comparison': ['Na2-ß-glycerolphosphate', 'gene_counts'], 'correl': -0.007322654372517973, 'significance': 0.43166101582450433}
@@ -343,9 +343,9 @@
 {'comparison': ['Na3VO4', 'gene_counts'], 'correl': -0.007432791273865383, 'significance': 0.42476604603477297}
 {'comparison': ['3903', 'gene_counts'], 'correl': -0.007486247516918947, 'significance': 0.4214428197052824}
 {'comparison': ['2304', 'gene_counts'], 'correl': -0.007650721861240779, 'significance': 0.411314023863085}
-{'comparison': ['Na2-glutamate', 'gene_counts'], 'correl': -0.00765608529000601, 'significance': 0.41098617963577155}
+{'comparison': ['Na2-glutamate', 'gene_counts'], 'correl': -0.007654388439478065, 'significance': 0.4110898843126569}
 {'comparison': ['(NH4)2Ni(SO4)2', 'gene_counts'], 'correl': -0.007707380540928223, 'significance': 0.40785855771220825}
-{'comparison': ['MgSO4 x H2O', 'gene_counts'], 'correl': -0.007737901702242159, 'significance': 0.4060043413212303}
+{'comparison': ['MgSO4 x H2O', 'gene_counts'], 'correl': -0.00773784821110361, 'significance': 0.4060075865965602}
 {'comparison': ['4827', 'gene_counts'], 'correl': -0.007789468643699562, 'significance': 0.4028830153910866}
 {'comparison': ['Gellan Gum', 'gene_counts'], 'correl': -0.007808259896141194, 'significance': 0.4017491726678538}
 {'comparison': ['Na-orotate', 'gene_counts'], 'correl': -0.007815462652280046, 'significance': 0.4013150746473094}
@@ -371,55 +371,55 @@
 {'comparison': ['4364', 'gene_counts'], 'correl': -0.007815462652280046, 'significance': 0.4013150746473094}
 {'comparison': ['4505', 'gene_counts'], 'correl': -0.007815462652280046, 'significance': 0.4013150746473094}
 {'comparison': ['1178', 'gene_counts'], 'correl': -0.00801947245894418, 'significance': 0.3891370029255081}
-{'comparison': ['4134', 'gene_counts'], 'correl': -0.008275984256701905, 'significance': 0.3741480347108037}
-{'comparison': ['Sodium Thiosulfate', 'gene_counts'], 'correl': -0.008277079736035461, 'significance': 0.3740847971889094}
+{'comparison': ['Sodium Thiosulfate', 'gene_counts'], 'correl': -0.008276112209610826, 'significance': 0.3741406481739752}
+{'comparison': ['4134', 'gene_counts'], 'correl': -0.00827676041985951, 'significance': 0.37410322931736495}
 {'comparison': ['4078', 'gene_counts'], 'correl': -0.0083010277874059, 'significance': 0.37270402691266247}
 {'comparison': ['4079', 'gene_counts'], 'correl': -0.0083010277874059, 'significance': 0.37270402691266247}
-{'comparison': ['SrCl2', 'gene_counts'], 'correl': -0.008335433142176397, 'significance': 0.37072585505543365}
+{'comparison': ['SrCl2', 'gene_counts'], 'correl': -0.008333517992611839, 'significance': 0.37083579698684443}
 {'comparison': ['Riboflavin', 'gene_counts'], 'correl': -0.008406612934414205, 'significance': 0.3666540361964197}
-{'comparison': ['Tris', 'gene_counts'], 'correl': -0.008408003205320496, 'significance': 0.36657478478584793}
-{'comparison': ['Catalase', 'gene_counts'], 'correl': -0.008623091150297654, 'significance': 0.35444269413322294}
+{'comparison': ['Tris', 'gene_counts'], 'correl': -0.008415621661849611, 'significance': 0.3661406897043963}
+{'comparison': ['Catalase', 'gene_counts'], 'correl': -0.008622550398163295, 'significance': 0.35447287390918103}
 {'comparison': ['Chitin', 'gene_counts'], 'correl': -0.008639671556075267, 'significance': 0.3535181171537871}
 {'comparison': ['5701', 'gene_counts'], 'correl': -0.008639671556075267, 'significance': 0.3535181171537871}
 {'comparison': ['5704', 'gene_counts'], 'correl': -0.008639671556075267, 'significance': 0.3535181171537871}
 {'comparison': ['5697', 'gene_counts'], 'correl': -0.008642517624175066, 'significance': 0.35335956463930984}
-{'comparison': ['Sodium succinate', 'gene_counts'], 'correl': -0.00866583730583287, 'significance': 0.35206213478329673}
-{'comparison': ['D-Galactose', 'gene_counts'], 'correl': -0.00870527127215441, 'significance': 0.3498750308552232}
+{'comparison': ['Sodium succinate', 'gene_counts'], 'correl': -0.008664524437998158, 'significance': 0.3521350981930689}
+{'comparison': ['D-Galactose', 'gene_counts'], 'correl': -0.008707027225602142, 'significance': 0.3497778422945925}
 {'comparison': ['Sodium thioglycollate', 'gene_counts'], 'correl': -0.00877172738121749, 'significance': 0.34620876534795186}
-{'comparison': ['Na2SO3', 'gene_counts'], 'correl': -0.008834130888205947, 'significance': 0.34278843433539163}
+{'comparison': ['Na2SO3', 'gene_counts'], 'correl': -0.008832182127929966, 'significance': 0.34289491796208793}
 {'comparison': ['Na-oxalate', 'gene_counts'], 'correl': -0.008903359821204458, 'significance': 0.3390193615367648}
 {'comparison': ['3954', 'gene_counts'], 'correl': -0.00899834838791657, 'significance': 0.3338912838762472}
 {'comparison': ['4133', 'gene_counts'], 'correl': -0.009016834132124035, 'significance': 0.3328991527475791}
 {'comparison': ['Peptic digest of animal tissue', 'gene_counts'], 'correl': -0.009055620495462205, 'significance': 0.330823678237388}
 {'comparison': ['1457', 'gene_counts'], 'correl': -0.009080020884788272, 'significance': 0.32952230176065245}
 {'comparison': ['1625', 'gene_counts'], 'correl': -0.009091521529897487, 'significance': 0.3289100747837329}
-{'comparison': ['4478', 'gene_counts'], 'correl': -0.009108968051997433, 'significance': 0.3279827325245961}
+{'comparison': ['4478', 'gene_counts'], 'correl': -0.009110057977869047, 'significance': 0.32792485558486395}
 {'comparison': ['FeSO4 x 6 H2O', 'gene_counts'], 'correl': -0.009154428964419103, 'significance': 0.32557430590405123}
 {'comparison': ['Na malate', 'gene_counts'], 'correl': -0.009186601302440593, 'significance': 0.3238768478722003}
 {'comparison': ['Capronic acid', 'gene_counts'], 'correl': -0.009263532018960213, 'significance': 0.31984129090581964}
-{'comparison': ['3979', 'gene_counts'], 'correl': -0.009304668565844236, 'significance': 0.31769694118829656}
+{'comparison': ['3979', 'gene_counts'], 'correl': -0.009306751296352105, 'significance': 0.3175886245959106}
 {'comparison': ['L-Ascorbic acid', 'gene_counts'], 'correl': -0.00941050811759597, 'significance': 0.3122231835067369}
 {'comparison': ['Nicotinic acid', 'gene_counts'], 'correl': -0.009418373526403115, 'significance': 0.311818899491358}
 {'comparison': ['Hexachlorocyclo-hexane', 'gene_counts'], 'correl': -0.009418373526403115, 'significance': 0.311818899491358}
 {'comparison': ['1889', 'gene_counts'], 'correl': -0.009418373526403115, 'significance': 0.311818899491358}
 {'comparison': ['4826', 'gene_counts'], 'correl': -0.0095195771851418, 'significance': 0.30664779859256}
 {'comparison': ['MnSO4 x 4 H2O', 'gene_counts'], 'correl': -0.00953615750920377, 'significance': 0.3058060576769077}
-{'comparison': ['Na pyruvate', 'gene_counts'], 'correl': -0.009582570387372836, 'significance': 0.3034579466808035}
+{'comparison': ['Na pyruvate', 'gene_counts'], 'correl': -0.009583142672897603, 'significance': 0.30342906869905456}
 {'comparison': ['gamma-Aminobutyric acid', 'gene_counts'], 'correl': -0.009729912711619642, 'significance': 0.29608320662928306}
 {'comparison': ['3981', 'gene_counts'], 'correl': -0.009775494967964383, 'significance': 0.29382623156862625}
 {'comparison': ['Fe(NH4)2(SO4)2 x 7 H2O', 'gene_counts'], 'correl': -0.009889480629485869, 'significance': 0.28823292266688844}
-{'comparison': ['Bromothymol blue', 'gene_counts'], 'correl': -0.01004445878733304, 'significance': 0.2807439491524406}
+{'comparison': ['Bromothymol blue', 'gene_counts'], 'correl': -0.010039023868814766, 'significance': 0.2810043233708218}
 {'comparison': ['Isobutyramide', 'gene_counts'], 'correl': -0.010081219541452142, 'significance': 0.2789871289691007}
 {'comparison': ['5666', 'gene_counts'], 'correl': -0.010081219541452142, 'significance': 0.2789871289691007}
 {'comparison': ['2223', 'gene_counts'], 'correl': -0.010081219541452142, 'significance': 0.2789871289691007}
 {'comparison': ['VOSO4 x 5 H2O', 'gene_counts'], 'correl': -0.0101001651958099, 'significance': 0.27808462961294944}
 {'comparison': ['Morpholinopropane sulfonic acid', 'gene_counts'], 'correl': -0.010234065879222029, 'significance': 0.27176277889381373}
 {'comparison': ['MnCl2', 'gene_counts'], 'correl': -0.010349753691279946, 'significance': 0.266380627700134}
-{'comparison': ['CaSO4 x 2 H2O', 'gene_counts'], 'correl': -0.010363887257649562, 'significance': 0.2657281535576188}
 {'comparison': ['4929', 'gene_counts'], 'correl': -0.010364388633488172, 'significance': 0.2657050278373139}
 {'comparison': ['4931', 'gene_counts'], 'correl': -0.010364388633488172, 'significance': 0.2657050278373139}
 {'comparison': ['4932', 'gene_counts'], 'correl': -0.010364388633488172, 'significance': 0.2657050278373139}
 {'comparison': ['4934', 'gene_counts'], 'correl': -0.010364388633488172, 'significance': 0.2657050278373139}
+{'comparison': ['CaSO4 x 2 H2O', 'gene_counts'], 'correl': -0.010376613908043925, 'significance': 0.2651415716940539}
 {'comparison': ['4466', 'gene_counts'], 'correl': -0.010417276945668803, 'significance': 0.2632733592337313}
 {'comparison': ['4467', 'gene_counts'], 'correl': -0.010417276945668803, 'significance': 0.2632733592337313}
 {'comparison': ['5350', 'gene_counts'], 'correl': -0.010450453997465374, 'significance': 0.2617558251157811}
@@ -427,35 +427,35 @@
 {'comparison': ['Gelatine', 'gene_counts'], 'correl': -0.010452261783750505, 'significance': 0.26167331011370676}
 {'comparison': ['3638', 'gene_counts'], 'correl': -0.010508266168017755, 'significance': 0.25912593447519294}
 {'comparison': ['Charcoal', 'gene_counts'], 'correl': -0.010540625995794578, 'significance': 0.2576618933571258}
-{'comparison': ['Phenol red', 'gene_counts'], 'correl': -0.010606942174240382, 'significance': 0.2546795320385147}
-{'comparison': ['Na-L-lactate', 'gene_counts'], 'correl': -0.010612388605730516, 'significance': 0.2544356671407675}
+{'comparison': ['Phenol red', 'gene_counts'], 'correl': -0.010606421403935955, 'significance': 0.25470285812932464}
+{'comparison': ['Na-L-lactate', 'gene_counts'], 'correl': -0.01062282539752082, 'significance': 0.25396881199307353}
 {'comparison': ['NaVO3 x H2O', 'gene_counts'], 'correl': -0.01062892578895876, 'significance': 0.25369620750880906}
-{'comparison': ['Na2-9,10-anthraquinone-2,6-disulfonate', 'gene_counts'], 'correl': -0.010741995617745104, 'significance': 0.24868037294287976}
-{'comparison': ['Ascorbic acid', 'gene_counts'], 'correl': -0.01078797642176362, 'significance': 0.24666060774515935}
+{'comparison': ['Na2-9,10-anthraquinone-2,6-disulfonate', 'gene_counts'], 'correl': -0.010738694551096231, 'significance': 0.2488258201431255}
+{'comparison': ['Ascorbic acid', 'gene_counts'], 'correl': -0.010790361475930021, 'significance': 0.24655615563172936}
 {'comparison': ['3383', 'gene_counts'], 'correl': -0.010975063639595908, 'significance': 0.23856117729126433}
 {'comparison': ['690', 'gene_counts'], 'correl': -0.010978449104426198, 'significance': 0.23841636233816763}
-{'comparison': ['2253', 'gene_counts'], 'correl': -0.011053212488825076, 'significance': 0.23523412400307808}
-{'comparison': ['N-Acetylglucosamine', 'gene_counts'], 'correl': -0.01107855828552849, 'significance': 0.23416215649073308}
-{'comparison': ['Cysteine', 'gene_counts'], 'correl': -0.011161441071003727, 'significance': 0.2306809136874994}
+{'comparison': ['2253', 'gene_counts'], 'correl': -0.011053212447274799, 'significance': 0.23523412576323532}
+{'comparison': ['N-Acetylglucosamine', 'gene_counts'], 'correl': -0.011066342449684461, 'significance': 0.23467837657145385}
+{'comparison': ['Cysteine', 'gene_counts'], 'correl': -0.011174826524531027, 'significance': 0.23012216551867506}
 {'comparison': ['2054', 'gene_counts'], 'correl': -0.011199907363185494, 'significance': 0.22907780974235306}
-{'comparison': ['Na3-EDTA', 'gene_counts'], 'correl': -0.011204912069598132, 'significance': 0.22886982015006221}
-{'comparison': ['Casein', 'gene_counts'], 'correl': -0.01132252267029516, 'significance': 0.22402071174242552}
-{'comparison': ['Ethanol absolute', 'gene_counts'], 'correl': -0.011346920614056778, 'significance': 0.22302404618857075}
+{'comparison': ['Na3-EDTA', 'gene_counts'], 'correl': -0.011205760271602028, 'significance': 0.22883458321810943}
+{'comparison': ['Casein', 'gene_counts'], 'correl': -0.011324593547628875, 'significance': 0.22393599213719728}
+{'comparison': ['Ethanol absolute', 'gene_counts'], 'correl': -0.011345315169038552, 'significance': 0.22308953157087577}
 {'comparison': ['Citric acid', 'gene_counts'], 'correl': -0.01135045834144527, 'significance': 0.22287979242392048}
 {'comparison': ['443', 'gene_counts'], 'correl': -0.011368843497770193, 'significance': 0.22213119753342206}
-{'comparison': ['L-Alanine', 'gene_counts'], 'correl': -0.011397882074858427, 'significance': 0.22095249411366757}
 {'comparison': ['4331', 'gene_counts'], 'correl': -0.011401346796294232, 'significance': 0.22081215772270646}
-{'comparison': ['Diammonium Citrate', 'gene_counts'], 'correl': -0.011442978414274154, 'significance': 0.2191308898953541}
-{'comparison': ['Sodium beta-glycerophosphate', 'gene_counts'], 'correl': -0.011471403742422616, 'significance': 0.21798824259535282}
+{'comparison': ['L-Alanine', 'gene_counts'], 'correl': -0.011405787148404343, 'significance': 0.22063239745677532}
+{'comparison': ['Diammonium Citrate', 'gene_counts'], 'correl': -0.011451293605124736, 'significance': 0.21879619002496722}
+{'comparison': ['Sodium beta-glycerophosphate', 'gene_counts'], 'correl': -0.011472446539882091, 'significance': 0.2179464055864613}
 {'comparison': ['Methylamine', 'gene_counts'], 'correl': -0.011478436289774937, 'significance': 0.21770620873720972}
 {'comparison': ['2729', 'gene_counts'], 'correl': -0.011478436289774937, 'significance': 0.21770620873720972}
 {'comparison': ['4477', 'gene_counts'], 'correl': -0.011517434718368979, 'significance': 0.21614697261077012}
-{'comparison': ['Na-thioglycolate', 'gene_counts'], 'correl': -0.011554727746670476, 'significance': 0.21466345656796393}
+{'comparison': ['Na-thioglycolate', 'gene_counts'], 'correl': -0.01158175855839328, 'significance': 0.21359276863104393}
 {'comparison': ['3998', 'gene_counts'], 'correl': -0.011713672036877159, 'significance': 0.20842295434619015}
-{'comparison': ['Tryptose', 'gene_counts'], 'correl': -0.011752793315240867, 'significance': 0.20690733494791697}
-{'comparison': ['Meat infusion', 'gene_counts'], 'correl': -0.011784411479659373, 'significance': 0.20568825495178608}
-{'comparison': ['MOPS buffer', 'gene_counts'], 'correl': -0.011808604780622766, 'significance': 0.2047589805845565}
-{'comparison': ['Cysteine-HCl', 'gene_counts'], 'correl': -0.011812188354105002, 'significance': 0.20462159407678784}
+{'comparison': ['Tryptose', 'gene_counts'], 'correl': -0.011751674318570878, 'significance': 0.2069505752071346}
+{'comparison': ['Meat infusion', 'gene_counts'], 'correl': -0.0117765215994296, 'significance': 0.2059919699497864}
+{'comparison': ['MOPS buffer', 'gene_counts'], 'correl': -0.011807609669375541, 'significance': 0.2047971429072848}
+{'comparison': ['Cysteine-HCl', 'gene_counts'], 'correl': -0.01181371523972444, 'significance': 0.20456307693288195}
 {'comparison': ['Zeikus trace element solution', 'gene_counts'], 'correl': -0.011853265207242912, 'significance': 0.20305158154909606}
 {'comparison': ['2698', 'gene_counts'], 'correl': -0.011853265207242912, 'significance': 0.20305158154909606}
 {'comparison': ['Sugar', 'gene_counts'], 'correl': -0.011902774901844113, 'significance': 0.2011709353480419}
@@ -464,10 +464,10 @@
 {'comparison': ['2881', 'gene_counts'], 'correl': -0.011902774901844113, 'significance': 0.2011709353480419}
 {'comparison': ['4339', 'gene_counts'], 'correl': -0.011902774901844113, 'significance': 0.2011709353480419}
 {'comparison': ['4340', 'gene_counts'], 'correl': -0.011902774901844113, 'significance': 0.2011709353480419}
-{'comparison': ['Na2MoO4 x 2 H2O', 'gene_counts'], 'correl': -0.01206217234197394, 'significance': 0.1952025007778653}
-{'comparison': ['Biotin', 'gene_counts'], 'correl': -0.012070106799598024, 'significance': 0.1949088341744366}
-{'comparison': ['Glutathione', 'gene_counts'], 'correl': -0.012100296089343333, 'significance': 0.19379444333766876}
-{'comparison': ['4676', 'gene_counts'], 'correl': -0.012106590677217102, 'significance': 0.1935626788475825}
+{'comparison': ['Na2MoO4 x 2 H2O', 'gene_counts'], 'correl': -0.01205783272148915, 'significance': 0.1953632540493813}
+{'comparison': ['Biotin', 'gene_counts'], 'correl': -0.012068636746954308, 'significance': 0.19496321863800511}
+{'comparison': ['Glutathione', 'gene_counts'], 'correl': -0.012101301406610532, 'significance': 0.19375741424922216}
+{'comparison': ['4676', 'gene_counts'], 'correl': -0.012106364436697464, 'significance': 0.1935710054156601}
 {'comparison': ['3952', 'gene_counts'], 'correl': -0.012214107971074023, 'significance': 0.18963530628391054}
 {'comparison': ['n-Decane', 'gene_counts'], 'correl': -0.012262005943325943, 'significance': 0.1879047251682079}
 {'comparison': ['Plain flour', 'gene_counts'], 'correl': -0.012339531797551396, 'significance': 0.1851284116942591}
@@ -475,31 +475,31 @@
 {'comparison': ['1269', 'gene_counts'], 'correl': -0.012360688053448086, 'significance': 0.18437607167178294}
 {'comparison': ['2439', 'gene_counts'], 'correl': -0.012360688053448086, 'significance': 0.18437607167178294}
 {'comparison': ['2868', 'gene_counts'], 'correl': -0.012360688053448086, 'significance': 0.18437607167178294}
-{'comparison': ['4178', 'gene_counts'], 'correl': -0.012369798253778685, 'significance': 0.18405280075393782}
-{'comparison': ['Sodium formate', 'gene_counts'], 'correl': -0.012377487163682607, 'significance': 0.18378029031810608}
-{'comparison': ['D-Xylose', 'gene_counts'], 'correl': -0.012394768190711754, 'significance': 0.18316890658827073}
-{'comparison': ['Resazurin', 'gene_counts'], 'correl': -0.012410829990088267, 'significance': 0.18260201023802825}
-{'comparison': ['Lactose', 'gene_counts'], 'correl': -0.012450531241309983, 'significance': 0.18120634889089562}
+{'comparison': ['4178', 'gene_counts'], 'correl': -0.012368937338047283, 'significance': 0.18408333195356855}
+{'comparison': ['Sodium formate', 'gene_counts'], 'correl': -0.012378126002787041, 'significance': 0.1837576620261943}
+{'comparison': ['D-Xylose', 'gene_counts'], 'correl': -0.012392296738452551, 'significance': 0.1832562513843426}
+{'comparison': ['Lactose', 'gene_counts'], 'correl': -0.012456231792236662, 'significance': 0.1810066029811859}
 {'comparison': ['Na-crotonate', 'gene_counts'], 'correl': -0.012462970144075373, 'significance': 0.1807707036262285}
+{'comparison': ['Resazurin', 'gene_counts'], 'correl': -0.012465224295723715, 'significance': 0.1806918402118511}
 {'comparison': ['NiCl2', 'gene_counts'], 'correl': -0.012469578577937823, 'significance': 0.18053957428283596}
 {'comparison': ['Gluconic acid', 'gene_counts'], 'correl': -0.012469578577937823, 'significance': 0.18053957428283596}
-{'comparison': ['Ferric ammonium citrate', 'gene_counts'], 'correl': -0.012501971304189556, 'significance': 0.1794098154030687}
+{'comparison': ['Ferric ammonium citrate', 'gene_counts'], 'correl': -0.012500538169967282, 'significance': 0.1794596873570963}
 {'comparison': ['Na-(L)-lactate', 'gene_counts'], 'correl': -0.012516208889630303, 'significance': 0.1789149179954715}
-{'comparison': ['114', 'gene_counts'], 'correl': -0.012547006976002707, 'significance': 0.17784785336000383}
+{'comparison': ['114', 'gene_counts'], 'correl': -0.012546523782947428, 'significance': 0.17786455794336842}
 {'comparison': ['5118', 'gene_counts'], 'correl': -0.01262274688286622, 'significance': 0.17524384559176115}
 {'comparison': ['TES', 'gene_counts'], 'correl': -0.012626699503361535, 'significance': 0.17510873598005852}
 {'comparison': ['Sodium nitrate', 'gene_counts'], 'correl': -0.012626699503361535, 'significance': 0.17510873598005852}
 {'comparison': ['4945', 'gene_counts'], 'correl': -0.012626699503361535, 'significance': 0.17510873598005852}
-{'comparison': ['Na2HPO4 x H2O', 'gene_counts'], 'correl': -0.01273421397201022, 'significance': 0.17146339267663815}
-{'comparison': ['(NH4)2HPO4', 'gene_counts'], 'correl': -0.012743043451120485, 'significance': 0.17116656678369838}
+{'comparison': ['Na2HPO4 x H2O', 'gene_counts'], 'correl': -0.012735956476594878, 'significance': 0.17140478336088072}
+{'comparison': ['(NH4)2HPO4', 'gene_counts'], 'correl': -0.01274172520805012, 'significance': 0.17121085850379072}
 {'comparison': ['Rye grass', 'gene_counts'], 'correl': -0.012743233703183183, 'significance': 0.17116017520282756}
 {'comparison': ['Complan', 'gene_counts'], 'correl': -0.012743233703183183, 'significance': 0.17116017520282756}
 {'comparison': ['Trace minerals (see Medium No. 151', 'gene_counts'], 'correl': -0.012788938885549168, 'significance': 0.16962986706228167}
 {'comparison': ['Na-aspartate', 'gene_counts'], 'correl': -0.012817607898608361, 'significance': 0.1686752154420847}
-{'comparison': ['Fe2(SO4)3 x H2O', 'gene_counts'], 'correl': -0.01284624715627195, 'significance': 0.16772558524237183}
+{'comparison': ['Fe2(SO4)3 x H2O', 'gene_counts'], 'correl': -0.012835378673709538, 'significance': 0.16808549226552968}
 {'comparison': ['Crotonic acid', 'gene_counts'], 'correl': -0.012900689307823399, 'significance': 0.16593145280214525}
 {'comparison': ['K2CO3', 'gene_counts'], 'correl': -0.012900689307823399, 'significance': 0.16593145280214525}
-{'comparison': ['4042', 'gene_counts'], 'correl': -0.012946269544020587, 'significance': 0.1644404963225418}
+{'comparison': ['4042', 'gene_counts'], 'correl': -0.01294547219140984, 'significance': 0.16446649120717}
 {'comparison': ['2734', 'gene_counts'], 'correl': -0.01298376642388114, 'significance': 0.1632215332895214}
 {'comparison': ['2735', 'gene_counts'], 'correl': -0.01298376642388114, 'significance': 0.1632215332895214}
 {'comparison': ['2,3-butanediol', 'gene_counts'], 'correl': -0.013131369219470872, 'significance': 0.1584893322460657}
@@ -511,27 +511,27 @@
 {'comparison': ['4646', 'gene_counts'], 'correl': -0.01339174210729804, 'significance': 0.15039594492264002}
 {'comparison': ['4239', 'gene_counts'], 'correl': -0.013567284262858123, 'significance': 0.1451198423300487}
 {'comparison': ['4240', 'gene_counts'], 'correl': -0.013567284262858123, 'significance': 0.1451198423300487}
-{'comparison': ['Na2HPO4 x 7 H2O', 'gene_counts'], 'correl': -0.013569033259889602, 'significance': 0.14506799699234404}
-{'comparison': ['CaSO4', 'gene_counts'], 'correl': -0.01359999859602623, 'significance': 0.14415244195758353}
-{'comparison': ['MnCl2 x 4 H2O', 'gene_counts'], 'correl': -0.013677442584214841, 'significance': 0.14188204209417168}
+{'comparison': ['Na2HPO4 x 7 H2O', 'gene_counts'], 'correl': -0.013567754675972822, 'significance': 0.14510589652798037}
+{'comparison': ['CaSO4', 'gene_counts'], 'correl': -0.01359790070231553, 'significance': 0.1442143303754176}
+{'comparison': ['MnCl2 x 4 H2O', 'gene_counts'], 'correl': -0.013669557749106099, 'significance': 0.14211193581294482}
 {'comparison': ['3963', 'gene_counts'], 'correl': -0.013694127921584675, 'significance': 0.1413964989202125}
 {'comparison': ['L-Cysteine x HCl x H2O solution', 'gene_counts'], 'correl': -0.013721268636923807, 'significance': 0.14060943306937113}
-{'comparison': ['Fructose', 'gene_counts'], 'correl': -0.013722468278903653, 'significance': 0.14057472200533921}
+{'comparison': ['Fructose', 'gene_counts'], 'correl': -0.01374001050302897, 'significance': 0.14006789847005696}
 {'comparison': ['Ammonium Sulfate', 'gene_counts'], 'correl': -0.013760839125018047, 'significance': 0.13946795218890992}
 {'comparison': ['2891', 'gene_counts'], 'correl': -0.013760839125018047, 'significance': 0.13946795218890992}
 {'comparison': ['2890', 'gene_counts'], 'correl': -0.013760839125018047, 'significance': 0.13946795218890992}
-{'comparison': ['MgSO4 x 6 H2O', 'gene_counts'], 'correl': -0.013761769321823245, 'significance': 0.1394412050684017}
+{'comparison': ['MgSO4 x 6 H2O', 'gene_counts'], 'correl': -0.013766504263589193, 'significance': 0.1393051165164881}
 {'comparison': ['Pullulan', 'gene_counts'], 'correl': -0.01378475302449394, 'significance': 0.13878157891621698}
-{'comparison': ['CaCl2 x 6 H2O', 'gene_counts'], 'correl': -0.01386757910300666, 'significance': 0.13642441332999905}
+{'comparison': ['CaCl2 x 6 H2O', 'gene_counts'], 'correl': -0.013865082347378047, 'significance': 0.1364950145165862}
 {'comparison': ['FeCl3 x 4 H2O', 'gene_counts'], 'correl': -0.013877834434788251, 'significance': 0.13613471712978276}
 {'comparison': ['Fe(NH4)citrate', 'gene_counts'], 'correl': -0.013877834434788251, 'significance': 0.13613471712978276}
 {'comparison': ['MnCl4 x 6 H2O', 'gene_counts'], 'correl': -0.013877834434788251, 'significance': 0.13613471712978276}
-{'comparison': ['MOPS', 'gene_counts'], 'correl': -0.013948833227252454, 'significance': 0.13414212495205133}
-{'comparison': ['Malic acid', 'gene_counts'], 'correl': -0.014041707952136485, 'significance': 0.13156971889747296}
-{'comparison': ['Urea', 'gene_counts'], 'correl': -0.014088491332950771, 'significance': 0.13028849478859447}
+{'comparison': ['MOPS', 'gene_counts'], 'correl': -0.0139500481080868, 'significance': 0.13410822644799036}
+{'comparison': ['Malic acid', 'gene_counts'], 'correl': -0.014039112012108498, 'significance': 0.1316410970455144}
+{'comparison': ['Urea', 'gene_counts'], 'correl': -0.014091497422682104, 'significance': 0.13020650125069788}
 {'comparison': ['Sigmacell alpha Type 50', 'gene_counts'], 'correl': -0.014155386095870859, 'significance': 0.12847333778080583}
 {'comparison': ['Selenite-tungstate solution', 'gene_counts'], 'correl': -0.014197344556781451, 'significance': 0.12734488351432988}
-{'comparison': ['Na-acetate x 3 H2O', 'gene_counts'], 'correl': -0.0144148143384318, 'significance': 0.12161924065382479}
+{'comparison': ['Na-acetate x 3 H2O', 'gene_counts'], 'correl': -0.014398980304557451, 'significance': 0.12202921282592957}
 {'comparison': ['4825', 'gene_counts'], 'correl': -0.014468083612793864, 'significance': 0.12024790351207144}
 {'comparison': ['3924', 'gene_counts'], 'correl': -0.014490105058277433, 'significance': 0.1196845432954927}
 {'comparison': ['KH2PO3', 'gene_counts'], 'correl': -0.014506438552156165, 'significance': 0.11926803107505583}
@@ -539,181 +539,181 @@
 {'comparison': ['2679', 'gene_counts'], 'correl': -0.014522313623439396, 'significance': 0.11886429804081645}
 {'comparison': ['2680', 'gene_counts'], 'correl': -0.014522313623439396, 'significance': 0.11886429804081645}
 {'comparison': ['2423', 'gene_counts'], 'correl': -0.014605547911682889, 'significance': 0.11676499871726433}
-{'comparison': ['Ferric citrate monohydrate', 'gene_counts'], 'correl': -0.014647370126509972, 'significance': 0.11572122401115119}
+{'comparison': ['Ferric citrate monohydrate', 'gene_counts'], 'correl': -0.014661291646946985, 'significance': 0.11537541031183673}
 {'comparison': ['Lab-Lemco beef extract', 'gene_counts'], 'correl': -0.01466778854318874, 'significance': 0.11521430426852966}
 {'comparison': ['Horse blood', 'gene_counts'], 'correl': -0.01466778854318874, 'significance': 0.11521430426852966}
 {'comparison': ['Yeast autolysate', 'gene_counts'], 'correl': -0.014675671011162227, 'significance': 0.11501907724633546}
 {'comparison': ['3641', 'gene_counts'], 'correl': -0.014675671011162227, 'significance': 0.11501907724633546}
-{'comparison': ['Cellobiose or Cellulose MN 300', 'gene_counts'], 'correl': -0.014776241427862942, 'significance': 0.11255099851431442}
-{'comparison': ['Disodium succinate', 'gene_counts'], 'correl': -0.014861138706268708, 'significance': 0.11050021159766606}
+{'comparison': ['Cellobiose or Cellulose MN 300', 'gene_counts'], 'correl': -0.014778438615996679, 'significance': 0.11249754744306556}
 {'comparison': ['Na-fumarate', 'gene_counts'], 'correl': -0.014862726868935987, 'significance': 0.11046213086411492}
-{'comparison': ['Potassium phosphate buffer', 'gene_counts'], 'correl': -0.014985472175494114, 'significance': 0.1075501869733901}
+{'comparison': ['Disodium succinate', 'gene_counts'], 'correl': -0.014888321907837936, 'significance': 0.10984984510775296}
+{'comparison': ['Potassium phosphate buffer', 'gene_counts'], 'correl': -0.014987087865748056, 'significance': 0.10751226650091189}
 {'comparison': ['1180', 'gene_counts'], 'correl': -0.01500051955131188, 'significance': 0.10719743270554608}
 {'comparison': ['Polar lipid fraction', 'gene_counts'], 'correl': -0.015004345621628551, 'significance': 0.10710788477976656}
-{'comparison': ['5861', 'gene_counts'], 'correl': -0.01503294476295203, 'significance': 0.10644040676361799}
-{'comparison': ['p-Aminobenzoic acid', 'gene_counts'], 'correl': -0.015046476207590158, 'significance': 0.10612574624807086}
-{'comparison': ['Ethanol', 'gene_counts'], 'correl': -0.015165368541127534, 'significance': 0.10339262969862456}
+{'comparison': ['5861', 'gene_counts'], 'correl': -0.01503038754531506, 'significance': 0.10649995535747857}
+{'comparison': ['p-Aminobenzoic acid', 'gene_counts'], 'correl': -0.015046345305147478, 'significance': 0.10612878671965933}
+{'comparison': ['Ethanol', 'gene_counts'], 'correl': -0.01517598095676762, 'significance': 0.10315141477084076}
 {'comparison': ['Difco marine broth', 'gene_counts'], 'correl': -0.015222730158244213, 'significance': 0.1020941505826346}
 {'comparison': ['3272', 'gene_counts'], 'correl': -0.015267016849555075, 'significance': 0.1011005492859551}
 {'comparison': ['3273', 'gene_counts'], 'correl': -0.015267016849555075, 'significance': 0.1011005492859551}
 {'comparison': ['Soya pepton', 'gene_counts'], 'correl': -0.015467900601810136, 'significance': 0.09668992681939155}
-{'comparison': ['Trichloroethylene', 'gene_counts'], 'correl': -0.015925601393320287, 'significance': 0.08721478796934264}
-{'comparison': ['MgSO4', 'gene_counts'], 'correl': -0.016042445131475794, 'significance': 0.08492000060517853}
-{'comparison': ['Maltose monohydrate', 'gene_counts'], 'correl': -0.016213132291480293, 'significance': 0.08165575407958725}
-{'comparison': ['Succinic acid', 'gene_counts'], 'correl': -0.01630808388218863, 'significance': 0.07988441073182034}
-{'comparison': ['Coenzyme M', 'gene_counts'], 'correl': -0.01637740641708121, 'significance': 0.07861100558388727}
+{'comparison': ['Trichloroethylene', 'gene_counts'], 'correl': -0.015925735828297444, 'significance': 0.08721211922465015}
+{'comparison': ['MgSO4', 'gene_counts'], 'correl': -0.01603991773845568, 'significance': 0.08496911627023863}
+{'comparison': ['Maltose monohydrate', 'gene_counts'], 'correl': -0.01621477197438939, 'significance': 0.0816248972736757}
+{'comparison': ['Succinic acid', 'gene_counts'], 'correl': -0.01633399592366849, 'significance': 0.07940647715575673}
+{'comparison': ['Coenzyme M', 'gene_counts'], 'correl': -0.016378400062159917, 'significance': 0.0785928738080389}
 {'comparison': ['4092', 'gene_counts'], 'correl': -0.016470838269697446, 'significance': 0.07692091097083258}
 {'comparison': ['Arabinose', 'gene_counts'], 'correl': -0.016536482897225806, 'significance': 0.07575126536753253}
-{'comparison': ['Pancreatic digest of casein', 'gene_counts'], 'correl': -0.016582495170080255, 'significance': 0.07494010812072997}
-{'comparison': ['4221', 'gene_counts'], 'correl': -0.0167848095405476, 'significance': 0.07145722491922439}
-{'comparison': ['4186', 'gene_counts'], 'correl': -0.016833513244996618, 'significance': 0.07063889439349132}
-{'comparison': ['Na2HPO4 x 2 H2O', 'gene_counts'], 'correl': -0.016916201265033338, 'significance': 0.06926716178821898}
-{'comparison': ['NaH2PO4 x 2 H2O', 'gene_counts'], 'correl': -0.01691781131511095, 'significance': 0.06924067093414558}
+{'comparison': ['Pancreatic digest of casein', 'gene_counts'], 'correl': -0.016583394255045954, 'significance': 0.07492432894604852}
+{'comparison': ['4221', 'gene_counts'], 'correl': -0.016785405196325286, 'significance': 0.07144716985710804}
+{'comparison': ['4186', 'gene_counts'], 'correl': -0.016834973040306653, 'significance': 0.07061448571380288}
+{'comparison': ['NaH2PO4 x 2 H2O', 'gene_counts'], 'correl': -0.016911111214527035, 'significance': 0.06935096535757727}
+{'comparison': ['Na2HPO4 x 2 H2O', 'gene_counts'], 'correl': -0.016937327981644226, 'significance': 0.06892021594542924}
 {'comparison': ['Elemental sulphur', 'gene_counts'], 'correl': -0.016955890600723257, 'significance': 0.06861655747814184}
-{'comparison': ['L-Serine', 'gene_counts'], 'correl': -0.017081736734503358, 'significance': 0.06658676521085248}
-{'comparison': ['Na3-citrate', 'gene_counts'], 'correl': -0.017218701773965835, 'significance': 0.06443409184062372}
-{'comparison': ['KI', 'gene_counts'], 'correl': -0.01737540648644194, 'significance': 0.06204195512742938}
+{'comparison': ['L-Serine', 'gene_counts'], 'correl': -0.017079291348375863, 'significance': 0.0666257308893917}
+{'comparison': ['Na3-citrate', 'gene_counts'], 'correl': -0.01721389838210549, 'significance': 0.06450860269750966}
+{'comparison': ['KI', 'gene_counts'], 'correl': -0.017373115845240678, 'significance': 0.06207638570756509}
 {'comparison': ['4090', 'gene_counts'], 'correl': -0.01737548207827983, 'significance': 0.06204081917744896}
-{'comparison': ['K2SO4', 'gene_counts'], 'correl': -0.017505960523973213, 'significance': 0.060105555711132304}
-{'comparison': ['Trisodium citrate x 2 H2O', 'gene_counts'], 'correl': -0.017622163865938328, 'significance': 0.05842441093401228}
-{'comparison': ['Na2SiO3 x 9 H2O', 'gene_counts'], 'correl': -0.017638436958188473, 'significance': 0.05819213135069271}
-{'comparison': ['MgCl2 x 2 H2O', 'gene_counts'], 'correl': -0.01770434704477621, 'significance': 0.057259173480579004}
-{'comparison': ['Sodium thiosulfate pentahydrate', 'gene_counts'], 'correl': -0.017729990207087456, 'significance': 0.056899571119747964}
-{'comparison': ['NaH2PO4 x H2O', 'gene_counts'], 'correl': -0.017843058426179247, 'significance': 0.05533631124769692}
-{'comparison': ['MnSO4 x 2 H2O', 'gene_counts'], 'correl': -0.01786404038575848, 'significance': 0.05505019195036065}
+{'comparison': ['K2SO4', 'gene_counts'], 'correl': -0.017508075779858703, 'significance': 0.06007459915406199}
+{'comparison': ['Trisodium citrate x 2 H2O', 'gene_counts'], 'correl': -0.017628560226805732, 'significance': 0.0583330185864291}
+{'comparison': ['Na2SiO3 x 9 H2O', 'gene_counts'], 'correl': -0.017635145769260046, 'significance': 0.05823904727844147}
+{'comparison': ['MgCl2 x 2 H2O', 'gene_counts'], 'correl': -0.017705605241403112, 'significance': 0.057241485397835405}
+{'comparison': ['Sodium thiosulfate pentahydrate', 'gene_counts'], 'correl': -0.01772998965148607, 'significance': 0.056899578890725805}
+{'comparison': ['NaH2PO4 x H2O', 'gene_counts'], 'correl': -0.01784374052365201, 'significance': 0.05532699041452227}
+{'comparison': ['MnSO4 x 2 H2O', 'gene_counts'], 'correl': -0.017863973900408798, 'significance': 0.055051096622716754}
 {'comparison': ['3256', 'gene_counts'], 'correl': -0.017899589155283162, 'significance': 0.05456824814320604}
-{'comparison': ['Na glutamate', 'gene_counts'], 'correl': -0.01797162884687854, 'significance': 0.05360237456966398}
 {'comparison': ['Tris buffer', 'gene_counts'], 'correl': -0.017972704696996397, 'significance': 0.053588058968872455}
-{'comparison': ['Ca(NO3)2 x 4 H2O', 'gene_counts'], 'correl': -0.017984599154459477, 'significance': 0.0534300001962798}
+{'comparison': ['Ca(NO3)2 x 4 H2O', 'gene_counts'], 'correl': -0.01799462700143371, 'significance': 0.05329704839455668}
+{'comparison': ['Na glutamate', 'gene_counts'], 'correl': -0.018011615497389548, 'significance': 0.053072441087558195}
 {'comparison': ['Sodium sulfite', 'gene_counts'], 'correl': -0.01832129288950033, 'significance': 0.04911478103557233}
-{'comparison': ['Ferric citrate', 'gene_counts'], 'correl': -0.018409833366013068, 'significance': 0.04802985097828569}
+{'comparison': ['Ferric citrate', 'gene_counts'], 'correl': -0.018408527970025578, 'significance': 0.0480456991828247}
 {'comparison': ['Magnesium sulfate', 'gene_counts'], 'correl': -0.01844806396509289, 'significance': 0.047567655249803685}
 {'comparison': ['Liver Concentrate', 'gene_counts'], 'correl': -0.01844806396509289, 'significance': 0.047567655249803685}
 {'comparison': ['Betaine Hydrochloride', 'gene_counts'], 'correl': -0.01844806396509289, 'significance': 0.047567655249803685}
 {'comparison': ['Potassium Aspartate', 'gene_counts'], 'correl': -0.01844806396509289, 'significance': 0.047567655249803685}
 {'comparison': ['Manganese Sulfate', 'gene_counts'], 'correl': -0.01844806396509289, 'significance': 0.047567655249803685}
 {'comparison': ['Potassium Glutamate', 'gene_counts'], 'correl': -0.01844806396509289, 'significance': 0.047567655249803685}
-{'comparison': ['4172', 'gene_counts'], 'correl': -0.018565599910515873, 'significance': 0.04617003777415334}
-{'comparison': ['CaCl2 x H2O', 'gene_counts'], 'correl': -0.018672397930549235, 'significance': 0.04493024333211465}
-{'comparison': ['CuSO4', 'gene_counts'], 'correl': -0.018681317861779883, 'significance': 0.04482797615377192}
+{'comparison': ['Yeast extract', 'gene_counts'], 'correl': -0.018545474974210736, 'significance': 0.046406860174762345}
+{'comparison': ['4172', 'gene_counts'], 'correl': -0.018567405528315106, 'significance': 0.046148839800468584}
+{'comparison': ['CaCl2 x H2O', 'gene_counts'], 'correl': -0.01867448112487084, 'significance': 0.044906341880352675}
 {'comparison': ['4318', 'gene_counts'], 'correl': -0.018681317861779883, 'significance': 0.04482797615377192}
-{'comparison': ['Casein hydrolysate', 'gene_counts'], 'correl': -0.018709096699724394, 'significance': 0.04451074797991289}
-{'comparison': ['L-Cystine', 'gene_counts'], 'correl': -0.01888412850301712, 'significance': 0.042555185497094646}
-{'comparison': ['H3BO3', 'gene_counts'], 'correl': -0.018909540034834763, 'significance': 0.042277403101162486}
+{'comparison': ['CuSO4', 'gene_counts'], 'correl': -0.018681994826492344, 'significance': 0.04482022276126681}
+{'comparison': ['Casein hydrolysate', 'gene_counts'], 'correl': -0.018705534387163998, 'significance': 0.04455132264505517}
+{'comparison': ['L-Cystine', 'gene_counts'], 'correl': -0.01888607092498927, 'significance': 0.04253389785970091}
+{'comparison': ['H3BO3', 'gene_counts'], 'correl': -0.018902910290180812, 'significance': 0.042349726884949396}
 {'comparison': ['Betaine', 'gene_counts'], 'correl': -0.01896927483318405, 'significance': 0.041630456025377766}
 {'comparison': ['Kao and Michayluk vitamin solution', 'gene_counts'], 'correl': -0.01896927483318405, 'significance': 0.041630456025377766}
 {'comparison': ['H2SO4', 'gene_counts'], 'correl': -0.019064092090627996, 'significance': 0.04062077058471495}
-{'comparison': ['Dipotassium Phosphate', 'gene_counts'], 'correl': -0.01909585856163353, 'significance': 0.04028717273130897}
-{'comparison': ['Ca(NO3)2', 'gene_counts'], 'correl': -0.019496075165723867, 'significance': 0.03627944478070596}
-{'comparison': ['Hemin', 'gene_counts'], 'correl': -0.02030707588834944, 'significance': 0.02919106542503004}
-{'comparison': ['Na2-EDTA', 'gene_counts'], 'correl': -0.020354919806075306, 'significance': 0.02881297881631799}
+{'comparison': ['Dipotassium Phosphate', 'gene_counts'], 'correl': -0.01909765145701419, 'significance': 0.040268413972047425}
+{'comparison': ['Ca(NO3)2', 'gene_counts'], 'correl': -0.019493199104852414, 'significance': 0.036306986365371476}
+{'comparison': ['Hemin', 'gene_counts'], 'correl': -0.020331127356441114, 'significance': 0.029000468427109877}
+{'comparison': ['Na2-EDTA', 'gene_counts'], 'correl': -0.020361634049693662, 'significance': 0.028760258293274055}
 {'comparison': ['4484', 'gene_counts'], 'correl': -0.020521739662262832, 'significance': 0.027527478236770153}
-{'comparison': ['Bovine serum albumin', 'gene_counts'], 'correl': -0.02059356428306196, 'significance': 0.02698942251117296}
-{'comparison': ['Fe2(SO4)3 x n H2O', 'gene_counts'], 'correl': -0.020709886932788593, 'significance': 0.026137274937173938}
+{'comparison': ['Bovine serum albumin', 'gene_counts'], 'correl': -0.020596726583401948, 'significance': 0.02696594305099449}
+{'comparison': ['Fe2(SO4)3 x n H2O', 'gene_counts'], 'correl': -0.020708653012616384, 'significance': 0.026146190831622045}
 {'comparison': ['Trace vitamins (see Medium No. 197)', 'gene_counts'], 'correl': -0.020793015333308736, 'significance': 0.025542637184764683}
-{'comparison': ['Na-lactate', 'gene_counts'], 'correl': -0.020894962415808304, 'significance': 0.02482939089103922}
+{'comparison': ['Na-lactate', 'gene_counts'], 'correl': -0.020895896731843534, 'significance': 0.024822934768589308}
 {'comparison': ['3862', 'gene_counts'], 'correl': -0.020923739263455268, 'significance': 0.024631208922245486}
 {'comparison': ['DL-Tryptophan', 'gene_counts'], 'correl': -0.021172796435286977, 'significance': 0.022972489705362593}
-{'comparison': ['Na acetate', 'gene_counts'], 'correl': -0.021541664375310247, 'significance': 0.020694273626018958}
-{'comparison': ['HEPES', 'gene_counts'], 'correl': -0.021889346509538492, 'significance': 0.01872981669342588}
-{'comparison': ['Nutrient broth', 'gene_counts'], 'correl': -0.022025352076606317, 'significance': 0.018006937644260205}
-{'comparison': ['Corn meal agar', 'gene_counts'], 'correl': -0.022497004406054375, 'significance': 0.015685917991635146}
-{'comparison': ['NH4HCO3', 'gene_counts'], 'correl': -0.022515849114666097, 'significance': 0.015598916793449318}
-{'comparison': ['Sodium lactate', 'gene_counts'], 'correl': -0.022770277335691428, 'significance': 0.01446517617359641}
-{'comparison': ['Na-EDTA', 'gene_counts'], 'correl': -0.022842116774421876, 'significance': 0.014158501798877295}
-{'comparison': ['Fe(III)-EDTA', 'gene_counts'], 'correl': -0.023288497503868986, 'significance': 0.012378362242248555}
-{'comparison': ['5902', 'gene_counts'], 'correl': -0.024199768250902403, 'significance': 0.00934771456585424}
-{'comparison': ['NaNO3', 'gene_counts'], 'correl': -0.024229131211584997, 'significance': 0.00926216252143341}
+{'comparison': ['Na acetate', 'gene_counts'], 'correl': -0.021540902075574814, 'significance': 0.020698770921522506}
+{'comparison': ['HEPES', 'gene_counts'], 'correl': -0.021872394878851627, 'significance': 0.018821671370839885}
+{'comparison': ['Nutrient broth', 'gene_counts'], 'correl': -0.021985313470267942, 'significance': 0.01821716428417534}
+{'comparison': ['Corn meal agar', 'gene_counts'], 'correl': -0.022497163955521014, 'significance': 0.015685179604673385}
+{'comparison': ['NH4HCO3', 'gene_counts'], 'correl': -0.02251581095090331, 'significance': 0.01559909255591548}
+{'comparison': ['Sodium lactate', 'gene_counts'], 'correl': -0.022769436011790663, 'significance': 0.01446880211952074}
+{'comparison': ['Na-EDTA', 'gene_counts'], 'correl': -0.022821587169867222, 'significance': 0.014245549484317247}
+{'comparison': ['Fe(III)-EDTA', 'gene_counts'], 'correl': -0.023286987074929343, 'significance': 0.01238403516469401}
+{'comparison': ['NaNO3', 'gene_counts'], 'correl': -0.023760503847979845, 'significance': 0.010714411745177402}
+{'comparison': ['5902', 'gene_counts'], 'correl': -0.024216588094561994, 'significance': 0.00929862235492953}
 {'comparison': ['1474', 'gene_counts'], 'correl': -0.02457610465008146, 'significance': 0.008302860633266771}
-{'comparison': ['2-Mercaptoethanesulfonic acid', 'gene_counts'], 'correl': -0.02479914733866609, 'significance': 0.0077341237121039234}
+{'comparison': ['2-Mercaptoethanesulfonic acid', 'gene_counts'], 'correl': -0.024793735732589764, 'significance': 0.007747498817277602}
 {'comparison': ['3846', 'gene_counts'], 'correl': -0.024982329296839842, 'significance': 0.007293407751921214}
-{'comparison': ['MES [2-(N-morpholino) ethane sulfonic acid]', 'gene_counts'], 'correl': -0.025114517832767955, 'significance': 0.006989514259436651}
+{'comparison': ['MES [2-(N-morpholino) ethane sulfonic acid]', 'gene_counts'], 'correl': -0.02512203345944648, 'significance': 0.006972582932736225}
 {'comparison': ['CMRL 1066', 'gene_counts'], 'correl': -0.025155830570303857, 'significance': 0.006896898602384958}
-{'comparison': ['250', 'gene_counts'], 'correl': -0.02568046922539083, 'significance': 0.005812997079413164}
-{'comparison': ['Maltose', 'gene_counts'], 'correl': -0.025822967728129947, 'significance': 0.00554641287264058}
+{'comparison': ['Maltose', 'gene_counts'], 'correl': -0.025578899719273813, 'significance': 0.006010004572452878}
+{'comparison': ['250', 'gene_counts'], 'correl': -0.025670357507086843, 'significance': 0.005832345809237281}
 {'comparison': ['Tap water', 'gene_counts'], 'correl': -0.025887060924475666, 'significance': 0.005430145448537659}
-{'comparison': ['Soy peptone', 'gene_counts'], 'correl': -0.026161930686278066, 'significance': 0.004956071789171243}
-{'comparison': ['Proteose peptone', 'gene_counts'], 'correl': -0.02618519489407046, 'significance': 0.004917718218500833}
-{'comparison': ['Methanol', 'gene_counts'], 'correl': -0.02624134867740504, 'significance': 0.004826246155020282}
-{'comparison': ['Polypeptone', 'gene_counts'], 'correl': -0.02688794707733382, 'significance': 0.0038784844458438195}
-{'comparison': ['Brain heart infusion', 'gene_counts'], 'correl': -0.027097068743053763, 'significance': 0.0036102623060537756}
+{'comparison': ['Soy peptone', 'gene_counts'], 'correl': -0.026077967517906347, 'significance': 0.005096754264870221}
+{'comparison': ['Methanol', 'gene_counts'], 'correl': -0.026199650782005292, 'significance': 0.0048940215437289665}
+{'comparison': ['Proteose peptone', 'gene_counts'], 'correl': -0.026249540908602206, 'significance': 0.004813030805978024}
+{'comparison': ['Polypeptone', 'gene_counts'], 'correl': -0.0269215236654038, 'significance': 0.003834233845766156}
+{'comparison': ['Brain heart infusion', 'gene_counts'], 'correl': -0.027082894262779107, 'significance': 0.0036278953461858806}
 {'comparison': ['(NH4)2 citrate', 'gene_counts'], 'correl': -0.027115695389107724, 'significance': 0.0035872092830081374}
-{'comparison': ['Potato', 'gene_counts'], 'correl': -0.027427816511250917, 'significance': 0.0032203173164856973}
+{'comparison': ['Potato', 'gene_counts'], 'correl': -0.027440577926459105, 'significance': 0.0032060712783076677}
 {'comparison': ['2762', 'gene_counts'], 'correl': -0.02752537117778997, 'significance': 0.003112862654316205}
-{'comparison': ['Trypticase', 'gene_counts'], 'correl': -0.027652939256446855, 'significance': 0.002977281319986739}
-{'comparison': ['Na-DL-lactate', 'gene_counts'], 'correl': -0.02778820075070283, 'significance': 0.0028394260069651307}
-{'comparison': ['SrCl2 x 6 H2O', 'gene_counts'], 'correl': -0.02787208825550421, 'significance': 0.002756883713903003}
-{'comparison': ['DL-Dithiothreitol', 'gene_counts'], 'correl': -0.027983361775636813, 'significance': 0.0026507759590077033}
+{'comparison': ['Trypticase', 'gene_counts'], 'correl': -0.027662459562574144, 'significance': 0.002967382256662916}
+{'comparison': ['Na-DL-lactate', 'gene_counts'], 'correl': -0.027752720104472602, 'significance': 0.0028750117547792484}
+{'comparison': ['SrCl2 x 6 H2O', 'gene_counts'], 'correl': -0.027860149546633357, 'significance': 0.0027684956535609945}
+{'comparison': ['DL-Dithiothreitol', 'gene_counts'], 'correl': -0.027981734551715088, 'significance': 0.002652300368465908}
 {'comparison': ['Lactobacilli MRS broth', 'gene_counts'], 'correl': -0.028787917020639268, 'significance': 0.0019879534852656443}
 {'comparison': ['3847', 'gene_counts'], 'correl': -0.028801184855284302, 'significance': 0.001978426999676093}
 {'comparison': ['6262', 'gene_counts'], 'correl': -0.028981755057052316, 'significance': 0.0018528738455513693}
-{'comparison': ['dehydrated Wilkins-Chalgren medium', 'gene_counts'], 'correl': -0.029174988061867236, 'significance': 0.001726655426617417}
-{'comparison': ['Trimethylamine-HCl', 'gene_counts'], 'correl': -0.02925661428140988, 'significance': 0.0016757528186229767}
-{'comparison': ['1605', 'gene_counts'], 'correl': -0.029774904337466858, 'significance': 0.0013834502970887987}
+{'comparison': ['dehydrated Wilkins-Chalgren medium', 'gene_counts'], 'correl': -0.029183256906733658, 'significance': 0.0017214349500597095}
+{'comparison': ['Trimethylamine-HCl', 'gene_counts'], 'correl': -0.029243001740387888, 'significance': 0.0016841446235386901}
+{'comparison': ['1605', 'gene_counts'], 'correl': -0.029775478980973467, 'significance': 0.001383154083657626}
 {'comparison': ['GAM broth', 'gene_counts'], 'correl': -0.03069875070446873, 'significance': 0.0009759937032396418}
-{'comparison': ['K2HPO4 x 3 H2O', 'gene_counts'], 'correl': -0.03081805776697094, 'significance': 0.0009323671351783386}
-{'comparison': ['Arginine', 'gene_counts'], 'correl': -0.030912833304210977, 'significance': 0.0008990060994395601}
-{'comparison': ['Na-pyruvate', 'gene_counts'], 'correl': -0.032402559358747085, 'significance': 0.0005005593286584375}
-{'comparison': ['20', 'gene_counts'], 'correl': -0.03325364516987477, 'significance': 0.0003543675025331313}
-{'comparison': ['Meat extract', 'gene_counts'], 'correl': -0.03367926063787842, 'significance': 0.00029726979614208077}
-{'comparison': ['Casein peptone', 'gene_counts'], 'correl': -0.03424723080602175, 'significance': 0.00023441494990161668}
-{'comparison': ['Xylose', 'gene_counts'], 'correl': -0.03458859973666732, 'significance': 0.00020288066647120815}
-{'comparison': ['Casitone', 'gene_counts'], 'correl': -0.03477991652264968, 'significance': 0.00018699641833571547}
-{'comparison': ['Na2-fumarate', 'gene_counts'], 'correl': -0.03562795900790139, 'significance': 0.00012965290416860512}
+{'comparison': ['K2HPO4 x 3 H2O', 'gene_counts'], 'correl': -0.030711275968797462, 'significance': 0.0009713263943511156}
+{'comparison': ['Arginine', 'gene_counts'], 'correl': -0.030911820451081956, 'significance': 0.0008993567001369345}
+{'comparison': ['Na-pyruvate', 'gene_counts'], 'correl': -0.032354980046735156, 'significance': 0.0005101994073342592}
+{'comparison': ['20', 'gene_counts'], 'correl': -0.03324680250112362, 'significance': 0.0003553641342971614}
+{'comparison': ['Xylose', 'gene_counts'], 'correl': -0.03458885210665333, 'significance': 0.0002028589023206783}
+{'comparison': ['Casitone', 'gene_counts'], 'correl': -0.03550882543109152, 'significance': 0.00013656301856981433}
+{'comparison': ['Na2-fumarate', 'gene_counts'], 'correl': -0.035665008706467674, 'significance': 0.00012757197253373287}
 {'comparison': ['5540', 'gene_counts'], 'correl': -0.0360154257342945, 'significance': 0.00010938795143014195}
-{'comparison': ['PIPES', 'gene_counts'], 'correl': -0.03712360841259916, 'significance': 6.66645038403292e-05}
-{'comparison': ['NiCl2 x 6 H2O', 'gene_counts'], 'correl': -0.03731234063751595, 'significance': 6.118985174079653e-05}
-{'comparison': ['MES', 'gene_counts'], 'correl': -0.03798205209347032, 'significance': 4.500314692625529e-05}
-{'comparison': ['FeSO4 x 7 H2O', 'gene_counts'], 'correl': -0.03905539688072622, 'significance': 2.7220125994798318e-05}
+{'comparison': ['PIPES', 'gene_counts'], 'correl': -0.03709727122459175, 'significance': 6.746435651329536e-05}
+{'comparison': ['Meat extract', 'gene_counts'], 'correl': -0.03710586736734473, 'significance': 6.720230133383378e-05}
+{'comparison': ['Casein peptone', 'gene_counts'], 'correl': -0.037236815850216175, 'significance': 6.33274921901706e-05}
+{'comparison': ['NiCl2 x 6 H2O', 'gene_counts'], 'correl': -0.03731026442902023, 'significance': 6.12476920641281e-05}
+{'comparison': ['MES', 'gene_counts'], 'correl': -0.03798002111619975, 'significance': 4.504543657126471e-05}
+{'comparison': ['FeSO4 x 7 H2O', 'gene_counts'], 'correl': -0.03936152232926344, 'significance': 2.352872964781104e-05}
 {'comparison': ['155', 'gene_counts'], 'correl': -0.04117895144852914, 'significance': 9.694805130448096e-06}
-{'comparison': ['Phytone peptone', 'gene_counts'], 'correl': -0.041269641492448016, 'significance': 9.2663084613673e-06}
-{'comparison': ['Na-formate', 'gene_counts'], 'correl': -0.04298923676343852, 'significance': 3.864745315856345e-06}
-{'comparison': ['Sea Salt', 'gene_counts'], 'correl': -0.04308560349692371, 'significance': 3.676322566497208e-06}
-{'comparison': ['NaBr', 'gene_counts'], 'correl': -0.043708327120307464, 'significance': 2.6549388599244757e-06}
-{'comparison': ['Cellobiose', 'gene_counts'], 'correl': -0.045548325574384624, 'significance': 9.89382372680466e-07}
-{'comparison': ['1038', 'gene_counts'], 'correl': -0.04703513713325025, 'significance': 4.334303570146063e-07}
-{'comparison': ['Tryptone', 'gene_counts'], 'correl': -0.050655585729996434, 'significance': 5.235080626061069e-08}
-{'comparison': ['Sodium acetate', 'gene_counts'], 'correl': -0.05343123335001549, 'significance': 9.36726558675301e-09}
-{'comparison': ['FeCl3 x 6 H2O', 'gene_counts'], 'correl': -0.05492783615273042, 'significance': 3.5722698123668234e-09}
-{'comparison': ['3804', 'gene_counts'], 'correl': -0.054957914539619145, 'significance': 3.5028118822745477e-09}
-{'comparison': ['Ground beef', 'gene_counts'], 'correl': -0.05498427305203405, 'significance': 3.4430261327252815e-09}
-{'comparison': ['Casamino acids', 'gene_counts'], 'correl': -0.05541455250292903, 'significance': 2.596621753925555e-09}
-{'comparison': ['Trehalose', 'gene_counts'], 'correl': -0.055846876961142974, 'significance': 1.9515286035628395e-09}
-{'comparison': ['Fe(III) citrate', 'gene_counts'], 'correl': -0.055933902547228465, 'significance': 1.842026151498972e-09}
-{'comparison': ['NaOH', 'gene_counts'], 'correl': -0.05650468301026093, 'significance': 1.2585802449433034e-09}
-{'comparison': ['KBr', 'gene_counts'], 'correl': -0.05870190944064177, 'significance': 2.805996523996931e-10}
-{'comparison': ['Fe(NH4)2(SO4)2 x 6 H2O', 'gene_counts'], 'correl': -0.0587274537143873, 'significance': 2.756570784599666e-10}
-{'comparison': ['Yeast extract', 'gene_counts'], 'correl': -0.05963522081158699, 'significance': 1.4588061380462611e-10}
-{'comparison': ['L-Cysteine HCl', 'gene_counts'], 'correl': -0.06065792623510106, 'significance': 7.042736082229268e-11}
-{'comparison': ['MgCl2', 'gene_counts'], 'correl': -0.061218409306306065, 'significance': 4.7013248020219017e-11}
-{'comparison': ['Na-(DL)-lactate', 'gene_counts'], 'correl': -0.06301553647693693, 'significance': 1.2557803522505515e-11}
-{'comparison': ['CaCl2', 'gene_counts'], 'correl': -0.06567522977742835, 'significance': 1.663283074074035e-12}
-{'comparison': ['K2HPO4', 'gene_counts'], 'correl': -0.06706469495337433, 'significance': 5.601439314001342e-13}
-{'comparison': ['Glycerol', 'gene_counts'], 'correl': -0.06801304999123009, 'significance': 2.6312316017899815e-13}
-{'comparison': ['D-Glucose', 'gene_counts'], 'correl': -0.069604854154648, 'significance': 7.232375904687292e-14}
-{'comparison': ['3861', 'gene_counts'], 'correl': -0.07170587845058624, 'significance': 1.2576970855063447e-14}
-{'comparison': ['Na2S2O3 x 5 H2O', 'gene_counts'], 'correl': -0.07206827448110387, 'significance': 9.253438677817816e-15}
-{'comparison': ['FeSO4', 'gene_counts'], 'correl': -0.07450503660698454, 'significance': 1.1299868914002595e-15}
-{'comparison': ['Na2SO4', 'gene_counts'], 'correl': -0.08414580878933063, 'significance': 1.4032275856472193e-19}
-{'comparison': ['Sulfur', 'gene_counts'], 'correl': -0.09089539121706679, 'significance': 1.3581165556171845e-22}
-{'comparison': ['241', 'gene_counts'], 'correl': -0.09115206727408895, 'significance': 1.0321613554445853e-22}
-{'comparison': ['Trypticase peptone', 'gene_counts'], 'correl': -0.09131659891135521, 'significance': 8.653063282797766e-23}
-{'comparison': ['Bacto peptone', 'gene_counts'], 'correl': -0.09249127643039105, 'significance': 2.4346681119947135e-23}
-{'comparison': ['MgSO4 x 7 H2O', 'gene_counts'], 'correl': -0.09261710147754292, 'significance': 2.1234016841924048e-23}
+{'comparison': ['Phytone peptone', 'gene_counts'], 'correl': -0.04124018669082665, 'significance': 9.403454062150207e-06}
+{'comparison': ['Na-formate', 'gene_counts'], 'correl': -0.04298412323477231, 'significance': 3.874997963816836e-06}
+{'comparison': ['Sea Salt', 'gene_counts'], 'correl': -0.04311113646085446, 'significance': 3.6278939754298683e-06}
+{'comparison': ['NaBr', 'gene_counts'], 'correl': -0.04374543531519251, 'significance': 2.603583382787036e-06}
+{'comparison': ['Cellobiose', 'gene_counts'], 'correl': -0.04537942211315183, 'significance': 1.0849320026293084e-06}
+{'comparison': ['1038', 'gene_counts'], 'correl': -0.047036739390138776, 'significance': 4.3303922155928357e-07}
+{'comparison': ['Tryptone', 'gene_counts'], 'correl': -0.04981235917515576, 'significance': 8.678857576095887e-08}
+{'comparison': ['Sodium acetate', 'gene_counts'], 'correl': -0.05347594273028394, 'significance': 9.104694954357489e-09}
+{'comparison': ['FeCl3 x 6 H2O', 'gene_counts'], 'correl': -0.0548992570872759, 'significance': 3.639506439400003e-09}
+{'comparison': ['3804', 'gene_counts'], 'correl': -0.054967527434781845, 'significance': 3.480891998712316e-09}
+{'comparison': ['Ground beef', 'gene_counts'], 'correl': -0.05503655452372039, 'significance': 3.3273672372947753e-09}
+{'comparison': ['Fe(III) citrate', 'gene_counts'], 'correl': -0.05574921752967884, 'significance': 2.081967847260628e-09}
+{'comparison': ['Trehalose', 'gene_counts'], 'correl': -0.05585930688695422, 'significance': 1.9355087519554513e-09}
+{'comparison': ['NaOH', 'gene_counts'], 'correl': -0.056493694647509855, 'significance': 1.267887080487933e-09}
+{'comparison': ['Casamino acids', 'gene_counts'], 'correl': -0.05712832746606199, 'significance': 8.266208344420137e-10}
+{'comparison': ['Fe(NH4)2(SO4)2 x 6 H2O', 'gene_counts'], 'correl': -0.05867718826847727, 'significance': 2.8546530994273123e-10}
+{'comparison': ['KBr', 'gene_counts'], 'correl': -0.058679515784865695, 'significance': 2.8500371407289623e-10}
+{'comparison': ['L-Cysteine HCl', 'gene_counts'], 'correl': -0.06079629126906369, 'significance': 6.376110421156046e-11}
+{'comparison': ['MgCl2', 'gene_counts'], 'correl': -0.06087903875643661, 'significance': 6.007362622302271e-11}
+{'comparison': ['Na-(DL)-lactate', 'gene_counts'], 'correl': -0.06306079239672575, 'significance': 1.2141415897269434e-11}
+{'comparison': ['K2HPO4', 'gene_counts'], 'correl': -0.06536363201259236, 'significance': 2.1166253085315652e-12}
+{'comparison': ['CaCl2', 'gene_counts'], 'correl': -0.06548123961104176, 'significance': 1.9328219678659955e-12}
+{'comparison': ['Glycerol', 'gene_counts'], 'correl': -0.06755144553114734, 'significance': 3.805745278208139e-13}
+{'comparison': ['D-Glucose', 'gene_counts'], 'correl': -0.06957443448471008, 'significance': 7.415119792269402e-14}
+{'comparison': ['3861', 'gene_counts'], 'correl': -0.07174879012770087, 'significance': 1.2129123492782225e-14}
+{'comparison': ['Na2S2O3 x 5 H2O', 'gene_counts'], 'correl': -0.07213232765767451, 'significance': 8.763525485827363e-15}
+{'comparison': ['FeSO4', 'gene_counts'], 'correl': -0.07455967283157432, 'significance': 1.0770994295782266e-15}
+{'comparison': ['Na2SO4', 'gene_counts'], 'correl': -0.08387731683863262, 'significance': 1.829177630057527e-19}
+{'comparison': ['Sulfur', 'gene_counts'], 'correl': -0.0909112288706442, 'significance': 1.335341690382444e-22}
+{'comparison': ['241', 'gene_counts'], 'correl': -0.09126267113538372, 'significance': 9.168210420965419e-23}
+{'comparison': ['Trypticase peptone', 'gene_counts'], 'correl': -0.09129096622042032, 'significance': 8.89424562934918e-23}
+{'comparison': ['Bacto peptone', 'gene_counts'], 'correl': -0.09373785731011723, 'significance': 6.227532365267333e-24}
 {'comparison': ['(NH4)3 citrate', 'gene_counts'], 'correl': -0.09429001051489237, 'significance': 3.384653570793785e-24}
-{'comparison': ['MnSO4 x H2O', 'gene_counts'], 'correl': -0.0991461159054965, 'significance': 1.3602200797104143e-26}
-{'comparison': ['5980', 'gene_counts'], 'correl': -0.10242722598336375, 'significance': 2.795762166775368e-28}
-{'comparison': ['CaCl2 x 2 H2O', 'gene_counts'], 'correl': -0.10253031528471775, 'significance': 2.469442316000554e-28}
-{'comparison': ['Na2CO3', 'gene_counts'], 'correl': -0.10513887869526149, 'significance': 1.024542144179305e-29}
-{'comparison': ['L-Cysteine HCl x H2O', 'gene_counts'], 'correl': -0.10530548402069174, 'significance': 8.338184391063706e-30}
-{'comparison': ['Tween 80', 'gene_counts'], 'correl': -0.10544647484777288, 'significance': 7.002535797316905e-30}
-{'comparison': ['Na-acetate', 'gene_counts'], 'correl': -0.12021071816630319, 'significance': 2.1782293462780603e-38}
-{'comparison': ['NaCl', 'gene_counts'], 'correl': -0.13046210705005185, 'significance': 5.821831461725464e-45}
-{'comparison': ['KH2PO4', 'gene_counts'], 'correl': -0.13450357869780677, 'significance': 1.0530666707191196e-47}
-{'comparison': ['NaHCO3', 'gene_counts'], 'correl': -0.13765627369893477, 'significance': 6.657250471768641e-50}
-{'comparison': ['Sodium resazurin', 'gene_counts'], 'correl': -0.14217485468560997, 'significance': 3.800258790264144e-53}
-{'comparison': ['Trypticase soy broth', 'gene_counts'], 'correl': -0.14610898361066588, 'significance': 4.652887014203798e-56}
-{'comparison': ['Na2S x 9 H2O', 'gene_counts'], 'correl': -0.14806149831079035, 'significance': 1.555561124059422e-57}
-{'comparison': ['KCl', 'gene_counts'], 'correl': -0.1572699325118702, 'significance': 9.057218895709056e-65}
-{'comparison': ['MgCl2 x 6 H2O', 'gene_counts'], 'correl': -0.16026182905780081, 'significance': 3.223685984562682e-67}
-{'comparison': ['NH4Cl', 'gene_counts'], 'correl': -0.16283323317259893, 'significance': 2.3188364489328474e-69}
+{'comparison': ['MgSO4 x 7 H2O', 'gene_counts'], 'correl': -0.09524605491904009, 'significance': 1.1677198621600059e-24}
+{'comparison': ['CaCl2 x 2 H2O', 'gene_counts'], 'correl': -0.09736902709929789, 'significance': 1.0577024181231565e-25}
+{'comparison': ['MnSO4 x H2O', 'gene_counts'], 'correl': -0.09920043410332449, 'significance': 1.2768155339216628e-26}
+{'comparison': ['5980', 'gene_counts'], 'correl': -0.10248650236925978, 'significance': 2.603236323897267e-28}
+{'comparison': ['Na2CO3', 'gene_counts'], 'correl': -0.10487071641560013, 'significance': 1.426327662906686e-29}
+{'comparison': ['Tween 80', 'gene_counts'], 'correl': -0.10558420121731726, 'significance': 5.903314598199714e-30}
+{'comparison': ['L-Cysteine HCl x H2O', 'gene_counts'], 'correl': -0.10580034055591168, 'significance': 4.5135478857834974e-30}
+{'comparison': ['Na-acetate', 'gene_counts'], 'correl': -0.120867884264942, 'significance': 8.574050474398401e-39}
+{'comparison': ['KH2PO4', 'gene_counts'], 'correl': -0.129017197518777, 'significance': 5.306221933444444e-44}
+{'comparison': ['NaHCO3', 'gene_counts'], 'correl': -0.13965378958444602, 'significance': 2.528010903488404e-51}
+{'comparison': ['Sodium resazurin', 'gene_counts'], 'correl': -0.14209878869626813, 'significance': 4.318258144677741e-53}
+{'comparison': ['NaCl', 'gene_counts'], 'correl': -0.14351971312044953, 'significance': 3.922635573217595e-54}
+{'comparison': ['Trypticase soy broth', 'gene_counts'], 'correl': -0.14623405287545205, 'significance': 3.7479658538651115e-56}
+{'comparison': ['Na2S x 9 H2O', 'gene_counts'], 'correl': -0.14914377150208405, 'significance': 2.3178424547299218e-58}
+{'comparison': ['KCl', 'gene_counts'], 'correl': -0.1524296973145208, 'significance': 6.553532378860641e-61}
+{'comparison': ['NH4Cl', 'gene_counts'], 'correl': -0.16029111960408782, 'significance': 3.048892869416671e-67}
+{'comparison': ['MgCl2 x 6 H2O', 'gene_counts'], 'correl': -0.16083224778555674, 'significance': 1.08650393351339e-67}

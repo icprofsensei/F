@@ -5,57 +5,52 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.decomposition import PCA
 import matplotlib.pyplot as plt
 from scipy import stats
-import csv
-with open('clean.csv', 'r') as file:
-    csv_reader = csv.reader(file)
-    ncol = len(next(csv_reader))
 
-
-prok = pd.read_csv("prok_ing.csv")
-row_count = prok.shape[0]
-
-for ind in prok.index:
-    pcg = (prok['protein_coding_genes'][ind])
-    if pcg >= 2000:
-        prok['protein_coding_genes'][ind] = 1
-    else:
-        prok['protein_coding_genes'][ind] = 0
-print("rows:" + str(row_count) + " cols: " + str(ncol))
-features = list(prok.columns.values)
-cultures = len(features) - 8
-tax_id = len(features) - 7
-sci_name = len(features) - 6
-chromosome_numbers = len(features) -5
-genome_size = len(features) - 4
-genome_gc_content = len(features) -3
-gene_counts = len(features) -2
-protein_coding_genes = len(features) -1 
-prok.drop(prok.columns[[0, 1, 2, cultures, tax_id, sci_name, chromosome_numbers, genome_size, genome_gc_content, gene_counts]], axis=1, inplace=True)
-#print(prok.head)
-#print(prok.shape)
-features = list(prok.columns.values)
-x = prok.loc[:, features ].values
-x = StandardScaler().fit_transform(x)
-print(x.shape)
-print(np.mean(x), np.std(x))
-feat_cols = ['feature'+str(i) for i in range(x.shape[1])]
-normalised_prok = pd.DataFrame(x, columns = feat_cols)
-print(prok.tail())
-pca_prok = PCA(2)
-principalComponents_Prok = pca_prok.fit_transform(x)
-principal_prok_df = pd.DataFrame(data = principalComponents_Prok, columns = ['principal component 1', 'principal component 2'])
-#Find outliers using Z score
-z = np.abs(stats.zscore(principal_prok_df['principal component 1']))
-threshold_z = 10
-outlier_indices = np.where(z > threshold_z)[0]
-print('Outlier indices:', outlier_indices)
-no_outliers = principal_prok_df.drop(outlier_indices)
-prok = prok.drop(outlier_indices)
-#print(principal_prok_df.tail())
-print('Explained variation per principal component: {}'.format(pca_prok.explained_variance_ratio_))
-plt.scatter(no_outliers['principal component 1'], no_outliers['principal component 2'], s = 2,c= prok['protein_coding_genes'], alpha = 0.5)
-plt.xlabel('Principal Component 1')
-plt.ylabel('Principal Component 2')
-plt.title('Principal Component Analysis of Prokaryote ingredient requirements dataset')
-plt.legend(prok['protein_coding_genes'])
-plt.show()
+# Gold = '#ffd700'
+class PCAProk:
+    def __init__(self, factor, cutoff, zthresh1, zthresh2):
+                self.factor = factor
+                self.cutoff = cutoff
+                self.zthresh1 = zthresh1
+                self.zthresh2 = zthresh2
+    def figmaker(self):
+                        
+                prok = pd.read_csv("PCA.csv")
+                for ind in prok.index:
+                    pcg = (prok[self.factor][ind])
+                    if pcg >= self.cutoff:
+                        prok[self.factor][ind] = 1
+                    else:
+                        prok[self.factor][ind] = 0
+                prok2 = prok
+                prok2.drop(prok2.columns[[0, 1]], axis=1, inplace=True)
+                features = list(prok2.columns.values)
+                x = prok2.loc[:, features ].values
+                x = StandardScaler().fit_transform(x)
+                print(x.shape)
+                print(np.mean(x), np.std(x))
+                pca_prok = PCA(2)
+                principalComponents_Prok = pca_prok.fit_transform(x)
+                principal_prok_df = pd.DataFrame(data = principalComponents_Prok, columns = ['principal component 1', 'principal component 2'])
+                print('Explained variation per principal component: {}'.format(pca_prok.explained_variance_ratio_))
+                #Find outliers using Z score
+                z1 = np.abs(stats.zscore(principal_prok_df['principal component 1']))
+                outlier_indices1 = np.where(z1 > self.zthresh1)[0]
+                z2 = np.abs(stats.zscore(principal_prok_df['principal component 2']))
+                outlier_indices2 = np.where(z2 > self.zthresh2)[0]
+                outliers1 = [o for o in outlier_indices1]
+                outliers2 = [o for o in outlier_indices2]
+                outliers = set(outliers1 + outliers2)
+                outliers = list(outliers)
+                print('Outlier indices:', outliers)
+                no_outliers = principal_prok_df.drop(outliers)
+                prok = prok.drop(outliers)
+                print('Explained variation per principal component: {}'.format(pca_prok.explained_variance_ratio_))
+                label1 = str(self.factor) + '>'+ str(self.cutoff)
+                label2 = str(self.factor) + '<='+ str(self.cutoff)
+                plt.scatter(no_outliers['principal component 1'], no_outliers['principal component 2'], s = 2,c= prok[self.factor], alpha = 0.5, label = prok[self.factor])
+                plt.xlabel('Principal Component 1')
+                plt.ylabel('Principal Component 2')
+                plt.title('Principal Component Analysis of Prokaryote ingredient requirements dataset')
+                plt.legend([label1, label2])
+                plt.show()
