@@ -34,6 +34,6 @@ class tSNEprep:
                   overall.append(data)
             df = pd.DataFrame(overall, columns =list(prok.columns.values) )
             df = df.fillna(0)
-            df.to_csv('tSNE.csv')
+            df.to_csv('Objective4tSNE/tSNE.csv')
             result = tSNEProk(self.factor, self.cutoff, self.groups)
             result.figmaker()

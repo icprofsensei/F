@@ -43,5 +43,6 @@ for i in tolabel:
     textpos = {'1': 'baseline', '2' : 'center', '3': 'top'}
     va = textpos[str(a)]
     plt.text(np.log10(1/float(i[2])), float(i[1]), i[0], fontsize = 9, verticalalignment = va )
+    plt.scatter(np.log10(1/float(i[2])), float(i[1]), i[0], c= '#000000')
     a += 1 
 plt.show()

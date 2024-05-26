@@ -13,7 +13,7 @@ class tSNEProk:
                 self.cutoff = cutoff
                 self.groups = groups
     def figmaker(self):
-                prok2 = pd.read_csv("tSNE.csv")
+                prok2 = pd.read_csv("Objective4tSNE/tSNE.csv")
                 for ind in prok2.index:
                     pcg = (prok2[self.factor][ind])
                     if pcg >= self.cutoff:

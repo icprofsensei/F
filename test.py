@@ -32,3 +32,18 @@ plt.title('Effect of genome size on niche width')
 plt.xlabel('row22')
 plt.ylabel('row180')
 plt.show()
+
+#Rewrite hypotheses
+#Shorten intro
+# 2nd hyp = Niche conservatism
+# Have 3 objectives and 2 hypotheses (1. Niche distribution, 2 . Niche conservatism)
+# Give a draft by next Monday
+
+# For the resource niche widths for objective 1--> Plot the log distribution. (Is it more gaussian?)
+# Make sure axis labels are large (same size as the text)
+# De Long et al paper on genome size and growth rate correlation --> Basis of hypothesis
+# Chris Kempis paper (size scaling laws papers)
+# Could try to fit a polynomial regression (is there a peak in the middle) --> Shows statistical certainty to all three relationships
+# Show certain species on the axes. 
+
+# Potentially move the significant ingredients to supplementary ingredients. 

@@ -3,22 +3,54 @@ import pandas as pd
 df = pd.read_csv("Objective2/NWidth.csv")
 import matplotlib.pyplot as plt
 import numpy as np
-
+import seaborn as sns
+import re
+from scipy.optimize import curve_fit
 #Colours
 #Emerald green  = Protein Coding Genes = #009B77
 # Ruby = Gene Counts = #e0115f
 # Saphire Blue = Genome Size = #0F52BA
 
-
+def Drawer(Factor):
 #Drawing scatter plots (outliers included)
+    FactorasString = " ".join(re.findall('[A-Z][^A-Z]*', Factor))
+    coldict = {'ProteinCodingGenes': '#009B77', 'GeneCounts': '#e0115f', 'GenomeSize': '#0F52BA'}
+    col = coldict[Factor]
+    xarray = np.log10(df[Factor])
+    yarray = np.log10(df['NicheWidth'])
+    newdf = pd.DataFrame(zip(xarray, yarray), columns = ['log10 ('+ FactorasString + ')', 'log10(Niche Width)'])
+    #plt.figure(figsize=(10, 8))
+    #scatter_plot = sns.scatterplot(x='log10 (Genome Size)', y='log10(Niche Width)', data = newdf, palette='Set1', s=100)
+    tolabel = {386585.0: 'E. coli',99287: 'S. enterica~Typhimurium',208964: 'P. aeruginosa',1313.0: 'S. pneumoniae'}
+    scatter_plot = sns.lmplot(newdf, x='log10 ('+ FactorasString + ')', y='log10(Niche Width)',fit_reg = True, order = 4, scatter_kws={"s": 20, 'color': col }, line_kws = {'color': "000000"})
 
-plt.scatter(np.log10(df['GenomeSize']), np.log10(df['NicheWidth']), c = '#0F52BA', s = 10, alpha = 0.5)
-plt.title('Effect of genome size on niche width')
-plt.xlabel('log10 (GenomeSize)')
-plt.ylabel('log 10 (Niche Width)')
-plt.show()
+    scatter_plot.set_xlabels('log10 ('+ FactorasString + ')', fontdict = {'size': 18})
+    scatter_plot.set_ylabels('log10 (Niche Width)', fontdict = {'size': 18})
+    plt.title('Effect of ' + FactorasString + ' on niche width', fontdict = {'size': 23})
+    a=2
+    X = []
+    Y = []
+    for i in tolabel.keys():
+        if a ==4:
+            a = 1
+        textpos = {'1': 'baseline', '2' : 'center', '3': 'top'}
+        va = textpos[str(a)]
+        for index, row in df.iterrows():
+                id = int(row['TaxID'])
+                if id == i:
+                    x = np.log10(row[Factor])
+                    y = np.log10(row['NicheWidth'])
+                    X.append(x)
+                    Y.append(y)
+                    plt.text(x, y, tolabel[i], fontsize = 12, verticalalignment = va )
+                    a += 1 
+                else:
+                     continue
+    plt.scatter(X,Y, c = '#000000', s = 5)
+    plt.grid(True)
+    plt.show()
 
-
+Drawer('GeneCounts')
 #remove outliers
 '''
 
