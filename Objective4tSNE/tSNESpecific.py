@@ -160,6 +160,20 @@ class tSNElineage2:
                               data.append(11)
                         elif str(item).split()[self.rank] == self.searchtaxa[11]:
                               data.append(12)
+                        elif str(item).split()[self.rank] == self.searchtaxa[12]:
+                              data.append(13)
+                        elif str(item).split()[self.rank] == self.searchtaxa[13]:
+                              data.append(14)
+                        elif str(item).split()[self.rank] == self.searchtaxa[14]:
+                              data.append(15)
+                        elif str(item).split()[self.rank] == self.searchtaxa[15]:
+                              data.append(16)
+                        elif str(item).split()[self.rank] == self.searchtaxa[16]:
+                              data.append(17)
+                        elif str(item).split()[self.rank] == self.searchtaxa[17]:
+                              data.append(18)
+                        elif str(item).split()[self.rank] == self.searchtaxa[18]:
+                              data.append(19)
                         else:
                               data.append(0)
 
@@ -194,14 +208,14 @@ class tSNElineage2:
             # Predict cluster labels
             #labels = kmeans.labels_
             labels = prok2[self.factor]
-            label_mapping = {0: ("Other"), 1: (str(self.factor) + " " + str(self.searchtaxa[0])), 2: (str(self.factor) + " " + str(self.searchtaxa[1])), 3: (str(self.factor) + " " + str(self.searchtaxa[2])), 4: (str(self.factor) + " " + str(self.searchtaxa[3])), 5: (str(self.factor) + " " + str(self.searchtaxa[4])), 6: (str(self.factor) + " " + str(self.searchtaxa[5])), 7: (str(self.factor) + " " + str(self.searchtaxa[6])), 8: (str(self.factor) + " " + str(self.searchtaxa[7])), 9: (str(self.factor) + " " + str(self.searchtaxa[8])), 10: (str(self.factor) + " " + str(self.searchtaxa[9])), 11: (str(self.factor) + " " + str(self.searchtaxa[10])), 12: (str(self.factor) + " " + str(self.searchtaxa[11]))}
+            label_mapping = {0: ("Other"), 1: (str(self.factor) + " " + str(self.searchtaxa[0])), 2: (str(self.factor) + " " + str(self.searchtaxa[1])), 3: (str(self.factor) + " " + str(self.searchtaxa[2])), 4: (str(self.factor) + " " + str(self.searchtaxa[3])), 5: (str(self.factor) + " " + str(self.searchtaxa[4])), 6: (str(self.factor) + " " + str(self.searchtaxa[5])), 7: (str(self.factor) + " " + str(self.searchtaxa[6])), 8: (str(self.factor) + " " + str(self.searchtaxa[7])), 9: (str(self.factor) + " " + str(self.searchtaxa[8])), 10: (str(self.factor) + " " + str(self.searchtaxa[9])), 11: (str(self.factor) + " " + str(self.searchtaxa[10])), 12: (str(self.factor) + " " + str(self.searchtaxa[11])), 13: (str(self.factor) + " " + str(self.searchtaxa[12])), 14: (str(self.factor) + " " + str(self.searchtaxa[13])), 15: (str(self.factor) + " " + str(self.searchtaxa[14])), 16: (str(self.factor) + " " + str(self.searchtaxa[15])), 17: (str(self.factor) + " " + str(self.searchtaxa[16])), 18: (str(self.factor) + " " + str(self.searchtaxa[17])), 19: (str(self.factor) + " " + str(self.searchtaxa[18]))}
 
             # Map the labels using the mapping
             mapped_labels = pd.Series(labels).map(label_mapping)
 
             # Perform t-SNE for dimensionality reduction
             # n_components = how many dimensions should the data be reduced to, random_state = Seed for random number generation, method = method used is barnes hut to accelerate processing of large datasets, n_iter = Max number of iterations for optimization, angle = (theta) = Trade-off parameter in barnes-hut. 0.5 is a balance between speed and accuracy. Lower means more accurate and low, higher means less accurate and quick. 
-            tsne = TSNE(n_components=2, random_state=42, method='barnes_hut',perplexity = 60,learning_rate = 1000, n_iter=1500, early_exaggeration=20, angle=0.5)
+            tsne = TSNE(n_components=2, random_state=42, method='barnes_hut',perplexity = 60,learning_rate = 1000, n_iter=2000, early_exaggeration=20, angle=0.5)
             tsne_coords = tsne.fit_transform(sparse_data.toarray())
             tw = trustworthiness(sparse_data.toarray(), tsne_coords)
             print(f"Trustworthiness of the t-SNE embedding: {tw:.4f}")

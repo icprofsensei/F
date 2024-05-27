@@ -68,7 +68,7 @@ class tSNElineage:
             prok2 = pd.read_csv("Objective4tSNE/tSNE.csv")
             prok2.drop(prok2.columns[[0, 1]], axis=1, inplace=True)
             counts = prok2[self.factor].value_counts().to_frame()
-            print(counts.head(12))
+            print(counts.head(20))
             count = 0
             #print(counts)
             for i in range(len(counts)):
