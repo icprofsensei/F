@@ -1,4 +1,4 @@
-This is repository contains data and python scripts for my paper on 'Quantifying the Prokaryotic Resource Niche'. 
+This repository contains data and python scripts for my paper on 'Quantifying the Prokaryotic Resource Niche'. 
 The data is split into two main files: 
 clean.csv is the main dataset which contains each species, its growth medium, fundamental niche characteristics and other growth media information.
 base.csv contains same information as clean.csv, however units are removed for easier numerical comparisons, additional growth media are also removed. 
